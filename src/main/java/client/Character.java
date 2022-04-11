@@ -139,7 +139,7 @@ public class Character extends AbstractCharacterObject {
     private transient int equipmaxhp, equipmaxmp, equipstr, equipdex, equipluk, equipint_, equipmagic, equipwatk, localchairhp, localchairmp;
     private int localchairrate;
     private boolean hidden, equipchanged = true, berserk, hasMerchant, hasSandboxItem = false, whiteChat = false, canRecvPartySearchInvite = true;
-    private boolean equippedMesoMagnet = false, equippedItemPouch = false, equippedPetItemIgnore = false;
+    private boolean equippedMesoMagnet = false, equippedItemPouch = false, equippedPetItemIgnore = false, equippedMagicScale = false;
     private boolean usedSafetyCharm = false;
     private float autopotHpAlert, autopotMpAlert;
     private int linkedLevel = 0;
@@ -10338,6 +10338,9 @@ public class Character extends AbstractCharacterObject {
         return equippedMesoMagnet;
     }
 
+    public boolean isEquippedMagicScale() {
+        return equippedMagicScale;
+    }
     public boolean isEquippedItemPouch() {
         return equippedItemPouch;
     }
