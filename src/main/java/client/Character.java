@@ -10313,7 +10313,9 @@ public class Character extends AbstractCharacterObject {
             this.equipPendantOfSpirit();
         } else if (itemid == ItemId.MESO_MAGNET) {
             equippedMesoMagnet = true;
-        } else if (itemid == ItemId.ITEM_POUCH) {
+        } else if (itemid == ItemId.MAGIC_SCALES){
+            equippedMagicScale = true;
+        }else if (itemid == ItemId.ITEM_POUCH) {
             equippedItemPouch = true;
         } else if (itemid == ItemId.ITEM_IGNORE) {
             equippedPetItemIgnore = true;
@@ -10327,6 +10329,8 @@ public class Character extends AbstractCharacterObject {
             this.unequipPendantOfSpirit();
         } else if (itemid == ItemId.MESO_MAGNET) {
             equippedMesoMagnet = false;
+        } else if (itemid == ItemId.MAGIC_SCALES){
+            equippedMagicScale = false;
         } else if (itemid == ItemId.ITEM_POUCH) {
             equippedItemPouch = false;
         } else if (itemid == ItemId.ITEM_IGNORE) {
