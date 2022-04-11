@@ -1,0 +1,12 @@
+﻿/logs/**
+.idea/
+*.iml
+/target
+
+# build files
+/build/
+/dist/
+/nbproject/
+
+/out
+*.onetoc2
