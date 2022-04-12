@@ -106,7 +106,7 @@ function action(mode, type, selection) {
 
     } else if (status == 2) {
         if (beauty == 1) {
-            cm.setSkin(skin[selection]);
+            cm.setSkin(skin[selection-1]);
             cm.gainMeso(-price);
         }
         if (beauty == 2 || beauty == 6) {
