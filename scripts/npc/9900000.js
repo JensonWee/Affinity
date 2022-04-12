@@ -79,7 +79,6 @@ function action(mode, type, selection) {
                 pushIfItemExists(hairnew, i);
                 //hairnew.push(i);
 				cm.sendStyle("Pick one?", hairnew);
-				cm.sendNext("Selection :"+selection + " hairnew[selection]"+ hairnew[selection]);
             } else if (selection == 2) {
                 var baseHair = parseInt(cm.getPlayer().getHair() / 10) * 10;
                 for (var k = 0; k < 8; k++) {
