@@ -72,12 +72,9 @@ function action(mode, type, selection) {
             if (selection == 0) {
                 cm.sendStyle("Pick one?", skin);
             } else if (selection == 1 || selection == 5) {
-                for each(var i
-            in
-                selection == 1 ? hair : fhair
-            )
-                pushIfItemExists(hairnew, i);
-                //hairnew.push(i);
+                for each(var i in selection == 1 ? hair : fhair) {
+					pushIfItemExists(hairnew, i);
+				}
 				cm.sendStyle("Pick one?", hairnew);
             } else if (selection == 2) {
                 var baseHair = parseInt(cm.getPlayer().getHair() / 10) * 10;
