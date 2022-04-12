@@ -79,7 +79,7 @@ function action(mode, type, selection) {
 				}
 				cm.sendStyle("Pick one?", hairnew);
 			} else if (selection == 2 || selection == 7) {
-                for each(var i in selection == 1 ? hair1 : fhair1) {
+                for each(var i in selection == 2 ? hair1 : fhair1) {
 					pushIfItemExists(hairnew, i);
 				}
 				cm.sendStyle("Pick one?", hairnew);
