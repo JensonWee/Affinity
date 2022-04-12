@@ -27,10 +27,10 @@ import provider.wz.XMLWZFile;
 import java.io.File;
 
 public class DataProviderFactory {
+    private final static String wzPath = System.getProperty("wzpath");
     private static DataProvider getWZ(File in) {
         return new XMLWZFile(in);
     }
-
     public static DataProvider getDataProvider(WZFiles in) {
         return getWZ(in.getFile());
     }
