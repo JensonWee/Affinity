@@ -384,7 +384,6 @@ public class Character extends AbstractCharacterObject {
         ret.accountid = c.getAccID();
         ret.buddylist = new BuddyList(20);
         ret.maplemount = null;
-        ret.getCashShop().gainCash(1, 999999);
         ret.getInventory(InventoryType.EQUIP).setSlotLimit(100);
         ret.getInventory(InventoryType.USE).setSlotLimit(100);
         ret.getInventory(InventoryType.SETUP).setSlotLimit(100);

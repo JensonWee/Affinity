@@ -54,7 +54,7 @@ public abstract class CharacterFactory {
         newchar.setName(name);
         newchar.setHair(hair);
         newchar.setFace(face);
-
+        newchar.getCashShop().gainCash(1, 999999);
         newchar.setLevel(recipe.getLevel());
         newchar.setJob(recipe.getJob());
         newchar.setMapId(recipe.getMap());
