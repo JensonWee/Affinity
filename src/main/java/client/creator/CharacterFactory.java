@@ -94,7 +94,6 @@ public abstract class CharacterFactory {
         c.sendPacket(PacketCreator.addNewCharEntry(newchar));
 
         Server.getInstance().createCharacterEntry(newchar);
-        c.getWorldServer().getPlayerStorage().getCharacterByName(name).getCashShop().gainCash(1, 999999);
         Server.getInstance().broadcastGMMessage(c.getWorld(), PacketCreator.sendYellowTip("[New Char]: " + c.getAccountName() + " has created a new character with IGN " + name));
         log.info("Account {} created chr with name {}", c.getAccountName(), name);
 
