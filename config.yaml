@@ -3,9 +3,9 @@
 #Recommended to use only up to 15 worlds
 worlds:
     #Properties for Scania 0
-  - flag: 3
+  - flag: 0
     server_message: Welcome to Affinity!
-    event_message: Scania!
+    event_message: Welcome to Affinity!
     why_am_i_recommended: Welcome to Affinity!
     channels: 3
     exp_rate: 1000
