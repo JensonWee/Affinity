@@ -7328,6 +7328,7 @@
 <string name="name" value="Floral Fireworks Hat"/>
 </imgdir>
 <imgdir name="1004823">
+<string name="name" value="????"/>
 </imgdir>
 <imgdir name="1004824">
 <string name="name" value="Well-Liked Barrette"/>
@@ -11188,6 +11189,7 @@
 <string name="name" value="Popsicle Pals"/>
 </imgdir>
 <imgdir name="1102952">
+<string name="name" value="????"/>
 </imgdir>
 <imgdir name="1102953">
 <string name="name" value="Kamaitachi Tail"/>
@@ -61067,6 +61069,7 @@
 <string name="name" value="Grand Pony Get-up"/>
 </imgdir>
 <imgdir name="1050434">
+<string name="name" value="????"/>
 </imgdir>
 <imgdir name="1050435">
 <string name="name" value="Midnight Suit"/>
@@ -62563,6 +62566,7 @@
 <string name="name" value="Grand Pony Get-up"/>
 </imgdir>
 <imgdir name="1051502">
+<string name="name" value="????"/>
 </imgdir>
 <imgdir name="1051503">
 <string name="name" value="Pitch Dark Poem"/>
@@ -68709,8 +68713,10 @@
 <string name="desc" value="Arcana Spirit Energy for#c Small Spirit, Rock Spirit, and Tree Spirit#."/>
 </imgdir>
 <imgdir name="1802598">
+<string name="name" value="????"/>
 </imgdir>
 <imgdir name="1802599">
+<string name="name" value="????"/>
 </imgdir>
 <imgdir name="1802603">
 <string name="name" value="Space Kids"/>
@@ -73529,6 +73535,7 @@
 <string name="name" value="Winged Pony Boots"/>
 </imgdir>
 <imgdir name="1073165">
+<string name="name" value="????"/>
 </imgdir>
 <imgdir name="1073166">
 <string name="name" value="Bosshunter Greaves"/>
@@ -93772,6 +93779,7 @@
 <string name="name" value="Genesis Ancient Bow"/>
 </imgdir>
 <imgdir name="1592023">
+<string name="name" value="????"/>
 </imgdir>
 <imgdir name="1592024">
 <string name="name" value="Special Marad Ancient Bow"/>
