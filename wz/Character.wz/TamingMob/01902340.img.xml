@@ -266,56 +266,6 @@
 <int name="delay" value="250"/>
 </imgdir>
 </imgdir>
-<imgdir name="tired">
-<imgdir name="0">
-<canvas name="0" width="137" height="106">
-<vector name="origin" x="89" y="102"/>
-<vector name="lt" x="-62" y="-85"/>
-<vector name="rb" x="68" y="0"/>
-<imgdir name="map">
-<vector name="navel" x="1" y="-37"/>
-</imgdir>
-<string name="z" value="tamingMobRear"/>
-</canvas>
-<int name="delay" value="100"/>
-</imgdir>
-<imgdir name="1">
-<canvas name="0" width="137" height="108">
-<vector name="origin" x="89" y="104"/>
-<vector name="lt" x="-70" y="-84"/>
-<vector name="rb" x="65" y="0"/>
-<imgdir name="map">
-<vector name="navel" x="1" y="-37"/>
-</imgdir>
-<string name="z" value="tamingMobRear"/>
-</canvas>
-<int name="delay" value="100"/>
-</imgdir>
-<imgdir name="2">
-<canvas name="0" width="137" height="110">
-<vector name="origin" x="89" y="106"/>
-<vector name="lt" x="-75" y="-84"/>
-<vector name="rb" x="58" y="0"/>
-<imgdir name="map">
-<vector name="navel" x="1" y="-37"/>
-</imgdir>
-<string name="z" value="tamingMobRear"/>
-</canvas>
-<int name="delay" value="100"/>
-</imgdir>
-<imgdir name="3">
-<canvas name="0" width="137" height="106">
-<vector name="origin" x="89" y="102"/>
-<vector name="lt" x="-84" y="-89"/>
-<vector name="rb" x="60" y="-10"/>
-<imgdir name="map">
-<vector name="navel" x="1" y="-37"/>
-</imgdir>
-<string name="z" value="tamingMobRear"/>
-</canvas>
-<int name="delay" value="100"/>
-</imgdir>
-</imgdir>
 <imgdir name="jump">
 <imgdir name="0">
 <canvas name="0" width="165" height="118">

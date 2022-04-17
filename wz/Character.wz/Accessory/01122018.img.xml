@@ -24,7 +24,5 @@
 <int name="price" value="1"/>
 <int name="tuc" value="3"/>
 <int name="cash" value="0"/>
-<int name="tradeBlock" value="1"/>
-<int name="timeLimited" value="1"/>
 </imgdir>
 </imgdir>

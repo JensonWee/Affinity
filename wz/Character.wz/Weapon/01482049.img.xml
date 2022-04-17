@@ -14,7 +14,7 @@
 <short name="attack" value="8"/>
 <string name="afterImage" value="knuckle"/>
 <string name="sfx" value="knuckle"/>
-<int name="reqJob" value="16"/>
+<int name="reqJob" value="0"/>
 <int name="reqLevel" value="95"/>
 <int name="reqSTR" value="0"/>
 <int name="reqDEX" value="0"/>

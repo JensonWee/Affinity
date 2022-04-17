@@ -14,7 +14,7 @@
 <short name="attack" value="2"/>
 <string name="afterImage" value="poleArm"/>
 <string name="sfx" value="poleArm"/>
-<int name="reqJob" value="13"/>
+<int name="reqJob" value="0"/>
 <int name="reqLevel" value="10"/>
 <int name="reqSTR" value="0"/>
 <int name="reqDEX" value="0"/>

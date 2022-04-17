@@ -24,7 +24,7 @@
 <int name="incACC" value="35"/>
 <int name="incSTR" value="1"/>
 <int name="tuc" value="7"/>
-<int name="price" value="190000"/>
+<int name="price" value="22000"/>
 <int name="attackSpeed" value="5"/>
 <int name="cash" value="0"/>
 <int name="tradeBlock" value="1"/>

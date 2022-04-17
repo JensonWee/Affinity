@@ -7,6 +7,7 @@
 </canvas>
 <canvas name="iconRaw" width="32" height="32">
 <vector name="origin" x="0" y="32"/>
+<string name="source" value="Item/Cash/0536.img/05360000/info/icon"/>
 </canvas>
 <int name="cash" value="1"/>
 <int name="slotMax" value="1"/>
@@ -29,6 +30,7 @@
 </canvas>
 <canvas name="iconRaw" width="32" height="32">
 <vector name="origin" x="0" y="32"/>
+<string name="source" value="Item/Cash/0536.img/05360001/info/icon"/>
 </canvas>
 <int name="cash" value="1"/>
 <int name="slotMax" value="1"/>
@@ -48,9 +50,11 @@
 <imgdir name="info">
 <canvas name="icon" width="32" height="32">
 <vector name="origin" x="0" y="32"/>
+<string name="source" value="Item/Cash/0536.img/05360001/info/icon"/>
 </canvas>
 <canvas name="iconRaw" width="32" height="32">
 <vector name="origin" x="0" y="32"/>
+<string name="source" value="Item/Cash/0536.img/05360001/info/icon"/>
 </canvas>
 <int name="cash" value="1"/>
 <int name="slotMax" value="1"/>
@@ -70,9 +74,11 @@
 <imgdir name="info">
 <canvas name="icon" width="32" height="32">
 <vector name="origin" x="0" y="32"/>
+<string name="source" value="Item/Cash/0536.img/05360001/info/icon"/>
 </canvas>
 <canvas name="iconRaw" width="32" height="32">
 <vector name="origin" x="0" y="32"/>
+<string name="source" value="Item/Cash/0536.img/05360001/info/icon"/>
 </canvas>
 <int name="cash" value="1"/>
 <int name="slotMax" value="1"/>
@@ -92,9 +98,11 @@
 <imgdir name="info">
 <canvas name="icon" width="32" height="32">
 <vector name="origin" x="0" y="32"/>
+<string name="source" value="Item/Cash/0536.img/05360001/info/icon"/>
 </canvas>
 <canvas name="iconRaw" width="32" height="32">
 <vector name="origin" x="0" y="32"/>
+<string name="source" value="Item/Cash/0536.img/05360001/info/icon"/>
 </canvas>
 <int name="cash" value="1"/>
 <int name="slotMax" value="1"/>
@@ -114,9 +122,11 @@
 <imgdir name="info">
 <canvas name="icon" width="32" height="32">
 <vector name="origin" x="0" y="32"/>
+<string name="source" value="Item/Cash/0536.img/05360001/info/icon"/>
 </canvas>
 <canvas name="iconRaw" width="32" height="32">
 <vector name="origin" x="0" y="32"/>
+<string name="source" value="Item/Cash/0536.img/05360001/info/icon"/>
 </canvas>
 <int name="cash" value="1"/>
 <int name="slotMax" value="1"/>
@@ -136,9 +146,11 @@
 <imgdir name="info">
 <canvas name="icon" width="32" height="32">
 <vector name="origin" x="0" y="32"/>
+<string name="source" value="Item/Cash/0536.img/05360001/info/icon"/>
 </canvas>
 <canvas name="iconRaw" width="32" height="32">
 <vector name="origin" x="0" y="32"/>
+<string name="source" value="Item/Cash/0536.img/05360001/info/icon"/>
 </canvas>
 <int name="cash" value="1"/>
 <int name="slotMax" value="1"/>
@@ -158,9 +170,11 @@
 <imgdir name="info">
 <canvas name="icon" width="32" height="32">
 <vector name="origin" x="0" y="32"/>
+<string name="source" value="Item/Cash/0536.img/05360001/info/icon"/>
 </canvas>
 <canvas name="iconRaw" width="32" height="32">
 <vector name="origin" x="0" y="32"/>
+<string name="source" value="Item/Cash/0536.img/05360001/info/icon"/>
 </canvas>
 <int name="cash" value="1"/>
 <int name="slotMax" value="1"/>
@@ -180,9 +194,11 @@
 <imgdir name="info">
 <canvas name="icon" width="32" height="32">
 <vector name="origin" x="0" y="32"/>
+<string name="source" value="Item/Cash/0536.img/05360001/info/icon"/>
 </canvas>
 <canvas name="iconRaw" width="32" height="32">
 <vector name="origin" x="0" y="32"/>
+<string name="source" value="Item/Cash/0536.img/05360001/info/icon"/>
 </canvas>
 <int name="cash" value="1"/>
 <int name="slotMax" value="1"/>
@@ -199,6 +215,73 @@
 </imgdir>
 </imgdir>
 <imgdir name="05360042">
+<imgdir name="info">
+<canvas name="icon" width="32" height="32">
+<vector name="origin" x="0" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="32" height="32">
+<vector name="origin" x="0" y="32"/>
+<string name="source" value="Item/Cash/0536.img/05360042/info/icon"/>
+</canvas>
+<int name="cash" value="1"/>
+<int name="slotMax" value="1"/>
+<float name="rate" value="2.0"/>
+<imgdir name="time">
+<string name="0" value="MON:00-24"/>
+<string name="1" value="TUE:00-24"/>
+<string name="2" value="WED:00-24"/>
+<string name="3" value="THU:00-24"/>
+<string name="4" value="FRI:00-24"/>
+<string name="5" value="SAT:00-24"/>
+<string name="6" value="SUN:00-24"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="05360055">
+<imgdir name="info">
+<canvas name="icon" width="32" height="32">
+<vector name="origin" x="0" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="32" height="32">
+<vector name="origin" x="0" y="32"/>
+</canvas>
+<int name="cash" value="1"/>
+<int name="slotMax" value="1"/>
+<float name="rate" value="2.0"/>
+<imgdir name="time">
+<string name="0" value="MON:00-24"/>
+<string name="1" value="TUE:00-24"/>
+<string name="2" value="WED:00-24"/>
+<string name="3" value="THU:00-24"/>
+<string name="4" value="FRI:00-24"/>
+<string name="5" value="SAT:00-24"/>
+<string name="6" value="SUN:00-24"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="05360056">
+<imgdir name="info">
+<canvas name="icon" width="32" height="32">
+<vector name="origin" x="0" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="32" height="32">
+<vector name="origin" x="0" y="32"/>
+</canvas>
+<int name="cash" value="1"/>
+<int name="slotMax" value="1"/>
+<float name="rate" value="2.0"/>
+<imgdir name="time">
+<string name="0" value="MON:00-24"/>
+<string name="1" value="TUE:00-24"/>
+<string name="2" value="WED:00-24"/>
+<string name="3" value="THU:00-24"/>
+<string name="4" value="FRI:00-24"/>
+<string name="5" value="SAT:00-24"/>
+<string name="6" value="SUN:00-24"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="05360057">
 <imgdir name="info">
 <canvas name="icon" width="32" height="32">
 <vector name="origin" x="0" y="32"/>

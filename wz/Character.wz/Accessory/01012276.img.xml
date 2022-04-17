@@ -24,7 +24,7 @@
 <imgdir name="map">
 <vector name="brow" x="0" y="0"/>
 </imgdir>
-<string name="z" value="accessoryFaceOverFaceBelowCap"/>
+<string name="z" value="accessoryFaceBelowFace"/>
 </canvas>
 </imgdir>
 <imgdir name="blink">

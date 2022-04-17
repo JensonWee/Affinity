@@ -7554,6 +7554,92 @@
 <string name="name" value="NimaKIN"/>
 <string name="n0" value="You&apos;ll be able to level up if you&apos;re here with the GM"/>
 </imgdir>
+<imgdir name="9390304">
+<string name="name" value="Granny Rosanna"/>
+<string name="d0" value="You&apos;re just going to skin your knees up, running around like that!"/>
+<string name="d1" value="You&apos;re just going to skin your knees up, running around like that!"/>
+<string name="func" value="All In One"/>
+</imgdir>
+<imgdir name="9390305">
+<string name="name" value="Ms. Hilga"/>
+<string name="d0" value="You need a warm heart and a willingness to help anyone if you want to become a true hero."/>
+<string name="d1" value="You need a warm heart and a willingness to help anyone if you want to become a true hero."/>
+<string name="func" value="Stylist"/>
+</imgdir>
+<imgdir name="9390306">
+<string name="name" value="Bran"/>
+<string name="d0" value="Bah! You&apos;re just playin&apos; pranks!"/>
+<string name="d1" value="Bah! You&apos;re just playin&apos; pranks!"/>
+<string name="func" value="JQ"/>
+</imgdir>
+<imgdir name="9390307">
+<string name="name" value="Old Man Otis"/>
+<string name="d0" value="Don&apos;t be fooled! These old hands are still strong."/>
+<string name="d1" value="Don&apos;t be fooled! These old hands are still strong."/>
+<string name="func" value="MSI / RSI"/>
+</imgdir>
+<imgdir name="9390308">
+<string name="name" value="Marvin"/>
+<string name="d0" value="You&apos;ve got the courage you need."/>
+<string name="d1" value="You&apos;ve got the courage you need."/>
+<string name="func" value="Professions"/>
+</imgdir>
+<imgdir name="9390309">
+<string name="name" value="Kayor"/>
+<string name="d0" value="Wow, look at that butterfly!"/>
+<string name="d1" value="Wow, look at that butterfly!"/>
+<string name="func" value="Houses"/>
+</imgdir>
+<imgdir name="9390310">
+<string name="name" value="Town Kids"/>
+<string name="d0" value="Heeheehee"/>
+<string name="d1" value="Heeheehee"/>
+<string name="func" value="Minigames"/>
+</imgdir>
+<imgdir name="9390311">
+<string name="name" value="Town NPC 3"/>
+</imgdir>
+<imgdir name="9390314">
+<string name="name" value="Bluffing Tom"/>
+<string name="d0" value="It really was a Kobold! See?!"/>
+<string name="d1" value="It really was a Kobold! See?!"/>
+<string name="func" value="Bootcamp"/>
+</imgdir>
+<imgdir name="9390320">
+<string name="name" value="Grandma Tom"/>
+<string name="d0" value="Shh! Lower your voice. You&apos;ll wake the baby."/>
+<string name="d1" value="Shh! Lower your voice. You&apos;ll wake the baby."/>
+<string name="n0" value="Rock-a-bye baby..."/>
+<string name="n1" value="Rock-a-bye baby..."/>
+<string name="func" value="Features"/>
+</imgdir>
+<imgdir name="9390321">
+<string name="name" value="Jenny"/>
+<string name="n0" value="Wow! A glowing butterfly!"/>
+<string name="n1" value="Wow! A glowing butterfly!"/>
+</imgdir>
+<imgdir name="9390322">
+<string name="name" value="Woodrock&apos;s Grandkids"/>
+<string name="n0" value="Ah hahahaha!"/>
+<string name="n1" value="Ah hahahaha!"/>
+</imgdir>
+<imgdir name="9390323">
+<string name="name" value="Placeholder"/>
+<string name="d0" value="Ugh... Ugh ugh..."/>
+<string name="d1" value="Ugh... Ugh ugh..."/>
+</imgdir>
+<imgdir name="9390332">
+<string name="name" value="Functional Villagers"/>
+<string name="d1" value="I think it&apos;s what&apos;s inside that counts. And I have all the tools to get in there."/>
+<string name="func" value="Plastic Surgeon"/>
+<string name="d0" value="I think it&apos;s what&apos;s inside that counts. And I have all the tools to get in there."/>
+</imgdir>
+<imgdir name="9390334">
+<string name="name" value="Functional Villagers"/>
+<string name="d0" value="Your hair is like a bunch of old ruins... dry, dusty, and full of spiders."/>
+<string name="d1" value="Your hair is like a bunch of old ruins... dry, dusty, and full of spiders."/>
+<string name="func" value="Head Hairstylist"/>
+</imgdir>
 <imgdir name="9901000">
 <string name="n0" value="I am /name who achieved level 200."/>
 <string name="n1" value="It would be better if you speak with &quot;Dances with Balrog&quot; to change your job to Warrior."/>

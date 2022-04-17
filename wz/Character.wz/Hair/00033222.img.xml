@@ -274,9 +274,8 @@
 </imgdir>
 <imgdir name="swingTF">
 <imgdir name="0">
-<uol name="hairOverHead" value="../../default/hairOverHead"/>
-<uol name="hair" value="../../default/hair"/>
-<uol name="hairShade" value="../../default/hairShade"/>
+<uol name="backHair" value="../../backDefault/backHair"/>
+<uol name="backHairBelowCap" value="../../backDefault/backHairBelowCap"/>
 </imgdir>
 <imgdir name="1">
 <uol name="hairOverHead" value="../../walk1/1/hairOverHead"/>

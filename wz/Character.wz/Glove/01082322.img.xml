@@ -23,7 +23,7 @@
 <int name="tuc" value="5"/>
 <int name="price" value="10000"/>
 <int name="cash" value="0"/>
-<int name="setItemID" value="34"/>
+<int name="setItemID" value="81"/>
 <int name="tradeBlock" value="1"/>
 <int name="charmEXP" value="40"/>
 </imgdir>

@@ -14,7 +14,7 @@
 <short name="attack" value="7"/>
 <string name="afterImage" value="swordOL"/>
 <string name="sfx" value="tGlove"/>
-<int name="reqJob" value="8"/>
+<int name="reqJob" value="0"/>
 <int name="reqLevel" value="64"/>
 <int name="reqSTR" value="0"/>
 <int name="reqDEX" value="0"/>
@@ -24,7 +24,7 @@
 <int name="incLUK" value="3"/>
 <int name="incEVA" value="25"/>
 <int name="tuc" value="7"/>
-<int name="price" value="270000"/>
+<int name="price" value="30000"/>
 <int name="attackSpeed" value="3"/>
 <int name="cash" value="0"/>
 </imgdir>

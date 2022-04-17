@@ -27,7 +27,6 @@
 <int name="setItemID" value="6"/>
 <int name="tradeBlock" value="1"/>
 <int name="tradeAvailable" value="2"/>
-<int name="charmEXP" value="80"/>
 </imgdir>
 <imgdir name="walk1">
 <imgdir name="0">

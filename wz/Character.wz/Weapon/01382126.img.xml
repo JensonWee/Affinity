@@ -15,12 +15,12 @@
 <string name="afterImage" value="mace"/>
 <string name="sfx" value="mace"/>
 <int name="tuc" value="8"/>
-<int name="reqJob" value="2"/>
+<int name="reqJob" value="0"/>
 <int name="reqLevel" value="125"/>
 <int name="reqSTR" value="0"/>
 <int name="reqDEX" value="0"/>
-<int name="reqINT" value="363"/>
-<int name="reqLUK" value="123"/>
+<int name="reqINT" value="0"/>
+<int name="reqLUK" value="0"/>
 <int name="incPAD" value="89"/>
 <int name="incMAD" value="146"/>
 <int name="incINT" value="6"/>

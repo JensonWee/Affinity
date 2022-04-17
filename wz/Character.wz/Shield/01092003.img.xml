@@ -17,7 +17,7 @@
 <int name="reqLUK" value="0"/>
 <int name="incPDD" value="5"/>
 <int name="tuc" value="7"/>
-<int name="price" value="1000"/>
+<int name="price" value="200"/>
 <int name="cash" value="0"/>
 </imgdir>
 <imgdir name="walk1">

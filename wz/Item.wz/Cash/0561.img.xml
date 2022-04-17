@@ -7,6 +7,7 @@
 </canvas>
 <canvas name="iconRaw" width="32" height="32">
 <vector name="origin" x="0" y="33"/>
+<string name="source" value="Item/Cash/0561.img/05610000/info/icon"/>
 </canvas>
 <int name="cash" value="1"/>
 </imgdir>
@@ -18,6 +19,7 @@
 </canvas>
 <canvas name="iconRaw" width="32" height="32">
 <vector name="origin" x="0" y="33"/>
+<string name="source" value="Item/Cash/0561.img/05610001/info/icon"/>
 </canvas>
 <int name="cash" value="1"/>
 </imgdir>

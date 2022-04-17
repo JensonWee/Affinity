@@ -260,27 +260,6 @@
 <uol name="delay" value="../../stand1/3/delay"/>
 </imgdir>
 </imgdir>
-<imgdir name="tired">
-<imgdir name="0">
-<canvas name="0" width="96" height="62">
-<vector name="origin" x="55" y="59"/>
-<vector name="lt" x="-31" y="-69"/>
-<vector name="rb" x="37" y="-3"/>
-<imgdir name="map">
-<vector name="navel" x="2" y="-36"/>
-</imgdir>
-<string name="z" value="tamingMobMid"/>
-</canvas>
-<canvas name="1" width="49" height="34">
-<vector name="origin" x="25" y="64"/>
-<imgdir name="map">
-<vector name="navel" x="2" y="-36"/>
-</imgdir>
-<string name="z" value="tamingMobRear"/>
-</canvas>
-<int name="delay" value="200"/>
-</imgdir>
-</imgdir>
 <imgdir name="jump">
 <imgdir name="0">
 <canvas name="0" width="67" height="69">

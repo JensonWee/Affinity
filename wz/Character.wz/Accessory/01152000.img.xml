@@ -28,7 +28,8 @@
 <int name="cash" value="0"/>
 <int name="tradeBlock" value="1"/>
 <int name="slotMax" value="1"/>
-<int name="noExpend" value="1"/>
 <int name="only" value="1"/>
+<int name="notExtend" value="1"/>
+<int name="timeLimited" value="1"/>
 </imgdir>
 </imgdir>

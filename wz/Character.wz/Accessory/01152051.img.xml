@@ -3,9 +3,11 @@
 <imgdir name="info">
 <canvas name="icon" width="31" height="31">
 <vector name="origin" x="-1" y="31"/>
+<string name="source" value="Character/Accessory/01152050.img/info/icon"/>
 </canvas>
 <canvas name="iconRaw" width="31" height="27">
 <vector name="origin" x="-1" y="31"/>
+<string name="source" value="Character/Accessory/01152050.img/info/iconRaw"/>
 </canvas>
 <string name="islot" value="Sh"/>
 <string name="vslot" value="Sh"/>

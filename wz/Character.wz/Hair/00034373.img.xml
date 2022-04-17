@@ -29,9 +29,9 @@
 </canvas>
 <imgdir name="hairShade">
 <canvas name="0" width="33" height="30">
-<vector name="origin" x="13" y="11"/>
+<vector name="origin" x="16" y="11"/>
 <imgdir name="map">
-<vector name="brow" x="0" y="0"/>
+<vector name="brow" x="-2" y="2"/>
 </imgdir>
 <string name="z" value="hairShade"/>
 <string name="group" value="skin"/>

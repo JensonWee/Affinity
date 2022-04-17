@@ -232,7 +232,7 @@
 </imgdir>
 <imgdir name="stabO1">
 <imgdir name="0">
-<canvas name="weapon" width="196" height="46">
+<canvas name="weapon" width="118" height="40">
 <vector name="origin" x="98" y="23"/>
 <imgdir name="map">
 <vector name="navel" x="-16" y="-6"/>

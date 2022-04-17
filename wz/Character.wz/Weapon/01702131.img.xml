@@ -351,6 +351,25 @@
 </canvas>
 </imgdir>
 </imgdir>
+<imgdir name="stabT1">
+<imgdir name="2">
+<uol name="weapon" value="../../walk1/0/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="swingPF">
+<imgdir name="0">
+<uol name="weapon" value="../../walk1/1/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../swingO2/1/weapon"/>
+</imgdir>
+<imgdir name="2">
+<uol name="weapon" value="../../swingOF/2/weapon"/>
+</imgdir>
+<imgdir name="3">
+<uol name="weapon" value="../../proneStab/0/weapon"/>
+</imgdir>
+</imgdir>
 </imgdir>
 <imgdir name="47">
 <imgdir name="prone">
@@ -690,6 +709,25 @@
 </imgdir>
 <string name="z" value="weaponOverGlove"/>
 </canvas>
+</imgdir>
+</imgdir>
+<imgdir name="stabT1">
+<imgdir name="2">
+<uol name="weapon" value="../../walk1/0/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="swingPF">
+<imgdir name="0">
+<uol name="weapon" value="../../walk1/1/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../swingO2/1/weapon"/>
+</imgdir>
+<imgdir name="2">
+<uol name="weapon" value="../../swingOF/2/weapon"/>
+</imgdir>
+<imgdir name="3">
+<uol name="weapon" value="../../proneStab/0/weapon"/>
 </imgdir>
 </imgdir>
 </imgdir>

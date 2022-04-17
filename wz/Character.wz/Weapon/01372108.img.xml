@@ -18,8 +18,8 @@
 <int name="reqLevel" value="13"/>
 <int name="reqSTR" value="0"/>
 <int name="reqDEX" value="0"/>
-<int name="reqINT" value="40"/>
-<int name="reqLUK" value="15"/>
+<int name="reqINT" value="0"/>
+<int name="reqLUK" value="0"/>
 <int name="incPAD" value="18"/>
 <int name="incMAD" value="28"/>
 <int name="tuc" value="7"/>

@@ -14,7 +14,7 @@
 <short name="attack" value="4"/>
 <string name="afterImage" value="crossBow"/>
 <string name="sfx" value="cBow"/>
-<int name="reqJob" value="4"/>
+<int name="reqJob" value="0"/>
 <int name="reqLevel" value="60"/>
 <int name="reqSTR" value="0"/>
 <int name="reqDEX" value="0"/>

@@ -1560,12 +1560,12 @@
 <string name="mapName" value="Hot Sand"/>
 </imgdir>
 <imgdir name="180000000">
-<string name="streetName" value="Victoria Road"/>
-<string name="mapName" value="Ellinia"/>
+<string name="streetName" value="GIJIK©"/>
+<string name="mapName" value="NPC Test Room"/>
 </imgdir>
 <imgdir name="180000001">
-<string name="streetName" value="Victoria Road"/>
-<string name="mapName" value="Ellinia"/>
+<string name="streetName" value="GIJIK©"/>
+<string name="mapName" value="WZ Test Room"/>
 </imgdir>
 <imgdir name="180000002">
 <string name="streetName" value="Victoria Road"/>
@@ -5060,8 +5060,8 @@
 <string name="mapName" value="Home of the Missing Alchemist"/>
 </imgdir>
 <imgdir name="261000002">
-<string name="streetName" value="Magatia"/>
-<string name="mapName" value="Weapon &amp; Armor Shop"/>
+<string name="streetName" value="MapleEunoia"/>
+<string name="mapName" value="Sandbox"/>
 </imgdir>
 <imgdir name="261000010">
 <string name="streetName" value="Magatia"/>
@@ -6592,6 +6592,14 @@
 <string name="streetName" value="Neo City"/>
 <string name="mapName" value="&lt;Year 2503&gt; Air Battleship Stern"/>
 </imgdir>
+<imgdir name="200090600">
+<string name="mapName" value="Edelstein Bound"/>
+<string name="streetName" value="On Voyage"/>
+</imgdir>
+<imgdir name="200090610">
+<string name="mapName" value="Orbis Bound"/>
+<string name="streetName" value="On Voyage"/>
+</imgdir>
 </imgdir>
 <imgdir name="elin">
 <imgdir name="300000000">
@@ -7565,6 +7573,138 @@
 <imgdir name="890000001">
 <string name="streetName" value=""/>
 <string name="mapName" value="サバイバルイベント"/>
+</imgdir>
+<imgdir name="800040000">
+<string name="mapName" value="Outside Ninja Castle"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040100">
+<string name="mapName" value="Inside the Castle Gate"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040200">
+<string name="mapName" value="Castle Corridor"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040201">
+<string name="mapName" value="Castle Corridor"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040202">
+<string name="mapName" value="Castle Corridor"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040203">
+<string name="mapName" value="Castle Corridor"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040204">
+<string name="mapName" value="Castle Corridor"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040205">
+<string name="mapName" value="Castle Corridor"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040206">
+<string name="mapName" value="Castle Corridor"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040207">
+<string name="mapName" value="Castle Corridor"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040208">
+<string name="mapName" value="Castle Corridor"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040209">
+<string name="mapName" value="Castle Corridor"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040210">
+<string name="mapName" value="Castle Corridor"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040211">
+<string name="mapName" value="Castle Corridor"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040300">
+<string name="mapName" value="Phantom&apos;s Room"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040301">
+<string name="mapName" value="Phantom&apos;s Room"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040302">
+<string name="mapName" value="Phantom&apos;s Room"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040303">
+<string name="mapName" value="Phantom&apos;s Room"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040304">
+<string name="mapName" value="Phantom&apos;s Room"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040305">
+<string name="mapName" value="Phantom&apos;s Room"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040306">
+<string name="mapName" value="Phantom&apos;s Room"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040307">
+<string name="mapName" value="Phantom&apos;s Room"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040308">
+<string name="mapName" value="Phantom&apos;s Room"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040309">
+<string name="mapName" value="Phantom&apos;s Room"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040310">
+<string name="mapName" value="Phantom&apos;s Room"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040311">
+<string name="mapName" value="Phantom&apos;s Room"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040312">
+<string name="mapName" value="Phantom&apos;s Room"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040313">
+<string name="mapName" value="Phantom&apos;s Room"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040314">
+<string name="mapName" value="Phantom&apos;s Room"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040315">
+<string name="mapName" value="Phantom&apos;s Room"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040400">
+<string name="mapName" value="Boudoir 1"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040401">
+<string name="mapName" value="Boudoir 2"/>
+<string name="streetName" value="Zipangu"/>
+</imgdir>
+<imgdir name="800040410">
+<string name="mapName" value="Tower Room"/>
+<string name="streetName" value="Zipangu"/>
 </imgdir>
 </imgdir>
 <imgdir name="etc">
@@ -16687,12 +16827,12 @@
 <string name="mapName" value="Big Bad Wolf&apos;s Victory "/>
 </imgdir>
 <imgdir name="910040004">
-<string name="streetName" value="Sheep Ranch  "/>
-<string name="mapName" value="Little Lamb&apos;s Victory  "/>
+<string name="streetName" value="Sheep Ranch"/>
+<string name="mapName" value="Little Lamb&apos;s Victory"/>
 </imgdir>
 <imgdir name="910040005">
-<string name="streetName" value="Sheep Ranch  "/>
-<string name="mapName" value="Wolf&apos;s Defeat  "/>
+<string name="streetName" value="Sheep Ranch"/>
+<string name="mapName" value="Wolf&apos;s Defeat"/>
 </imgdir>
 <imgdir name="910040006">
 <string name="streetName" value="Sheep Ranch  "/>
@@ -16812,7 +16952,7 @@
 </imgdir>
 <imgdir name="980041100">
 <string name="streetName" value="Witch Tower"/>
-<string name="mapName" value="Witch Tower 2nd Floor  "/>
+<string name="mapName" value="Witch Tower 2nd Floor  &lt;A&gt;"/>
 </imgdir>
 <imgdir name="980041200">
 <string name="streetName" value="Witch Tower"/>
@@ -16824,7 +16964,7 @@
 </imgdir>
 <imgdir name="980042100">
 <string name="streetName" value="Witch Tower"/>
-<string name="mapName" value="Witch Tower 2nd Floor  "/>
+<string name="mapName" value="Witch Tower 2nd Floor  &lt;B&gt;"/>
 </imgdir>
 <imgdir name="980042200">
 <string name="streetName" value="Witch Tower"/>
@@ -16836,7 +16976,7 @@
 </imgdir>
 <imgdir name="980043100">
 <string name="streetName" value="Witch Tower"/>
-<string name="mapName" value="Witch Tower 2nd Floor  "/>
+<string name="mapName" value="Witch Tower 2nd Floor  &lt;C&gt;"/>
 </imgdir>
 <imgdir name="980043200">
 <string name="streetName" value="Witch Tower"/>
@@ -16848,7 +16988,7 @@
 </imgdir>
 <imgdir name="980044100">
 <string name="streetName" value="Witch Tower"/>
-<string name="mapName" value="Witch Tower 2nd Floor "/>
+<string name="mapName" value="Witch Tower 2nd Floor &lt;D&gt;"/>
 </imgdir>
 <imgdir name="980044200">
 <string name="streetName" value="Witch Tower"/>
@@ -17290,6 +17430,822 @@
 <string name="streetName" value="Hidden Street"/>
 <string name="mapName" value="Dangerous Library"/>
 </imgdir>
+<imgdir name="951000000">
+<string name="mapName" value="Monster Park"/>
+<string name="streetName" value="Monster Park"/>
+</imgdir>
+<imgdir name="951000100">
+<string name="mapName" value="Hidden Treasure Vault"/>
+<string name="streetName" value="Bonus Stage"/>
+</imgdir>
+<imgdir name="951000200">
+<string name="mapName" value="Witch&apos;s Snowfield"/>
+<string name="streetName" value="Monster Park Extreme"/>
+</imgdir>
+<imgdir name="952020000">
+<string name="mapName" value="Stage 1: Snowy Mountain 1"/>
+<string name="streetName" value="Snowy Mountain Area"/>
+</imgdir>
+<imgdir name="952020100">
+<string name="mapName" value="Stage 2: Snowy Mountain 2"/>
+<string name="streetName" value="Snowy Mountain Area"/>
+</imgdir>
+<imgdir name="952020200">
+<string name="mapName" value="Stage 3: Snowy Mountain 3"/>
+<string name="streetName" value="Snowy Mountain Area"/>
+</imgdir>
+<imgdir name="952020300">
+<string name="mapName" value="Stage 4: Snowy Mountain 4"/>
+<string name="streetName" value="Snowy Mountain Area"/>
+</imgdir>
+<imgdir name="952020400">
+<string name="mapName" value="Stage 5: Snowy Mountain 5"/>
+<string name="streetName" value="Snowy Mountain Area"/>
+</imgdir>
+<imgdir name="952020500">
+<string name="mapName" value="Stage 6: Ice Cave"/>
+<string name="streetName" value="Snowy Mountain Area"/>
+</imgdir>
+<imgdir name="952030000">
+<string name="mapName" value="Stage 1: Kelp Forest 1"/>
+<string name="streetName" value="Silent Sea"/>
+</imgdir>
+<imgdir name="952030100">
+<string name="mapName" value="Stage 2: Kelp Forest 2"/>
+<string name="streetName" value="Silent Sea"/>
+</imgdir>
+<imgdir name="952030200">
+<string name="mapName" value="Stage 3: Kelp Forest 3"/>
+<string name="streetName" value="Silent Sea"/>
+</imgdir>
+<imgdir name="952030300">
+<string name="mapName" value="Stage 4: Kelp Forest 4"/>
+<string name="streetName" value="Silent Sea"/>
+</imgdir>
+<imgdir name="952030400">
+<string name="mapName" value="Stage 5: Kelp Forest 5"/>
+<string name="streetName" value="Silent Sea"/>
+</imgdir>
+<imgdir name="952030500">
+<string name="mapName" value="Stage 6: Silent Sea"/>
+<string name="streetName" value="Silent Sea"/>
+</imgdir>
+<imgdir name="952040000">
+<string name="mapName" value="Stage 1: Cave of Darkness 1"/>
+<string name="streetName" value="Temple of Darkness"/>
+</imgdir>
+<imgdir name="952040100">
+<string name="mapName" value="Stage 2: Cave of Darkness 2"/>
+<string name="streetName" value="Temple of Darkness"/>
+</imgdir>
+<imgdir name="952040200">
+<string name="mapName" value="Stage 3: Cave of Darkness 3"/>
+<string name="streetName" value="Temple of Darkness"/>
+</imgdir>
+<imgdir name="952040300">
+<string name="mapName" value="Stage 4: Cave of Darkness 4"/>
+<string name="streetName" value="Temple of Darkness"/>
+</imgdir>
+<imgdir name="952040400">
+<string name="mapName" value="Stage 5: Cave of Darkness 5"/>
+<string name="streetName" value="Temple of Darkness"/>
+</imgdir>
+<imgdir name="952040500">
+<string name="mapName" value="Stage 6: Temple of Darkness"/>
+<string name="streetName" value="Temple of Darkness"/>
+</imgdir>
+<imgdir name="952050000">
+<string name="mapName" value="Stage 1: Scorching Sand Desert 1"/>
+<string name="streetName" value="Scorching Sand Desert"/>
+</imgdir>
+<imgdir name="952050100">
+<string name="mapName" value="Stage 2: Scorching Sand Desert 2"/>
+<string name="streetName" value="Scorching Sand Desert"/>
+</imgdir>
+<imgdir name="952050200">
+<string name="mapName" value="Stage 3: Scorching Sand Desert 3"/>
+<string name="streetName" value="Scorching Sand Desert"/>
+</imgdir>
+<imgdir name="952050300">
+<string name="mapName" value="Stage 4: Scorching Sand Desert 4"/>
+<string name="streetName" value="Scorching Sand Desert"/>
+</imgdir>
+<imgdir name="952050400">
+<string name="mapName" value="Stage 5: Scorching Sand Desert 5"/>
+<string name="streetName" value="Scorching Sand Desert"/>
+</imgdir>
+<imgdir name="952050500">
+<string name="mapName" value="Stage 6: Scorching Sand Desert 6"/>
+<string name="streetName" value="Scorching Sand Desert"/>
+</imgdir>
+<imgdir name="953000000">
+<string name="mapName" value="Stage 1: Black Mountain Hill 1"/>
+<string name="streetName" value="Black Mountain Hill"/>
+</imgdir>
+<imgdir name="953000100">
+<string name="mapName" value="Stage 2: Black Mountain Hill 2"/>
+<string name="streetName" value="Black Mountain Hill"/>
+</imgdir>
+<imgdir name="953000200">
+<string name="mapName" value="Stage 3: Black Mountain Hill 3"/>
+<string name="streetName" value="Black Mountain Hill"/>
+</imgdir>
+<imgdir name="953000300">
+<string name="mapName" value="Stage 4: Black Mountain Hill 4"/>
+<string name="streetName" value="Black Mountain Hill"/>
+</imgdir>
+<imgdir name="953000400">
+<string name="mapName" value="Stage 5: Haunted House 1"/>
+<string name="streetName" value="Black Mountain Hill"/>
+</imgdir>
+<imgdir name="953000500">
+<string name="mapName" value="Stage 1: Haunted House 2"/>
+<string name="streetName" value="Black Mountain Hill"/>
+</imgdir>
+<imgdir name="953010000">
+<string name="mapName" value="Stage 1: Hidden Field 1"/>
+<string name="streetName" value="Gray&apos;s Hideout"/>
+</imgdir>
+<imgdir name="953010100">
+<string name="mapName" value="Stage 2: Hidden Field 2"/>
+<string name="streetName" value="Gray&apos;s Hideout"/>
+</imgdir>
+<imgdir name="953010200">
+<string name="mapName" value="Stage 3: Hidden Field 3"/>
+<string name="streetName" value="Gray&apos;s Hideout"/>
+</imgdir>
+<imgdir name="953010300">
+<string name="mapName" value="Stage 4: Gray&apos;s Hideout 1"/>
+<string name="streetName" value="Gray&apos;s Hideout"/>
+</imgdir>
+<imgdir name="953010400">
+<string name="mapName" value="Stage 5: Gray&apos;s Hideout 2"/>
+<string name="streetName" value="Gray&apos;s Hideout"/>
+</imgdir>
+<imgdir name="953010500">
+<string name="mapName" value="Stage 6: Gray&apos;s Hideout 3"/>
+<string name="streetName" value="Gray&apos;s Hideout"/>
+</imgdir>
+<imgdir name="953020000">
+<string name="mapName" value="Stage 1: Auto Security Area 1"/>
+<string name="streetName" value="Auto Security Area"/>
+</imgdir>
+<imgdir name="953020100">
+<string name="mapName" value="Stage 2: Auto Security Area 2"/>
+<string name="streetName" value="Auto Security Area"/>
+</imgdir>
+<imgdir name="953020200">
+<string name="mapName" value="Stage 3: Auto Security Area 3"/>
+<string name="streetName" value="Auto Security Area"/>
+</imgdir>
+<imgdir name="953020300">
+<string name="mapName" value="Stage 4: Auto Security Area 4"/>
+<string name="streetName" value="Auto Security Area"/>
+</imgdir>
+<imgdir name="953020400">
+<string name="mapName" value="Stage 5: Auto Security Area 5"/>
+<string name="streetName" value="Auto Security Area"/>
+</imgdir>
+<imgdir name="953020500">
+<string name="mapName" value="Stage 6: Secret Laboratory"/>
+<string name="streetName" value="Auto Security Area"/>
+</imgdir>
+<imgdir name="953030000">
+<string name="mapName" value="Stage 1: Mossy Tree Forest 1"/>
+<string name="streetName" value="Mossy Tree Forest"/>
+</imgdir>
+<imgdir name="953030100">
+<string name="mapName" value="Stage 2: Mossy Tree Forest 2"/>
+<string name="streetName" value="Mossy Tree Forest"/>
+</imgdir>
+<imgdir name="953030200">
+<string name="mapName" value="Stage 3: Mossy Tree Forest 3"/>
+<string name="streetName" value="Mossy Tree Forest"/>
+</imgdir>
+<imgdir name="953030300">
+<string name="mapName" value="Stage 4: Mossy Tree Forest 4"/>
+<string name="streetName" value="Mossy Tree Forest"/>
+</imgdir>
+<imgdir name="953030400">
+<string name="mapName" value="Stage 5: Mossy Tree Forest 5"/>
+<string name="streetName" value="Mossy Tree Forest"/>
+</imgdir>
+<imgdir name="953030500">
+<string name="mapName" value="Stage 6: Deep Inside the Mossy Tree Forest"/>
+<string name="streetName" value="Mossy Tree Forest"/>
+</imgdir>
+<imgdir name="953040000">
+<string name="mapName" value="Stage 1: Sky Forest Training Center 1"/>
+<string name="streetName" value="Sky Forest Training Center"/>
+</imgdir>
+<imgdir name="953040100">
+<string name="mapName" value="Stage 2: Sky Forest Training Center 2"/>
+<string name="streetName" value="Sky Forest Training Center"/>
+</imgdir>
+<imgdir name="953040200">
+<string name="mapName" value="Stage 3: Sky Forest Training Center 3"/>
+<string name="streetName" value="Sky Forest Training Center"/>
+</imgdir>
+<imgdir name="953040300">
+<string name="mapName" value="Stage 4: Deep in the Sky Forest"/>
+<string name="streetName" value="Sky Forest Training Center"/>
+</imgdir>
+<imgdir name="953040400">
+<string name="mapName" value="Stage 5: Foggy Sky Forest"/>
+<string name="streetName" value="Sky Forest Training Center"/>
+</imgdir>
+<imgdir name="953040500">
+<string name="mapName" value="Stage 6: Inside the Thick Fog"/>
+<string name="streetName" value="Sky Forest Training Center"/>
+</imgdir>
+<imgdir name="953050000">
+<string name="mapName" value="Stage 1: Forbidden Time 1"/>
+<string name="streetName" value="Forbidden Time"/>
+</imgdir>
+<imgdir name="953050100">
+<string name="mapName" value="Stage 2: Forbidden Time 2"/>
+<string name="streetName" value="Forbidden Time"/>
+</imgdir>
+<imgdir name="953050200">
+<string name="mapName" value="Stage 3: Forbidden Time 3"/>
+<string name="streetName" value="Forbidden Time"/>
+</imgdir>
+<imgdir name="953050300">
+<string name="mapName" value="Stage 4: Forbidden Time 4"/>
+<string name="streetName" value="Forbidden Time"/>
+</imgdir>
+<imgdir name="953050400">
+<string name="mapName" value="Stage 5: Forbidden Time 5"/>
+<string name="streetName" value="Forbidden Time"/>
+</imgdir>
+<imgdir name="953050500">
+<string name="mapName" value="Stage 6: Forbidden Time 6"/>
+<string name="streetName" value="Forbidden Time"/>
+</imgdir>
+<imgdir name="953060000">
+<string name="mapName" value="Stage 1: Secret Pirate Hideout 1"/>
+<string name="streetName" value="Secret Pirate Hideout"/>
+</imgdir>
+<imgdir name="953060100">
+<string name="mapName" value="Stage 2: Secret Pirate Hideout 2"/>
+<string name="streetName" value="Secret Pirate Hideout"/>
+</imgdir>
+<imgdir name="953060200">
+<string name="mapName" value="Stage 3: Secret Pirate Hideout 3"/>
+<string name="streetName" value="Secret Pirate Hideout"/>
+</imgdir>
+<imgdir name="953060300">
+<string name="mapName" value="Stage 4: Secret Pirate Hideout 4"/>
+<string name="streetName" value="Secret Pirate Hideout"/>
+</imgdir>
+<imgdir name="953060400">
+<string name="mapName" value="Stage 5: Secret Pirate Hideout 5"/>
+<string name="streetName" value="Secret Pirate Hideout"/>
+</imgdir>
+<imgdir name="953060500">
+<string name="mapName" value="Stage 6: Secret Pirate Hideout 6"/>
+<string name="streetName" value="Secret Pirate Hideout"/>
+</imgdir>
+<imgdir name="953080000">
+<string name="mapName" value="Stage 1: Dangerously Isolated Forest 1"/>
+<string name="streetName" value="Dangerously Isolated Forest"/>
+</imgdir>
+<imgdir name="953080100">
+<string name="streetName" value="Dangerously Isolated Forest"/>
+<string name="mapName" value="Stage 2: Dangerously Isolated Forest 2"/>
+</imgdir>
+<imgdir name="953080200">
+<string name="streetName" value="Dangerously Isolated Forest"/>
+<string name="mapName" value="Stage 3: Dangerously Isolated Forest 3"/>
+</imgdir>
+<imgdir name="953080300">
+<string name="streetName" value="Dangerously Isolated Forest"/>
+<string name="mapName" value="Stage 4: Dangerously Isolated Forest 4"/>
+</imgdir>
+<imgdir name="953080400">
+<string name="streetName" value="Dangerously Isolated Forest"/>
+<string name="mapName" value="Stage 5: Dangerously Isolated Forest 5"/>
+</imgdir>
+<imgdir name="953080500">
+<string name="streetName" value="Dangerously Isolated Forest"/>
+<string name="mapName" value="Stage 6: Dangerously Isolated Forest 6"/>
+</imgdir>
+<imgdir name="953090000">
+<string name="mapName" value="Stage 1: Clandestine Ruins 1"/>
+<string name="streetName" value="Clandestine Ruins"/>
+</imgdir>
+<imgdir name="953090100">
+<string name="mapName" value="Stage 2: Clandestine Ruins 2"/>
+<string name="streetName" value="Clandestine Ruins"/>
+</imgdir>
+<imgdir name="953090200">
+<string name="mapName" value="Stage 3: Clandestine Ruins 3"/>
+<string name="streetName" value="Clandestine Ruins"/>
+</imgdir>
+<imgdir name="953090300">
+<string name="mapName" value="Stage 4: Clandestine Ruins 4"/>
+<string name="streetName" value="Clandestine Ruins"/>
+</imgdir>
+<imgdir name="953090400">
+<string name="mapName" value="Stage 5: Clandestine Ruins 5"/>
+<string name="streetName" value="Clandestine Ruins"/>
+</imgdir>
+<imgdir name="953090500">
+<string name="mapName" value="Stage 6: Clandestine Ruins 6"/>
+<string name="streetName" value="Clandestine Ruins"/>
+</imgdir>
+<imgdir name="954000000">
+<string name="mapName" value="Stage 1: Ruined City 1"/>
+<string name="streetName" value="Ruined City"/>
+</imgdir>
+<imgdir name="954000100">
+<string name="mapName" value="Stage 2: Ruined City 2"/>
+<string name="streetName" value="Ruined City"/>
+</imgdir>
+<imgdir name="954000200">
+<string name="mapName" value="Stage 3: Air Battleship Bow 3"/>
+<string name="streetName" value="Ruined City"/>
+</imgdir>
+<imgdir name="954000300">
+<string name="mapName" value="Stage 4: Air Battleship Area A"/>
+<string name="streetName" value="Ruined City"/>
+</imgdir>
+<imgdir name="954000400">
+<string name="mapName" value="Stage 5: Air Battleship Area B"/>
+<string name="streetName" value="Ruined City"/>
+</imgdir>
+<imgdir name="954000500">
+<string name="mapName" value="Stage 6: Air Battleship Area C"/>
+<string name="streetName" value="Ruined City"/>
+</imgdir>
+<imgdir name="954010000">
+<string name="mapName" value="Stage 1: Dead Tree Forest 1"/>
+<string name="streetName" value="Dead Tree Forest"/>
+</imgdir>
+<imgdir name="954010100">
+<string name="streetName" value="Dead Tree Forest"/>
+<string name="mapName" value="Stage 2: Dead Tree Forest 2"/>
+</imgdir>
+<imgdir name="954010200">
+<string name="streetName" value="Dead Tree Forest"/>
+<string name="mapName" value="Stage 3: Dead Tree Forest 3"/>
+</imgdir>
+<imgdir name="954010300">
+<string name="streetName" value="Dead Tree Forest"/>
+<string name="mapName" value="Stage 4: Dead Mine 1"/>
+</imgdir>
+<imgdir name="954010400">
+<string name="streetName" value="Dead Tree Forest"/>
+<string name="mapName" value="Stage 5: Dead Mine 2"/>
+</imgdir>
+<imgdir name="954010500">
+<string name="streetName" value="Dead Tree Forest"/>
+<string name="mapName" value="Stage 6: The Cave of Trial"/>
+</imgdir>
+<imgdir name="954030000">
+<string name="mapName" value="Stage 1: Entrance to Dragon Forest"/>
+<string name="streetName" value="Dragon Nest"/>
+</imgdir>
+<imgdir name="954030100">
+<string name="mapName" value="Stage 2: Dragon Forest 1"/>
+<string name="streetName" value="Dragon Nest"/>
+</imgdir>
+<imgdir name="954030200">
+<string name="mapName" value="Stage 3: Dragon Forest 2"/>
+<string name="streetName" value="Dragon Nest"/>
+</imgdir>
+<imgdir name="954030300">
+<string name="mapName" value="Stage 4: Dragon Forest 3"/>
+<string name="streetName" value="Dragon Nest"/>
+</imgdir>
+<imgdir name="954030400">
+<string name="mapName" value="Stage 5: Dragon Forest 4"/>
+<string name="streetName" value="Dragon Nest"/>
+</imgdir>
+<imgdir name="954030500">
+<string name="mapName" value="Stage 6: Dragon Nest"/>
+<string name="streetName" value="Dragon Nest"/>
+</imgdir>
+<imgdir name="954040000">
+<string name="mapName" value="Stage 1: Road of Regrets 1"/>
+<string name="streetName" value="Temple of Oblivion"/>
+</imgdir>
+<imgdir name="954040100">
+<string name="mapName" value="Stage 2: Road of Regrets 2"/>
+<string name="streetName" value="Temple of Oblivion"/>
+</imgdir>
+<imgdir name="954040200">
+<string name="mapName" value="Stage 3: Road of Regrets 3"/>
+<string name="streetName" value="Temple of Oblivion"/>
+</imgdir>
+<imgdir name="954040300">
+<string name="mapName" value="Stage 4: Road to Oblivion 1"/>
+<string name="streetName" value="Temple of Oblivion"/>
+</imgdir>
+<imgdir name="954040400">
+<string name="mapName" value="Stage 5: Road to Oblivion 2"/>
+<string name="streetName" value="Temple of Oblivion"/>
+</imgdir>
+<imgdir name="954040500">
+<string name="mapName" value="Stage 6: Temple of Oblivion"/>
+<string name="streetName" value="Temple of Oblivion"/>
+</imgdir>
+<imgdir name="910001000">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Ardentmill"/>
+</imgdir>
+<imgdir name="910001001">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Saffron&apos;s Herb Field"/>
+</imgdir>
+<imgdir name="910001002">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Cole&apos;s Mine"/>
+</imgdir>
+<imgdir name="910001003">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Novice Secret Herb Patch"/>
+</imgdir>
+<imgdir name="910001004">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Intermediate Secret Herb Patch"/>
+</imgdir>
+<imgdir name="910001005">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Novice Secret Mine"/>
+</imgdir>
+<imgdir name="910001006">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Intermediate Secret Mine"/>
+</imgdir>
+<imgdir name="910001007">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Advanced Secret Herb Patch"/>
+</imgdir>
+<imgdir name="910001008">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Advanced Secret Mine"/>
+</imgdir>
+<imgdir name="910001009">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Expert Secret Herb Patch"/>
+</imgdir>
+<imgdir name="910001010">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Expert Secret Mine"/>
+</imgdir>
+<imgdir name="910001011">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Novice Harvesting Farm"/>
+</imgdir>
+<imgdir name="910001012">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Intermediate Harvesting Farm"/>
+</imgdir>
+<imgdir name="910001013">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Advanced Harvesting Farm"/>
+</imgdir>
+<imgdir name="910001014">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Expert  Harvesting Farm"/>
+</imgdir>
+<imgdir name="910002000">
+<string name="streetName" value="Party Quest Entrance"/>
+<string name="mapName" value="Spiegelmann&apos;s Guest House"/>
+</imgdir>
+<imgdir name="910002010">
+<string name="streetName" value="Party Quest Entry &lt;Intermediate&gt;"/>
+<string name="mapName" value="Spiegelmann&apos;s Guest House"/>
+</imgdir>
+<imgdir name="910002020">
+<string name="streetName" value="Party Quest Entry &lt;Advanced&gt;"/>
+<string name="mapName" value="Spiegelmann&apos;s Guest House"/>
+</imgdir>
+<imgdir name="931000000">
+<string name="streetName" value="Dangerous Hide-and-Seek"/>
+<string name="mapName" value="Neglected Rocky Mountain"/>
+</imgdir>
+<imgdir name="931000001">
+<string name="streetName" value="Dangerous Hide-and-Seek"/>
+<string name="mapName" value="Neglected Rocky Mountain"/>
+</imgdir>
+<imgdir name="931000010">
+<string name="streetName" value="Dangerous Hide-and-Seek"/>
+<string name="mapName" value="Suspicious Laboratory"/>
+</imgdir>
+<imgdir name="931000011">
+<string name="streetName" value="Dangerous Hide-and-Seek"/>
+<string name="mapName" value="Suspicious Laboratory"/>
+</imgdir>
+<imgdir name="931000012">
+<string name="streetName" value="Dangerous Hide-and-Seek"/>
+<string name="mapName" value="Suspicious Laboratory"/>
+</imgdir>
+<imgdir name="931000013">
+<string name="streetName" value="Dangerous Hide-and-Seek"/>
+<string name="mapName" value="Suspicious Laboratory"/>
+</imgdir>
+<imgdir name="931000020">
+<string name="streetName" value="Dangerous Hide-and-Seek"/>
+<string name="mapName" value="Neglected Rocky Mountain"/>
+</imgdir>
+<imgdir name="931000021">
+<string name="streetName" value="Dangerous Hide-and-Seek"/>
+<string name="mapName" value="Neglected Rocky Mountain"/>
+</imgdir>
+<imgdir name="931000030">
+<string name="streetName" value="Dangerous Hide-and-Seek"/>
+<string name="mapName" value="Behind the Mine"/>
+</imgdir>
+<imgdir name="931000100">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="2nd Job Advancement"/>
+</imgdir>
+<imgdir name="931000101">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="2nd Job Advancement"/>
+</imgdir>
+<imgdir name="931000200">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="3rd Job Advancement"/>
+</imgdir>
+<imgdir name="931000201">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="3rd Job Advancement"/>
+</imgdir>
+<imgdir name="931000300">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Suspicious Cave Alley"/>
+</imgdir>
+<imgdir name="931000301">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Suspicious Cave Alley"/>
+</imgdir>
+<imgdir name="931000302">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Suspicious Cave Alley"/>
+</imgdir>
+<imgdir name="931000310">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Booby Trap! Laboratory Jail"/>
+</imgdir>
+<imgdir name="931000311">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Booby Trap! Laboratory Jail"/>
+</imgdir>
+<imgdir name="931000312">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Booby Trap! Laboratory Jail"/>
+</imgdir>
+<imgdir name="931000320">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="New Weapon Development Research Center"/>
+</imgdir>
+<imgdir name="931000321">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="New Weapon Development Research Center"/>
+</imgdir>
+<imgdir name="931000322">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="New Weapon Development Research Center"/>
+</imgdir>
+<imgdir name="931000400">
+<string name="streetName" value="Underground Base"/>
+<string name="mapName" value="Training Room A"/>
+</imgdir>
+<imgdir name="931000401">
+<string name="streetName" value="Underground Base"/>
+<string name="mapName" value="Training Room B"/>
+</imgdir>
+<imgdir name="931000402">
+<string name="streetName" value="Underground Base"/>
+<string name="mapName" value="Training Room C"/>
+</imgdir>
+<imgdir name="931000403">
+<string name="streetName" value="Underground Base"/>
+<string name="mapName" value="Training Room D"/>
+</imgdir>
+<imgdir name="931000404">
+<string name="streetName" value="Underground Base"/>
+<string name="mapName" value="Training Room E"/>
+</imgdir>
+<imgdir name="931000410">
+<string name="streetName" value="Edelstein"/>
+<string name="mapName" value="Surl&apos;s Water Cellar"/>
+</imgdir>
+<imgdir name="931000420">
+<string name="streetName" value="Edelstein"/>
+<string name="mapName" value="Danger! Makeshift Airport"/>
+</imgdir>
+<imgdir name="931000430">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Secret Meeting Place"/>
+</imgdir>
+<imgdir name="931000440">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Neglected Park"/>
+</imgdir>
+<imgdir name="931000441">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Park Corner"/>
+</imgdir>
+<imgdir name="931000500">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Jaguar Habitat"/>
+</imgdir>
+<imgdir name="931000600">
+<string name="streetName" value="Edelstein"/>
+<string name="mapName" value="Temporary Airport"/>
+</imgdir>
+<imgdir name="931000610">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Prison"/>
+</imgdir>
+<imgdir name="931000620">
+<string name="streetName" value="Edelstein"/>
+<string name="mapName" value="Mine Entrance"/>
+</imgdir>
+<imgdir name="931000630">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Entrance to Gelimer&apos;s Lab"/>
+</imgdir>
+<imgdir name="931000631">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Gelimer&apos;s Trap"/>
+</imgdir>
+<imgdir name="931000640">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Entrance to Gelimer&apos;s Lab"/>
+</imgdir>
+<imgdir name="931000650">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Entrance to Gelimer&apos;s Lab"/>
+</imgdir>
+<imgdir name="931000660">
+<string name="streetName" value="Edelstein"/>
+<string name="mapName" value="Secret Square"/>
+</imgdir>
+<imgdir name="931000661">
+<string name="streetName" value="Edelstein"/>
+<string name="mapName" value="Secret Square"/>
+</imgdir>
+<imgdir name="931010000">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Dahlia Garden"/>
+</imgdir>
+<imgdir name="931010010">
+<string name="streetName" value="Edelstein"/>
+<string name="mapName" value="Guarded Mansion"/>
+</imgdir>
+<imgdir name="931010020">
+<string name="streetName" value="Edelstein"/>
+<string name="mapName" value="Ulrika&apos;s Hideout"/>
+</imgdir>
+<imgdir name="931010030">
+<string name="streetName" value="Edelstein"/>
+<string name="mapName" value="Shady Hair Salon"/>
+</imgdir>
+<imgdir name="931010040">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Streetlight Row Corner Alley"/>
+</imgdir>
+<imgdir name="931020000">
+<string name="streetName" value="Power Plant Security"/>
+<string name="mapName" value="Intruder Search Warrant 1"/>
+</imgdir>
+<imgdir name="931020001">
+<string name="streetName" value="Power Plant Security"/>
+<string name="mapName" value="Intruder Search Warrant 2"/>
+</imgdir>
+<imgdir name="931020002">
+<string name="streetName" value="Power Plant Security"/>
+<string name="mapName" value="Intruder Search Warrant 3"/>
+</imgdir>
+<imgdir name="931020010">
+<string name="streetName" value="Black Wings&apos; Hideout"/>
+<string name="mapName" value="Francis&apos;s Room"/>
+</imgdir>
+<imgdir name="931020011">
+<string name="streetName" value="Black Wings&apos; Hideout"/>
+<string name="mapName" value="Eleanor&apos;s Room"/>
+</imgdir>
+<imgdir name="931020020">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Sundry Laboratory"/>
+</imgdir>
+<imgdir name="931020030">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Dark Shaft"/>
+</imgdir>
+<imgdir name="931020031">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Hidden Laboratory"/>
+</imgdir>
+<imgdir name="931030000">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="3000 Days Memories Hall"/>
+</imgdir>
+<imgdir name="931040000">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Puppeteer&apos;s Room"/>
+</imgdir>
+<imgdir name="931040010">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Dangerous Power Plant"/>
+</imgdir>
+<imgdir name="931040011">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Orchid&apos;s Room"/>
+</imgdir>
+<imgdir name="931040100">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Puppeteer&apos;s Room"/>
+</imgdir>
+<imgdir name="931040200">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Power Plant"/>
+</imgdir>
+<imgdir name="931040201">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Orchid&apos;s Room"/>
+</imgdir>
+<imgdir name="931040202">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Secret Laboratory"/>
+</imgdir>
+<imgdir name="931050000">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Extraction Room 1"/>
+</imgdir>
+<imgdir name="931050010">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Secret Plaza 1"/>
+</imgdir>
+<imgdir name="931050020">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Extraction Room 2"/>
+</imgdir>
+<imgdir name="931050030">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Treatment Room"/>
+</imgdir>
+<imgdir name="931050100">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Nearby Edelstein Park Fountain 1"/>
+</imgdir>
+<imgdir name="931050110">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Nearby Edelstein Park Fountain 2"/>
+</imgdir>
+<imgdir name="931050120">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Alternate Edelstein Park"/>
+</imgdir>
+<imgdir name="931050200">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Training Room Storage"/>
+</imgdir>
+<imgdir name="931050210">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Nearby Edelstein Park Fountain 3"/>
+</imgdir>
+<imgdir name="931050211">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Nearby Edelstein Park Fountain 4"/>
+</imgdir>
+<imgdir name="931050212">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Nearby Edelstein Park Fountain 5"/>
+</imgdir>
+<imgdir name="931050220">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Francis&apos;s Room"/>
+</imgdir>
+<imgdir name="931050230">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Near Edelstein"/>
+</imgdir>
+<imgdir name="100000007">
+<string name="mapName" value="Eunoia Home"/>
+<string name="streetName" value="MapleEunoia"/>
+</imgdir>
+<imgdir name="990002000">
+<string name="mapName" value="Fishing"/>
+<string name="streetName" value="MapleEunoia"/>
+</imgdir>
+<imgdir name="990002001">
+<string name="mapName" value="Fishing"/>
+<string name="streetName" value="MapleEunoia"/>
+</imgdir>
+<imgdir name="990002002">
+<string name="mapName" value="Fishing"/>
+<string name="streetName" value="MapleEunoia"/>
+</imgdir>
+<imgdir name="910048100">
+<string name="mapName" value="OX Quiz"/>
+<string name="streetName" value="MapleEunoia"/>
+</imgdir>
 </imgdir>
 <imgdir name="singapore">
 <imgdir name="540000000">
@@ -17699,6 +18655,612 @@
 <imgdir name="677000012">
 <string name="streetName" value="Mini Dungeon"/>
 <string name="mapName" value="Astaroth Hiding Place"/>
+</imgdir>
+</imgdir>
+<imgdir name="3rd">
+<imgdir name="300000000">
+<string name="streetName" value="Ellin Forest"/>
+<string name="mapName" value="Altaire Camp"/>
+</imgdir>
+<imgdir name="300000100">
+<string name="streetName" value="Altaire Camp"/>
+<string name="mapName" value="Small Forest"/>
+</imgdir>
+<imgdir name="300000010">
+<string name="streetName" value="Altaire Camp"/>
+<string name="mapName" value="Camp Conference Room"/>
+</imgdir>
+<imgdir name="300000011">
+<string name="streetName" value="Camp Conference Room"/>
+<string name="mapName" value="Library"/>
+</imgdir>
+<imgdir name="300000012">
+<string name="streetName" value="Camp Conference Room"/>
+<string name="mapName" value="Cellar"/>
+</imgdir>
+<imgdir name="300000001">
+<string name="streetName" value="Altaire Camp"/>
+<string name="mapName" value="Tent House 1"/>
+</imgdir>
+<imgdir name="300000002">
+<string name="streetName" value="Altaire Camp"/>
+<string name="mapName" value="Tent House 2"/>
+</imgdir>
+<imgdir name="300010000">
+<string name="streetName" value="Ellin Forest"/>
+<string name="mapName" value="Mossy Tree Forest Entrance"/>
+</imgdir>
+<imgdir name="300010100">
+<string name="streetName" value="Ellin Forest"/>
+<string name="mapName" value="Western Region of Mossy Tree Forest 1"/>
+</imgdir>
+<imgdir name="300010200">
+<string name="streetName" value="Ellin Forest"/>
+<string name="mapName" value="Western Region of Mossy Tree Forest 2"/>
+</imgdir>
+<imgdir name="300010300">
+<string name="streetName" value="Ellin Forest"/>
+<string name="mapName" value="Mossy Tree Forest Trail"/>
+</imgdir>
+<imgdir name="300010400">
+<string name="streetName" value="Ellin Forest"/>
+<string name="mapName" value="Boulder Mountain Entrance"/>
+</imgdir>
+<imgdir name="300020000">
+<string name="streetName" value="Ellin Forest"/>
+<string name="mapName" value="Southern Region of Mossy Tree Forest 1"/>
+</imgdir>
+<imgdir name="300020100">
+<string name="streetName" value="Ellin Forest"/>
+<string name="mapName" value="Southern Region of Mossy Tree Forest 2"/>
+</imgdir>
+<imgdir name="300020200">
+<string name="streetName" value="Ellin Forest"/>
+<string name="mapName" value="Mushroom Hill Entrance"/>
+</imgdir>
+<imgdir name="300030000">
+<string name="streetName" value="Ellin Forest"/>
+<string name="mapName" value="Eastern Region of Mossy Tree Forest"/>
+</imgdir>
+<imgdir name="300030100">
+<string name="streetName" value="Ellin Forest"/>
+<string name="mapName" value="Deep Fairy Forest &lt;Exit Map&gt;"/>
+</imgdir>
+<imgdir name="300010410">
+<string name="streetName" value="Ellin Forest"/>
+<string name="mapName" value="Rocky Mountain Cave"/>
+</imgdir>
+<imgdir name="300010420">
+<string name="streetName" value="Ellin Forest"/>
+<string name="mapName" value="Deep Inside the Cave"/>
+</imgdir>
+<imgdir name="300020210">
+<string name="streetName" value="Ellin Forest"/>
+<string name="mapName" value="Mossy Tree Mushroom Forest"/>
+</imgdir>
+<imgdir name="300030200">
+<string name="streetName" value="Ellin Forest"/>
+<string name="mapName" value="Fairy Forest 1"/>
+</imgdir>
+<imgdir name="300030300">
+<string name="streetName" value="Ellin Forest"/>
+<string name="mapName" value="Fairy Forest 2"/>
+</imgdir>
+<imgdir name="300030310">
+<string name="streetName" value="Ellin Forest"/>
+<string name="mapName" value="Queen&apos;s Hiding Place"/>
+</imgdir>
+<imgdir name="310000000">
+<string name="streetName" value="Black Wing Territory"/>
+<string name="mapName" value="Edelstein"/>
+<string name="mapDesc" value="A new, unknown continent. It&apos;s currently occupied by the Black Wings, who are trying to revive the Black Mage. You can take the Airship from the Temporary Airport to fly out to a different area.\n\n#Connected areas\n - Victoria Island \n - Orbis"/>
+</imgdir>
+<imgdir name="310000001">
+<string name="streetName" value="Edelstein"/>
+<string name="mapName" value="Edelstein City Hall"/>
+</imgdir>
+<imgdir name="310000002">
+<string name="streetName" value="Edelstein"/>
+<string name="mapName" value="Edelstein Medical Center"/>
+</imgdir>
+<imgdir name="310000003">
+<string name="streetName" value="Edelstein"/>
+<string name="mapName" value="Edelstein Hair Salon"/>
+</imgdir>
+<imgdir name="310000004">
+<string name="streetName" value="Edelstein"/>
+<string name="mapName" value="Mansion"/>
+</imgdir>
+<imgdir name="310000010">
+<string name="streetName" value="Edelstein"/>
+<string name="mapName" value="Edelstein Temporary Airport"/>
+<string name="mapDesc" value="From here, you can leave Edelstein and go to different areas. \n\n#cConnected areas\n - Victoria Island \n - Orbis"/>
+</imgdir>
+<imgdir name="310010000">
+<string name="streetName" value="Resistance Headquarters"/>
+<string name="mapName" value="Secret Plaza"/>
+</imgdir>
+<imgdir name="310010010">
+<string name="streetName" value="Resistance Headquarters"/>
+<string name="mapName" value="Training Room Entrance"/>
+</imgdir>
+<imgdir name="310010100">
+<string name="streetName" value="Resistance Headquarters"/>
+<string name="mapName" value="Training Room A"/>
+</imgdir>
+<imgdir name="310010200">
+<string name="streetName" value="Resistance Headquarters"/>
+<string name="mapName" value="Training Room B"/>
+</imgdir>
+<imgdir name="310010300">
+<string name="streetName" value="Resistance Headquarters"/>
+<string name="mapName" value="Training Room C"/>
+</imgdir>
+<imgdir name="310010400">
+<string name="streetName" value="Resistance Headquarters"/>
+<string name="mapName" value="Training Room D"/>
+</imgdir>
+<imgdir name="310010500">
+<string name="streetName" value="Resistance Headquarters"/>
+<string name="mapName" value="Training Room E"/>
+</imgdir>
+<imgdir name="310020000">
+<string name="streetName" value="Concrete Road"/>
+<string name="mapName" value="Edelstein Park"/>
+</imgdir>
+<imgdir name="310020100">
+<string name="streetName" value="Concrete Road"/>
+<string name="mapName" value="Edelstein Park 2"/>
+</imgdir>
+<imgdir name="310020200">
+<string name="streetName" value="Concrete Road"/>
+<string name="mapName" value="Edelstein Park 3"/>
+</imgdir>
+<imgdir name="310030000">
+<string name="streetName" value="Concrete Road"/>
+<string name="mapName" value="Edelstein Strolling Path"/>
+</imgdir>
+<imgdir name="310030100">
+<string name="streetName" value="Concrete Road"/>
+<string name="mapName" value="Edelstein Strolling Path 2"/>
+</imgdir>
+<imgdir name="310030110">
+<string name="streetName" value="Concrete Road"/>
+<string name="mapName" value="Serpent Path"/>
+</imgdir>
+<imgdir name="310030200">
+<string name="streetName" value="Concrete Road"/>
+<string name="mapName" value="Edelstein Strolling Path 3"/>
+</imgdir>
+<imgdir name="310030210">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Secret Path"/>
+</imgdir>
+<imgdir name="310030211">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Secret Path"/>
+</imgdir>
+<imgdir name="310030300">
+<string name="streetName" value="Concrete Road"/>
+<string name="mapName" value="Edelstein Strolling Path 4"/>
+</imgdir>
+<imgdir name="310030310">
+<string name="streetName" value="Concrete Road"/>
+<string name="mapName" value="Streetlight Row"/>
+</imgdir>
+<imgdir name="310040000">
+<string name="streetName" value="Dry Road"/>
+<string name="mapName" value="Road to the Mine 1"/>
+</imgdir>
+<imgdir name="310040100">
+<string name="streetName" value="Dry Road"/>
+<string name="mapName" value="Road to the Mine 2"/>
+</imgdir>
+<imgdir name="310040110">
+<string name="streetName" value="Dry Road"/>
+<string name="mapName" value="Hidden Portal"/>
+</imgdir>
+<imgdir name="310040200">
+<string name="streetName" value="Dry Road"/>
+<string name="mapName" value="Mine Entrance"/>
+</imgdir>
+<imgdir name="310040210">
+<string name="streetName" value="Dry Road"/>
+<string name="mapName" value="Path Behind the Mine"/>
+</imgdir>
+<imgdir name="310040300">
+<string name="streetName" value="Dry Road"/>
+<string name="mapName" value="Rocky Road"/>
+</imgdir>
+<imgdir name="310040400">
+<string name="streetName" value="Dry Road"/>
+<string name="mapName" value="Ore Trail"/>
+</imgdir>
+<imgdir name="310050000">
+<string name="streetName" value="Verne Mine"/>
+<string name="mapName" value="Power Plant Lobby"/>
+</imgdir>
+<imgdir name="310050100">
+<string name="streetName" value="Verne Mine"/>
+<string name="mapName" value="Power Plant Security"/>
+</imgdir>
+<imgdir name="310050200">
+<string name="streetName" value="Verne Mine"/>
+<string name="mapName" value="Shaft Entrance 1"/>
+</imgdir>
+<imgdir name="310050300">
+<string name="streetName" value="Verne Mine"/>
+<string name="mapName" value="Shaft Entrance 2"/>
+</imgdir>
+<imgdir name="310050400">
+<string name="streetName" value="Verne Mine"/>
+<string name="mapName" value="First Square"/>
+</imgdir>
+<imgdir name="310050500">
+<string name="streetName" value="Verne Mine"/>
+<string name="mapName" value="Shaft 1"/>
+</imgdir>
+<imgdir name="310050510">
+<string name="streetName" value="Verne Mine"/>
+<string name="mapName" value="Raccoon Nest"/>
+</imgdir>
+<imgdir name="310050520">
+<string name="streetName" value="Verne Mine"/>
+<string name="mapName" value="Dangerous Raccoon Nest"/>
+</imgdir>
+<imgdir name="310050600">
+<string name="streetName" value="Verne Mine"/>
+<string name="mapName" value="Shaft 2"/>
+</imgdir>
+<imgdir name="310050700">
+<string name="streetName" value="Verne Mine"/>
+<string name="mapName" value="Shaft 3"/>
+</imgdir>
+<imgdir name="310050800">
+<string name="streetName" value="Verne Mine"/>
+<string name="mapName" value="Shaft 4"/>
+</imgdir>
+<imgdir name="310060000">
+<string name="streetName" value="Gelimer Research Lab"/>
+<string name="mapName" value="Second Square"/>
+</imgdir>
+<imgdir name="310060100">
+<string name="streetName" value="Gelimer Research Lab"/>
+<string name="mapName" value="Android Research Lab"/>
+</imgdir>
+<imgdir name="310060110">
+<string name="streetName" value="Gelimer Research Lab"/>
+<string name="mapName" value="Android Research Lab 2"/>
+</imgdir>
+<imgdir name="310060120">
+<string name="streetName" value="Gelimer Research Lab"/>
+<string name="mapName" value="Android Research Lab 3"/>
+</imgdir>
+<imgdir name="310060200">
+<string name="streetName" value="Gelimer Research Lab"/>
+<string name="mapName" value="Security System Research Center 1"/>
+</imgdir>
+<imgdir name="310060210">
+<string name="streetName" value="Gelimer Research Lab"/>
+<string name="mapName" value="Security System Research Center 2"/>
+</imgdir>
+<imgdir name="310060220">
+<string name="streetName" value="Gelimer Research Lab"/>
+<string name="mapName" value="Security System Research Center 3"/>
+</imgdir>
+<imgdir name="310060221">
+<string name="streetName" value="Hidden Street"/>
+<string name="mapName" value="Leery Corridor"/>
+</imgdir>
+<imgdir name="310060300">
+<string name="streetName" value="Gelimer Research Lab"/>
+<string name="mapName" value="Deep Shaft"/>
+</imgdir>
+</imgdir>
+<imgdir name="Tower">
+<imgdir name="75000">
+<string name="mapName" value="Battle 1"/>
+<string name="streetName" value="Battle Tower"/>
+</imgdir>
+<imgdir name="75001">
+<string name="mapName" value="Battle 2"/>
+<string name="streetName" value="Battle Tower"/>
+</imgdir>
+<imgdir name="75003">
+<string name="mapName" value="Battle Boss"/>
+<string name="streetName" value="Battle Tower"/>
+</imgdir>
+<imgdir name="75002">
+<string name="mapName" value="Battle Boss"/>
+<string name="streetName" value="Battle Tower"/>
+</imgdir>
+<imgdir name="76000">
+<string name="mapName" value="Lost Memories"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="76001">
+<string name="mapName" value="Training 2"/>
+<string name="streetName" value="Training Grounds"/>
+</imgdir>
+<imgdir name="76002">
+<string name="mapName" value="Training 3"/>
+<string name="streetName" value="Training Grounds"/>
+</imgdir>
+<imgdir name="76003">
+<string name="mapName" value="Training 4"/>
+<string name="streetName" value="Training Grounds"/>
+</imgdir>
+<imgdir name="76004">
+<string name="mapName" value="Training 5"/>
+<string name="streetName" value="Training Grounds"/>
+</imgdir>
+<imgdir name="76005">
+<string name="mapName" value="Training 6"/>
+<string name="streetName" value="Training Grounds"/>
+</imgdir>
+<imgdir name="76006">
+<string name="mapName" value="Training 7"/>
+<string name="streetName" value="Training Grounds"/>
+</imgdir>
+<imgdir name="76007">
+<string name="mapName" value="Training 8"/>
+<string name="streetName" value="Training Grounds"/>
+</imgdir>
+<imgdir name="76008">
+<string name="mapName" value="Training 9"/>
+<string name="streetName" value="Training Grounds"/>
+</imgdir>
+<imgdir name="76009">
+<string name="mapName" value="Training 10"/>
+<string name="streetName" value="Training Grounds"/>
+</imgdir>
+<imgdir name="77000">
+<string name="mapName" value="Forgotten Memories"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="78000">
+<string name="mapName" value="Boss Arena"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="80000">
+<string name="mapName" value="MP Lobby"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="78001">
+<string name="mapName" value="Super Boss Arena"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="90000">
+<string name="mapName" value="Kaotic Tower Floor 1"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="90001">
+<string name="mapName" value="Kaotic Tower Floor 2"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="90002">
+<string name="mapName" value="Kaotic Tower Floor 3"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="90003">
+<string name="mapName" value="Kaotic Tower Floor 4"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="90004">
+<string name="mapName" value="Kaotic Tower Floor 5"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="90005">
+<string name="mapName" value="Kaotic Tower Floor 6"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="90006">
+<string name="mapName" value="Kaotic Tower Floor 7"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="90007">
+<string name="mapName" value="Kaotic Tower Floor 8"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="90008">
+<string name="mapName" value="Kaotic Tower Floor 9"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="90009">
+<string name="mapName" value="Kaotic Tower Floor 10"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="90010">
+<string name="mapName" value="Kaotic Tower Floor 11"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="90011">
+<string name="mapName" value="Kaotic Tower Floor 12"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="90012">
+<string name="mapName" value="Kaotic Tower Floor 13"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="90013">
+<string name="mapName" value="Kaotic Tower Floor 14"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="90014">
+<string name="mapName" value="Kaotic Tower Floor 15"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="90015">
+<string name="mapName" value="Kaotic Tower Floor 16"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="90016">
+<string name="mapName" value="Kaotic Tower Floor 17"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="90017">
+<string name="mapName" value="Kaotic Tower Floor 18"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="90018">
+<string name="mapName" value="Kaotic Tower Floor 19"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="90019">
+<string name="mapName" value="Kaotic Tower Floor 20"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="98000">
+<string name="mapName" value="Temple Ruins 1"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="98001">
+<string name="mapName" value="Temple Ruins 2"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="98002">
+<string name="mapName" value="Temple Ruins 3"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="98003">
+<string name="mapName" value="Temple Ruins 4"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="98004">
+<string name="mapName" value="Temple Ruins 5"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="98005">
+<string name="mapName" value="Temple Ruins 6"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="98006">
+<string name="mapName" value="Temple Ruins Boss Entry"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="98007">
+<string name="mapName" value="Temple Ruins Boss"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="79000">
+<string name="mapName" value="Dream World"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="81000">
+<string name="mapName" value="Knights Stronghold 1"/>
+<string name="streetName" value="KSH"/>
+</imgdir>
+<imgdir name="81100">
+<string name="mapName" value="Knights Stronghold 2"/>
+<string name="streetName" value="KSH"/>
+</imgdir>
+<imgdir name="81200">
+<string name="mapName" value="Knights Stronghold 3"/>
+<string name="streetName" value="KSH"/>
+</imgdir>
+<imgdir name="81300">
+<string name="mapName" value="Knights Stronghold 4"/>
+<string name="streetName" value="KSH"/>
+</imgdir>
+<imgdir name="81400">
+<string name="mapName" value="Knights Stronghold 5"/>
+<string name="streetName" value="KSH"/>
+</imgdir>
+<imgdir name="81500">
+<string name="mapName" value="Knights Stronghold 6"/>
+<string name="streetName" value="KSH"/>
+</imgdir>
+<imgdir name="81101">
+<string name="mapName" value="Knights Stronghold 2-1"/>
+<string name="streetName" value="KSH"/>
+</imgdir>
+<imgdir name="81102">
+<string name="mapName" value="Knights Stronghold 2-2"/>
+<string name="streetName" value="KSH"/>
+</imgdir>
+<imgdir name="81201">
+<string name="mapName" value="Knights Stronghold 3-1"/>
+<string name="streetName" value="KSH"/>
+</imgdir>
+<imgdir name="81202">
+<string name="mapName" value="Knights Stronghold 3-2"/>
+<string name="streetName" value="KSH"/>
+</imgdir>
+<imgdir name="81001">
+<string name="mapName" value="Knights Stronghold 1-1"/>
+<string name="streetName" value="KSH"/>
+</imgdir>
+<imgdir name="81002">
+<string name="mapName" value="Knights Stronghold 1-2"/>
+<string name="streetName" value="KSH"/>
+</imgdir>
+<imgdir name="81301">
+<string name="mapName" value="Knights Stronghold 4-1"/>
+<string name="streetName" value="KSH"/>
+</imgdir>
+<imgdir name="81302">
+<string name="mapName" value="Knights Stronghold 4-2"/>
+<string name="streetName" value="KSH"/>
+</imgdir>
+<imgdir name="81401">
+<string name="mapName" value="Knights Stronghold 5-1"/>
+<string name="streetName" value="KSH"/>
+</imgdir>
+<imgdir name="81402">
+<string name="mapName" value="Knights Stronghold 5-2"/>
+<string name="streetName" value="KSH"/>
+</imgdir>
+</imgdir>
+<imgdir name="Training Grounds">
+<imgdir name="76000">
+<string name="mapName" value="Lost Memories"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+</imgdir>
+<imgdir name="Monster Park">
+<imgdir name="80000">
+<string name="mapName" value="Monster Park"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="80100">
+<string name="mapName" value="Monster Park Stage 1"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="80101">
+<string name="mapName" value="Monster Park Stage 2"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="80102">
+<string name="mapName" value="Monster Park Stage 3"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="80103">
+<string name="mapName" value="Monster Park Stage 4"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="80104">
+<string name="mapName" value="Monster Park Stage 5"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="80105">
+<string name="mapName" value="Monster Park Stage 6"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="80106">
+<string name="mapName" value="Monster Park Stage 7"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="80107">
+<string name="mapName" value="Monster Park Stage 8"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="80108">
+<string name="mapName" value="Monster Park Stage 9"/>
+<string name="streetName" value="Hidden Street"/>
+</imgdir>
+<imgdir name="80109">
+<string name="mapName" value="Monster Park Stage Final"/>
+<string name="streetName" value="Hidden Street"/>
 </imgdir>
 </imgdir>
 </imgdir>

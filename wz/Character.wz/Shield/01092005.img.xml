@@ -9,7 +9,7 @@
 </canvas>
 <string name="islot" value="Si"/>
 <string name="vslot" value="Si"/>
-<int name="reqJob" value="1"/>
+<int name="reqJob" value="0"/>
 <int name="reqLevel" value="10"/>
 <int name="reqSTR" value="0"/>
 <int name="reqDEX" value="0"/>
@@ -17,7 +17,7 @@
 <int name="reqLUK" value="0"/>
 <int name="incPDD" value="10"/>
 <int name="tuc" value="7"/>
-<int name="price" value="2000"/>
+<int name="price" value="400"/>
 <int name="cash" value="0"/>
 </imgdir>
 <imgdir name="walk1">

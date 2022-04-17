@@ -344,4 +344,74 @@
 </imgdir>
 </imgdir>
 </imgdir>
+<imgdir name="05079000">
+<imgdir name="info">
+<canvas name="icon" width="30" height="30">
+<vector name="origin" x="0" y="30"/>
+<int name="z" value="0"/>
+<string name="source" value="Item/Cash/0507.img/05076000/info/icon"/>
+</canvas>
+<canvas name="iconRaw" width="30" height="30">
+<vector name="origin" x="0" y="30"/>
+<int name="z" value="0"/>
+<string name="source" value="Item/Cash/0507.img/05076000/info/iconRaw"/>
+</canvas>
+<int name="cash" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="05079001">
+<imgdir name="info">
+<canvas name="icon" width="34" height="29">
+<vector name="origin" x="0" y="30"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="30">
+<vector name="origin" x="0" y="30"/>
+<int name="z" value="0"/>
+</canvas>
+<int name="cash" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="05079002">
+<imgdir name="info">
+<canvas name="icon" width="36" height="29">
+<vector name="origin" x="0" y="30"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="iconRaw" width="35" height="30">
+<vector name="origin" x="0" y="30"/>
+<int name="z" value="0"/>
+</canvas>
+<int name="cash" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="05079004">
+<imgdir name="info">
+<canvas name="icon" width="32" height="28">
+<vector name="origin" x="0" y="30"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="iconRaw" width="32" height="30">
+<vector name="origin" x="0" y="30"/>
+<int name="z" value="0"/>
+</canvas>
+<int name="cash" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="05072001">
+<imgdir name="info">
+<canvas name="icon" width="30" height="30">
+<vector name="origin" x="0" y="30"/>
+<int name="z" value="0"/>
+<string name="source" value="Item/Cash/0507.img/05072000/info/icon"/>
+</canvas>
+<canvas name="iconRaw" width="30" height="30">
+<vector name="origin" x="0" y="30"/>
+<int name="z" value="0"/>
+<string name="source" value="Item/Cash/0507.img/05072000/info/iconRaw"/>
+</canvas>
+<int name="cash" value="1"/>
+<int name="noMoveToLocker" value="1"/>
+</imgdir>
+</imgdir>
 </imgdir>

@@ -1549,11 +1549,11 @@
 </imgdir>
 <imgdir name="2040001">
 <string name="name" value="Scroll for Helmet for DEF"/>
-<string name="desc" value="Improves helmet def.\nSuccess rate:60%, weapon def.+2, magic def., +2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves helmet def.\nSuccess rate:60%, weapon def.+2, magic def., +2."/>
 </imgdir>
 <imgdir name="2040002">
 <string name="name" value="Scroll for Helmet for DEF"/>
-<string name="desc" value="Improves helmet def.\nSuccess Rate:10%, weapon def.+5, magic def.+3, accuracy+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves helmet def.\nSuccess Rate:10%, weapon def.+5, magic def.+3, accuracy+1."/>
 </imgdir>
 <imgdir name="2040003">
 <string name="name" value="Scroll for Helmet for HP"/>
@@ -1561,11 +1561,11 @@
 </imgdir>
 <imgdir name="2040004">
 <string name="name" value="Scroll for Helmet for HP"/>
-<string name="desc" value="Improves MaxHP on hats.\nSuccess rate:60%, MaxHP+10. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves MaxHP on hats.\nSuccess rate:60%, MaxHP+10."/>
 </imgdir>
 <imgdir name="2040005">
 <string name="name" value="Scroll for Helmet for HP"/>
-<string name="desc" value="Improves MaxHP on hats.\nSuccess rate:10%, MaxHP+30. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves MaxHP on hats.\nSuccess rate:10%, MaxHP+30."/>
 </imgdir>
 <imgdir name="2040006">
 <string name="name" value="Scroll for Helmet for DEF"/>
@@ -1577,7 +1577,7 @@
 </imgdir>
 <imgdir name="2040008">
 <string name="name" value="Dark scroll for Helmet for DEF"/>
-<string name="desc" value="Improves helmet def.\nSuccess rate:70%, weapon def.+2, magic def.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves helmet def.\nSuccess rate:70%, weapon def.+2, magic def.+1."/>
 </imgdir>
 <imgdir name="2040009">
 <string name="name" value="Dark Scroll for Helmet for DEF"/>
@@ -1601,19 +1601,19 @@
 </imgdir>
 <imgdir name="2040014">
 <string name="name" value="Dark Scroll for Helmet for Accuracy"/>
-<string name="desc" value="Improves the accuracy on the helmet.\nSuccess Rate 70%, Dex+1, accuracy +2nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves the accuracy on the helmet.\nSuccess Rate 70%, Dex+1, accuracy +2."/>
 </imgdir>
 <imgdir name="2040015">
 <string name="name" value="Dark Scroll for Helmet for Accuracy"/>
-<string name="desc" value="Improves the accuracy on the helmet.\nSuccess Rate 30%, Dex+2, accuracy +4nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves the accuracy on the helmet.\nSuccess Rate 30%, Dex+2, accuracy +4."/>
 </imgdir>
 <imgdir name="2040016">
 <string name="name" value="Scroll for Helmet for Accuracy"/>
-<string name="desc" value="Improves the helmet&apos;s accuracy option.\nSuccess Rate 10%, Dex+2, Accuracy +4. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves the helmet&apos;s accuracy option.\nSuccess Rate 10%, Dex+2, Accuracy +4."/>
 </imgdir>
 <imgdir name="2040017">
 <string name="name" value="Scroll for Helmet for Accuracy"/>
-<string name="desc" value="Improves the helmet&apos;s accuracy option.\nSuccess Rate 60%, Dex+1, Accuracy +2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves the helmet&apos;s accuracy option.\nSuccess Rate 60%, Dex+1, Accuracy +2."/>
 </imgdir>
 <imgdir name="2040018">
 <string name="name" value="Scroll for Helmet for Accuracy"/>
@@ -1645,11 +1645,11 @@
 </imgdir>
 <imgdir name="2040025">
 <string name="name" value="Scroll for Helmet for INT 60%"/>
-<string name="desc" value="Improves INT on headwear.\nSuccess rate 60%, INT+2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves INT on headwear.\nSuccess rate 60%, INT+2."/>
 </imgdir>
 <imgdir name="2040026">
 <string name="name" value="Scroll for Helmet for INT 10%"/>
-<string name="desc" value="Improves INT on headwear.\nSuccess rate 10%, INT+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves INT on headwear.\nSuccess rate 10%, INT+3."/>
 </imgdir>
 <imgdir name="2040027">
 <string name="name" value="Scroll for Helmet for DEX 100%"/>
@@ -1657,27 +1657,27 @@
 </imgdir>
 <imgdir name="2040028">
 <string name="name" value="Scroll for Helmet for DEX 70%"/>
-<string name="desc" value="Improves DEX on headwear..Success rate 70%, DEX+2nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves DEX on headwear..Success rate 70%, DEX+2."/>
 </imgdir>
 <imgdir name="2040029">
 <string name="name" value="Scroll for Helmet for DEX 60%"/>
-<string name="desc" value="Improves DEX on headwear.\nSuccess rate 60%, DEX+2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves DEX on headwear.\nSuccess rate 60%, DEX+2."/>
 </imgdir>
 <imgdir name="2040030">
 <string name="name" value="Scroll for Helmet for DEX 30%"/>
-<string name="desc" value="Improves DEX on headwear..Success rate 30%, DEX+3nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves DEX on headwear..Success rate 30%, DEX+3."/>
 </imgdir>
 <imgdir name="2040031">
 <string name="name" value="Scroll for Helmet for DEX 10%"/>
-<string name="desc" value="Improves DEX on headwear.\nSuccess rate 10%, DEX+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves DEX on headwear.\nSuccess rate 10%, DEX+3."/>
 </imgdir>
 <imgdir name="2040100">
 <string name="name" value="Scroll for Face Accessory for HP"/>
-<string name="desc" value="Improves MaxHP on face accessories.\nSuccess rate:10%, MaxHP +30. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves MaxHP on face accessories.\nSuccess rate:10%, MaxHP +30."/>
 </imgdir>
 <imgdir name="2040101">
 <string name="name" value="Scroll for Face Accessory for HP"/>
-<string name="desc" value="Improves MaxHP on face accessories.\nSuccess rate:60%, MaxHP +15. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves MaxHP on face accessories.\nSuccess rate:60%, MaxHP +15."/>
 </imgdir>
 <imgdir name="2040102">
 <string name="name" value="Scroll for Face Accessory for HP"/>
@@ -1685,19 +1685,19 @@
 </imgdir>
 <imgdir name="2040103">
 <string name="name" value="Dark Scroll for Face Accessory for HP"/>
-<string name="desc" value="Improves MaxHP on face accessories.\nSuccess rate:30%, MaxHP +30 nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves MaxHP on face accessories.\nSuccess rate:30%, MaxHP +30 ."/>
 </imgdir>
 <imgdir name="2040104">
 <string name="name" value="Dark Scroll for Face Accessory for HP"/>
-<string name="desc" value="Improves MaxHP on face accessories.\nSuccess rate:70%, MaxHP +15 nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves MaxHP on face accessories.\nSuccess rate:70%, MaxHP +15 ."/>
 </imgdir>
 <imgdir name="2040105">
 <string name="name" value="Scroll for Face Accessory for Avoidability"/>
-<string name="desc" value="Improves avoidability on face accessories.\nSuccess rate:10%, Avoidability +2, DEX +2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves avoidability on face accessories.\nSuccess rate:10%, Avoidability +2, DEX +2."/>
 </imgdir>
 <imgdir name="2040106">
 <string name="name" value="Scroll for Face Accessory for Avoidability"/>
-<string name="desc" value="Improves avoidability on face accessories.\nSuccess rate:60%, Avoidability +1, DEX +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves avoidability on face accessories.\nSuccess rate:60%, Avoidability +1, DEX +1."/>
 </imgdir>
 <imgdir name="2040107">
 <string name="name" value="Scroll for Face Accessory for Avoidability"/>
@@ -1705,19 +1705,19 @@
 </imgdir>
 <imgdir name="2040108">
 <string name="name" value="Dark Scroll for Face Accessory for Avoidability"/>
-<string name="desc" value="Improves avoidability on face accessories.\nSuccess rate:30%, Avoidability +2, DEX +2 nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves avoidability on face accessories.\nSuccess rate:30%, Avoidability +2, DEX +2 ."/>
 </imgdir>
 <imgdir name="2040109">
 <string name="name" value="Dark Scroll for Face Accessory for Avoidability"/>
-<string name="desc" value="Improves avoidability on face accessories.\nSuccess rate:70%, Avoidability +1, DEX +1 nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves avoidability on face accessories.\nSuccess rate:70%, Avoidability +1, DEX +1 ."/>
 </imgdir>
 <imgdir name="2040200">
 <string name="name" value="Scroll for Eye Accessory for Accuracy"/>
-<string name="desc" value="Improves accuracy on eye accessories.\nSuccess rate:10%, Accuracy +3, DEX +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves accuracy on eye accessories.\nSuccess rate:10%, Accuracy +3, DEX +1."/>
 </imgdir>
 <imgdir name="2040201">
 <string name="name" value="Scroll for Eye Accessory for Accuracy"/>
-<string name="desc" value="Improves accuracy on eye accessories.\nSuccess rate:60%, Accuracy +2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves accuracy on eye accessories.\nSuccess rate:60%, Accuracy +2."/>
 </imgdir>
 <imgdir name="2040202">
 <string name="name" value="Scroll for Eye Accessory for Accuracy"/>
@@ -1725,19 +1725,19 @@
 </imgdir>
 <imgdir name="2040203">
 <string name="name" value="Dark Scroll for Eye Accessory for Accuracy"/>
-<string name="desc" value="Improves accuracy on eye accessories.\nSuccess rate:30%, Accuracy +3, DEX +1 nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves accuracy on eye accessories.\nSuccess rate:30%, Accuracy +3, DEX +1 ."/>
 </imgdir>
 <imgdir name="2040204">
 <string name="name" value="Dark Scroll for Eye Accessory for Accuracy"/>
-<string name="desc" value="Improves accuracy on eye accessories.\nSuccess rate:70%, Accuracy +2 nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves accuracy on eye accessories.\nSuccess rate:70%, Accuracy +2 ."/>
 </imgdir>
 <imgdir name="2040205">
 <string name="name" value="Scroll for Eye Accessory for INT"/>
-<string name="desc" value="Improves INT on eye accessories.\nSuccess rate:10%, INT +3, Magic Def. +2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves INT on eye accessories.\nSuccess rate:10%, INT +3, Magic Def. +2."/>
 </imgdir>
 <imgdir name="2040206">
 <string name="name" value="Scroll for Eye Accessory for INT"/>
-<string name="desc" value="Improves INT on eye accessories.\nSuccess rate:60%, INT +1, Magic Def. +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves INT on eye accessories.\nSuccess rate:60%, INT +1, Magic Def. +1."/>
 </imgdir>
 <imgdir name="2040207">
 <string name="name" value="Scroll for Eye Accessory for INT"/>
@@ -1745,11 +1745,11 @@
 </imgdir>
 <imgdir name="2040208">
 <string name="name" value="Dark Scroll for Eye Accessory for INT"/>
-<string name="desc" value="Improves INT on eye accessories.\nSuccess rate:30%, INT +3, Magic Def. +2 nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves INT on eye accessories.\nSuccess rate:30%, INT +3, Magic Def. +2 ."/>
 </imgdir>
 <imgdir name="2040209">
 <string name="name" value="Dark Scroll for Eye Accessory for INT"/>
-<string name="desc" value="Improves INT on eye accessories.\nSuccess rate:70%, INT +1, Magic Def. +1 nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves INT on eye accessories.\nSuccess rate:70%, INT +1, Magic Def. +1 ."/>
 </imgdir>
 <imgdir name="2040300">
 <string name="name" value="Scroll for Earring for INT"/>
@@ -1757,11 +1757,11 @@
 </imgdir>
 <imgdir name="2040301">
 <string name="name" value="Scroll for Earring for INT"/>
-<string name="desc" value="Improves INT on ear accessory.\nSuccess rate:60%, magic attack +2, INT+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves INT on ear accessory.\nSuccess rate:60%, magic attack +2, INT+1."/>
 </imgdir>
 <imgdir name="2040302">
 <string name="name" value="Scroll for Earring for INT"/>
-<string name="desc" value="Improves INT on ear accessory.\nSuccess rate:10%, magic attack +5, INT+3, magic def. +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves INT on ear accessory.\nSuccess rate:10%, magic attack +5, INT+3, magic def. +1."/>
 </imgdir>
 <imgdir name="2040303">
 <string name="name" value="Scroll for Earring for INT"/>
@@ -1769,35 +1769,35 @@
 </imgdir>
 <imgdir name="2040304">
 <string name="name" value="Dark scroll for Earring for INT"/>
-<string name="desc" value="Improves INT on ear accessory.\nSuccess rate:70%, magic attack +2, INT+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves INT on ear accessory.\nSuccess rate:70%, magic attack +2, INT+1."/>
 </imgdir>
 <imgdir name="2040305">
 <string name="name" value="Dark scroll for Earring for INT"/>
-<string name="desc" value="Improves INT on ear accessory.\nSuccess rate:30%, magic attack +5, INT+3, magic def. +1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves INT on ear accessory.\nSuccess rate:30%, magic attack +5, INT+3, magic def. +1."/>
 </imgdir>
 <imgdir name="2040306">
 <string name="name" value="Dark scroll for Earring for DEX"/>
-<string name="desc" value="Improves DEX on ear accesrroy.\nSuccess rate: 70%. DEX + 2nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves DEX on ear accesrroy.\nSuccess rate: 70%. DEX + 2."/>
 </imgdir>
 <imgdir name="2040307">
 <string name="name" value="Dark scroll for Earring for DEX"/>
-<string name="desc" value="Improves DEX on ear accessorynSuccess rate: 30%. DEX + 3nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves DEX on ear accessorynSuccess rate: 30%. DEX + 3."/>
 </imgdir>
 <imgdir name="2040308">
 <string name="name" value="Dark Scroll for Earrings for DEF"/>
-<string name="desc" value="Improves DEF on earringsnSuccess Rate 70%, weapon defense+1, magic defense+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves DEF on earringsnSuccess Rate 70%, weapon defense+1, magic defense+1."/>
 </imgdir>
 <imgdir name="2040309">
 <string name="name" value="Dark Scroll for Earrings for DEF"/>
-<string name="desc" value="Improves DEF on earringsnSuccess Rate 30%, weapon defense+3, magic defense+3, accuracy+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves DEF on earringsnSuccess Rate 30%, weapon defense+3, magic defense+3, accuracy+1."/>
 </imgdir>
 <imgdir name="2040310">
 <string name="name" value="Scroll for Earring for DEF"/>
-<string name="desc" value="Improves DEF on earrings.\nSuccess Rate 10%, weapon defense+3, magic defense+3, Accuracy+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves DEF on earrings.\nSuccess Rate 10%, weapon defense+3, magic defense+3, Accuracy+1."/>
 </imgdir>
 <imgdir name="2040311">
 <string name="name" value="Scroll for Earring for DEF"/>
-<string name="desc" value="Improves DEF on earrings.\nSuccess Rate 60%, weapon defense+1, magic defense+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves DEF on earrings.\nSuccess Rate 60%, weapon defense+1, magic defense+1."/>
 </imgdir>
 <imgdir name="2040312">
 <string name="name" value="Scroll for Earring for DEF"/>
@@ -1821,11 +1821,11 @@
 </imgdir>
 <imgdir name="2040317">
 <string name="name" value="Scroll for Earring for DEX 60%"/>
-<string name="desc" value="Improves DEX on earrings.\nSuccess rate:60%, DEX+2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves DEX on earrings.\nSuccess rate:60%, DEX+2."/>
 </imgdir>
 <imgdir name="2040318">
 <string name="name" value="Scroll for Earring for DEX 10%"/>
-<string name="desc" value="Improves DEX on earrings.\nSuccess rate:10%, DEX+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves DEX on earrings.\nSuccess rate:10%, DEX+3."/>
 </imgdir>
 <imgdir name="2040319">
 <string name="name" value="Scroll for Earring for LUK 100%"/>
@@ -1833,19 +1833,19 @@
 </imgdir>
 <imgdir name="2040320">
 <string name="name" value="Scroll for Earring for LUK 70%"/>
-<string name="desc" value="Improves LUK on earrings..\nSuccess rate:70%, LUK+2nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves LUK on earrings..\nSuccess rate:70%, LUK+2."/>
 </imgdir>
 <imgdir name="2040321">
 <string name="name" value="Scroll for Earring for LUK 60%"/>
-<string name="desc" value="Improves LUK on earrings.\nSuccess rate:60%, LUK+2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves LUK on earrings.\nSuccess rate:60%, LUK+2."/>
 </imgdir>
 <imgdir name="2040322">
 <string name="name" value="Scroll for Earring for LUK 30%"/>
-<string name="desc" value="Improves LUK on earrings..\nSuccess rate:30%, LUK+3nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves LUK on earrings..\nSuccess rate:30%, LUK+3."/>
 </imgdir>
 <imgdir name="2040323">
 <string name="name" value="Scroll for Earring for LUK 10%"/>
-<string name="desc" value="Improves LUK on earrings.\nSuccess rate:10%, LUK+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves LUK on earrings.\nSuccess rate:10%, LUK+3."/>
 </imgdir>
 <imgdir name="2040324">
 <string name="name" value="Scroll for Earring for HP 100%"/>
@@ -1853,19 +1853,19 @@
 </imgdir>
 <imgdir name="2040325">
 <string name="name" value="Scroll for Earring for HP 70%"/>
-<string name="desc" value="Improves HP on earrings..\nSuccess rate:70%, MaxHP+15nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves HP on earrings..\nSuccess rate:70%, MaxHP+15."/>
 </imgdir>
 <imgdir name="2040326">
 <string name="name" value="Scroll for Earring for HP 60%"/>
-<string name="desc" value="Improves HP on earrings.\nSuccess rate:60%, MaxHP+15. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves HP on earrings.\nSuccess rate:60%, MaxHP+15."/>
 </imgdir>
 <imgdir name="2040327">
 <string name="name" value="Scroll for Earring for HP 30%"/>
-<string name="desc" value="Improves HP on earrings..\nSuccess rate:30%, MaxHP+30nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves HP on earrings..\nSuccess rate:30%, MaxHP+30."/>
 </imgdir>
 <imgdir name="2040328">
 <string name="name" value="Scroll for Earring for HP 10%"/>
-<string name="desc" value="Improves HP on earrings.\nSuccess rate:10%, MaxHP+30. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves HP on earrings.\nSuccess rate:10%, MaxHP+30."/>
 </imgdir>
 <imgdir name="2040400">
 <string name="name" value="Scroll for Topwear for DEF"/>
@@ -1873,11 +1873,11 @@
 </imgdir>
 <imgdir name="2040401">
 <string name="name" value="Scroll for Topwear for DEF"/>
-<string name="desc" value="Improves weapon def. on topwear.\nSuccess rate:60%, weapon def.+2, magic def.+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves weapon def. on topwear.\nSuccess rate:60%, weapon def.+2, magic def.+1."/>
 </imgdir>
 <imgdir name="2040402">
 <string name="name" value="Scroll for Topwear for DEF"/>
-<string name="desc" value="Improves weapon def. on topwear.\nSuccess rate:10%, weapon def. +5, magic def. +3, MaxHP+10. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves weapon def. on topwear.\nSuccess rate:10%, weapon def. +5, magic def. +3, MaxHP+10."/>
 </imgdir>
 <imgdir name="2040403">
 <string name="name" value="Scroll for Topwear for DEF"/>
@@ -1885,43 +1885,43 @@
 </imgdir>
 <imgdir name="2040404">
 <string name="name" value="Dark scroll for Topwear for DEF"/>
-<string name="desc" value="Improves weapon def. on topwear.\nSuccess rate:70%, weapon def. +2, magic def. +1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves weapon def. on topwear.\nSuccess rate:70%, weapon def. +2, magic def. +1."/>
 </imgdir>
 <imgdir name="2040405">
 <string name="name" value="Dark scroll for Topwear for DEF"/>
-<string name="desc" value="Improves weapon def. on topwear.\nSuccess rate:30%, weapon def. +5, magic def. +3, MaxHP+10nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves weapon def. on topwear.\nSuccess rate:30%, weapon def. +5, magic def. +3, MaxHP+10."/>
 </imgdir>
 <imgdir name="2040406">
 <string name="name" value="Dark scroll for Topwear for STR"/>
-<string name="desc" value="Improves STR on topwear.\nSuccess rate: 70%, STR + 2nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves STR on topwear.\nSuccess rate: 70%, STR + 2."/>
 </imgdir>
 <imgdir name="2040407">
 <string name="name" value="Dark scroll for Topwear for STR"/>
-<string name="desc" value="Improves STR on topwear.\nSuccess rate: 30%, STR + 3nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves STR on topwear.\nSuccess rate: 30%, STR + 3."/>
 </imgdir>
 <imgdir name="2040408">
 <string name="name" value="Dark scroll for Topwear for HP"/>
-<string name="desc" value="Improves HP on topwear.\nSuccess rate: 70%, MaxHP + 15nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves HP on topwear.\nSuccess rate: 70%, MaxHP + 15."/>
 </imgdir>
 <imgdir name="2040409">
 <string name="name" value="Dark scroll for Topwear for HP"/>
-<string name="desc" value="Improves HP on topwear.\nSuccess rate: 30%, MaxHP + 30nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves HP on topwear.\nSuccess rate: 30%, MaxHP + 30."/>
 </imgdir>
 <imgdir name="2040410">
 <string name="name" value="Dark Scroll for Topwear for LUK"/>
-<string name="desc" value="Improves LUK on the topwear.\nSuccess Rate 70%, LUK+2, avoidability+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves LUK on the topwear.\nSuccess Rate 70%, LUK+2, avoidability+1."/>
 </imgdir>
 <imgdir name="2040411">
 <string name="name" value="Dark Scroll for Topwear for LUK"/>
-<string name="desc" value="Improves LUK on the topwear.\nSuccess Rate 30%, LUK+3, avoidability+3nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves LUK on the topwear.\nSuccess Rate 30%, LUK+3, avoidability+3."/>
 </imgdir>
 <imgdir name="2040412">
 <string name="name" value="Scroll for Topwear for LUK"/>
-<string name="desc" value="Improves LUK on the topwear.\nSuccess Rate 10%, LUK+3, avoidability+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves LUK on the topwear.\nSuccess Rate 10%, LUK+3, avoidability+3."/>
 </imgdir>
 <imgdir name="2040413">
 <string name="name" value="Scroll for Topwear for LUK"/>
-<string name="desc" value="Improves LUK on the topwear.\nSuccess Rate 60%, LUK+2, avoidability+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves LUK on the topwear.\nSuccess Rate 60%, LUK+2, avoidability+1."/>
 </imgdir>
 <imgdir name="2040414">
 <string name="name" value="Scroll for Topwear for LUK"/>
@@ -1941,11 +1941,11 @@
 </imgdir>
 <imgdir name="2040418">
 <string name="name" value="Scroll for Topwear for STR 60%"/>
-<string name="desc" value="Improves strength on topwear.\nSuccess rate 60%, STR+2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves strength on topwear.\nSuccess rate 60%, STR+2."/>
 </imgdir>
 <imgdir name="2040419">
 <string name="name" value="Scroll for Topwear for STR 10%"/>
-<string name="desc" value="Improves strength on topwear.\nSuccess rate 10%, STR+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves strength on topwear.\nSuccess rate 10%, STR+3."/>
 </imgdir>
 <imgdir name="2040420">
 <string name="name" value="Scroll for Topwear for HP 100%"/>
@@ -1953,11 +1953,11 @@
 </imgdir>
 <imgdir name="2040421">
 <string name="name" value="Scroll for Topwear for HP 60%"/>
-<string name="desc" value="Improves HP on topwear.\nSuccess rate 60%, MaxHP + 15. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves HP on topwear.\nSuccess rate 60%, MaxHP + 15."/>
 </imgdir>
 <imgdir name="2040422">
 <string name="name" value="Scroll for Topwear for HP 10%"/>
-<string name="desc" value="Improves HP on topwear.\nSuccess rate 10%, MaxHP + 30. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves HP on topwear.\nSuccess rate 10%, MaxHP + 30."/>
 </imgdir>
 <imgdir name="2040423">
 <string name="name" value="Scroll for Topwear for LUK 100%"/>
@@ -1965,19 +1965,19 @@
 </imgdir>
 <imgdir name="2040424">
 <string name="name" value="Scroll for Topwear for LUK 70%"/>
-<string name="desc" value="Improves luck on topwear..\nSuccess rate:70%, LUK+2nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves luck on topwear..\nSuccess rate:70%, LUK+2."/>
 </imgdir>
 <imgdir name="2040425">
 <string name="name" value="Scroll for Topwear for LUK 60%"/>
-<string name="desc" value="Improves luck on topwear.\nSuccess rate:60%, LUK+2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves luck on topwear.\nSuccess rate:60%, LUK+2."/>
 </imgdir>
 <imgdir name="2040426">
 <string name="name" value="Scroll for Topwear for LUK 30%"/>
-<string name="desc" value="Improves luck on topwear..\nSuccess rate:30%, LUK+3nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves luck on topwear..\nSuccess rate:30%, LUK+3."/>
 </imgdir>
 <imgdir name="2040427">
 <string name="name" value="Scroll for Topwear for LUK 10%"/>
-<string name="desc" value="Improves luck on topwear.\nSuccess rate:10%, LUK+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves luck on topwear.\nSuccess rate:10%, LUK+3."/>
 </imgdir>
 <imgdir name="2040500">
 <string name="name" value="Scroll for Overall Armor for DEX"/>
@@ -1985,11 +1985,11 @@
 </imgdir>
 <imgdir name="2040501">
 <string name="name" value="Scroll for Overall Armor for DEX"/>
-<string name="desc" value="Improves dexterity on the overall armor.\nSuccess rate:60%, DEX+2, accuracy+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves dexterity on the overall armor.\nSuccess rate:60%, DEX+2, accuracy+1."/>
 </imgdir>
 <imgdir name="2040502">
 <string name="name" value="Scroll for Overall Armor for DEX"/>
-<string name="desc" value="Improves dexterity on the overall armor.\nSuccess rate:10%, DEX+5, accuracy+3, speed+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves dexterity on the overall armor.\nSuccess rate:10%, DEX+5, accuracy+3, speed+1."/>
 </imgdir>
 <imgdir name="2040503">
 <string name="name" value="Scroll for Overall Armor for DEF"/>
@@ -1997,11 +1997,11 @@
 </imgdir>
 <imgdir name="2040504">
 <string name="name" value="Scroll for Overall Armor for DEF"/>
-<string name="desc" value="Improves def. on the overall armor.\nSuccess rate:60%, weapon def.+2, magic def.+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves def. on the overall armor.\nSuccess rate:60%, weapon def.+2, magic def.+1."/>
 </imgdir>
 <imgdir name="2040505">
 <string name="name" value="Scroll for Overall Armor for DEF"/>
-<string name="desc" value="Improves def. on the overall armor.\nSuccess rate:10%, wepon def. +5, magic def. +3, MaxHP+10. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves def. on the overall armor.\nSuccess rate:10%, wepon def. +5, magic def. +3, MaxHP+10."/>
 </imgdir>
 <imgdir name="2040506">
 <string name="name" value="Scroll for Overall Armor for DEX"/>
@@ -2013,19 +2013,19 @@
 </imgdir>
 <imgdir name="2040508">
 <string name="name" value="Dark scroll for Overall Armor for DEX"/>
-<string name="desc" value="Improves dexterity on the overall armor.\nSuccess rate:70%, DEX+2, accuracy+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves dexterity on the overall armor.\nSuccess rate:70%, DEX+2, accuracy+1."/>
 </imgdir>
 <imgdir name="2040509">
 <string name="name" value="Dark scroll for Overall Armor for DEX"/>
-<string name="desc" value="Improves dexterity on the overall armor.\nSuccess rate:30%, DEX+4, accuracy+3, speed+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves dexterity on the overall armor.\nSuccess rate:30%, DEX+4, accuracy+3, speed+1."/>
 </imgdir>
 <imgdir name="2040510">
 <string name="name" value="Dark scroll for Overall Armor for DEF"/>
-<string name="desc" value="Improves weapon def. on the overall armor.\nSuccess rate:70%, weapon def.+2, magic def.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves weapon def. on the overall armor.\nSuccess rate:70%, weapon def.+2, magic def.+1."/>
 </imgdir>
 <imgdir name="2040511">
 <string name="name" value="Dark scroll for Overall Armor for DEF"/>
-<string name="desc" value="Improves weapon def. on the overall armor.\nSuccess rate:30%, weapon def.+5, magic def.+3, MaxHP+10nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves weapon def. on the overall armor.\nSuccess rate:30%, weapon def.+5, magic def.+3, MaxHP+10."/>
 </imgdir>
 <imgdir name="2040512">
 <string name="name" value="Scroll for Overall Armor for INT"/>
@@ -2033,11 +2033,11 @@
 </imgdir>
 <imgdir name="2040513">
 <string name="name" value="Scroll for Overall Armor for INT"/>
-<string name="desc" value="Improves INT on the overall armor.\nSuccess rate: 60%, INT + 2, magic def. +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves INT on the overall armor.\nSuccess rate: 60%, INT + 2, magic def. +1."/>
 </imgdir>
 <imgdir name="2040514">
 <string name="name" value="Scroll for Overall Armor for INT"/>
-<string name="desc" value="Improves INT on the overall armor.\nSuccess rate: 10%, INT + 5, magic def. + 3, MaxMP + 10. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves INT on the overall armor.\nSuccess rate: 10%, INT + 5, magic def. + 3, MaxMP + 10."/>
 </imgdir>
 <imgdir name="2040515">
 <string name="name" value="Scroll for Overall Armor for LUK"/>
@@ -2045,27 +2045,27 @@
 </imgdir>
 <imgdir name="2040516">
 <string name="name" value="Scroll for Overall Armor for LUK"/>
-<string name="desc" value="Improves LUK on the overall armor.\nSuccess rate: 60%, LUK + 2, avoidability + 1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves LUK on the overall armor.\nSuccess rate: 60%, LUK + 2, avoidability + 1."/>
 </imgdir>
 <imgdir name="2040517">
 <string name="name" value="Scroll for Overall Armor for LUK"/>
-<string name="desc" value="Improves LUK on the overall armor.\nSuccess rate: 10%, LUK + 5, avoidability + 3, accuracy + 1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves LUK on the overall armor.\nSuccess rate: 10%, LUK + 5, avoidability + 3, accuracy + 1."/>
 </imgdir>
 <imgdir name="2040518">
 <string name="name" value="Dark scroll for Overall Armor for INT"/>
-<string name="desc" value="Improves INT on the overall armor.\nSuccess rate:70%, INT+2, magic defense+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves INT on the overall armor.\nSuccess rate:70%, INT+2, magic defense+1."/>
 </imgdir>
 <imgdir name="2040519">
 <string name="name" value="Dark scroll for Overall Armor for INT"/>
-<string name="desc" value="Improves INT on the overall armor.\nSuccess rate:30%, INT+5, magic defense+3, MaxMP+10nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves INT on the overall armor.\nSuccess rate:30%, INT+5, magic defense+3, MaxMP+10."/>
 </imgdir>
 <imgdir name="2040520">
 <string name="name" value="Dark scroll for Overall Armor for LUK"/>
-<string name="desc" value="Improves LUK on the overall armor.\nSuccess rate:70%, LUK+2, avoidability+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves LUK on the overall armor.\nSuccess rate:70%, LUK+2, avoidability+1."/>
 </imgdir>
 <imgdir name="2040521">
 <string name="name" value="Dark scroll for Overall Armor for LUK"/>
-<string name="desc" value="Improves LUK on the overall armor.\nSuccess rate:30%, LUK+5, avoidability+3, accuracy+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves LUK on the overall armor.\nSuccess rate:30%, LUK+5, avoidability+3, accuracy+1."/>
 </imgdir>
 <imgdir name="2040522">
 <string name="name" value="Scroll for Overall Armor for DEX"/>
@@ -2105,19 +2105,19 @@
 </imgdir>
 <imgdir name="2040531">
 <string name="name" value="Scroll for Overall for STR 70%"/>
-<string name="desc" value="Improves strength on overalls..\nSuccess rate:70%, STR+2, weapon def.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves strength on overalls..\nSuccess rate:70%, STR+2, weapon def.+1."/>
 </imgdir>
 <imgdir name="2040532">
 <string name="name" value="Scroll for Overall for STR 60%"/>
-<string name="desc" value="Improves strength on overalls.\nSuccess rate:60%, STR+2, weapon def.+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves strength on overalls.\nSuccess rate:60%, STR+2, weapon def.+1."/>
 </imgdir>
 <imgdir name="2040533">
 <string name="name" value="Scroll for Overall for STR 30%"/>
-<string name="desc" value="Improves strength on overalls..\nSuccess rate:30%, STR+5, weapon def.+3, MaxHp+5nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves strength on overalls..\nSuccess rate:30%, STR+5, weapon def.+3, MaxHp+5."/>
 </imgdir>
 <imgdir name="2040534">
 <string name="name" value="Scroll for Overall for STR 10%"/>
-<string name="desc" value="Improves strength on overalls.\nSuccess rate:10%, STR+5, weapon def.+3, MaxHP+5. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves strength on overalls.\nSuccess rate:10%, STR+5, weapon def.+3, MaxHP+5."/>
 </imgdir>
 <imgdir name="2040600">
 <string name="name" value="Scroll for Bottomwear for DEF"/>
@@ -2125,11 +2125,11 @@
 </imgdir>
 <imgdir name="2040601">
 <string name="name" value="Scroll for Bottomwear for DEF"/>
-<string name="desc" value="Improves weapon def. on the bottomwear.\nSuccess rate:60%, weapon def. +2, magic def. +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves weapon def. on the bottomwear.\nSuccess rate:60%, weapon def. +2, magic def. +1."/>
 </imgdir>
 <imgdir name="2040602">
 <string name="name" value="Scroll for Bottomwear for DEF"/>
-<string name="desc" value="Improves weapon def. on the bottomwear.\nSuccess rate:10%, weapon def.+5, magic def.+3, MaxHP+10. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves weapon def. on the bottomwear.\nSuccess rate:10%, weapon def.+5, magic def.+3, MaxHP+10."/>
 </imgdir>
 <imgdir name="2040603">
 <string name="name" value="Scroll for Bottomwear for DEF"/>
@@ -2137,43 +2137,43 @@
 </imgdir>
 <imgdir name="2040604">
 <string name="name" value="Dark scroll for Bottomwear for DEF"/>
-<string name="desc" value="Improves weapon def. on the bottomwear.\nSuccess rate:70%, weapon def.+2, magic def.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves weapon def. on the bottomwear.\nSuccess rate:70%, weapon def.+2, magic def.+1."/>
 </imgdir>
 <imgdir name="2040605">
 <string name="name" value="Dark scroll for Bottomwear for DEF"/>
-<string name="desc" value="Improves weapon def. on the bottomwear.\nSuccess rate: 30%, weapon def.+5, magic def. + 3, MaxHP + 10nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves weapon def. on the bottomwear.\nSuccess rate: 30%, weapon def.+5, magic def. + 3, MaxHP + 10."/>
 </imgdir>
 <imgdir name="2040606">
 <string name="name" value="Dark scroll for Bottomwear for Jump"/>
-<string name="desc" value="Improves jump on the bottomwear.\nSuccess rate: 70%, jump + 2, avoidability + 1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves jump on the bottomwear.\nSuccess rate: 70%, jump + 2, avoidability + 1."/>
 </imgdir>
 <imgdir name="2040607">
 <string name="name" value="Dark scroll for Bottomwear for Jump"/>
-<string name="desc" value="Improves jump on the bottomwear.\nSuccess rate: 30%. jump + 4, avoidability + 2nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves jump on the bottomwear.\nSuccess rate: 30%. jump + 4, avoidability + 2."/>
 </imgdir>
 <imgdir name="2040608">
 <string name="name" value="Dark scroll for Bottomwear for HP"/>
-<string name="desc" value="Improves HP on the bottomwear.\nSuccess rate: 70%. MaxHP + 15nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves HP on the bottomwear.\nSuccess rate: 70%. MaxHP + 15."/>
 </imgdir>
 <imgdir name="2040609">
 <string name="name" value="Dark scroll for Bottomwear for HP"/>
-<string name="desc" value="Improves HP on the bottomwear.\nSuccess rate: 30%. MaxHP + 30nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves HP on the bottomwear.\nSuccess rate: 30%. MaxHP + 30."/>
 </imgdir>
 <imgdir name="2040610">
 <string name="name" value="Dark Scroll for Bottomwear for DEX"/>
-<string name="desc" value="Improves dexterity on the bottomwear.\nSuccess Rate 70%, DEX+2, speed+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves dexterity on the bottomwear.\nSuccess Rate 70%, DEX+2, speed+1."/>
 </imgdir>
 <imgdir name="2040611">
 <string name="name" value="Dark Scroll for Bottomwear for DEX"/>
-<string name="desc" value="Improves dexterity on the bottomwear.\nSuccess Rate 30%, DEX+3, speed+3nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves dexterity on the bottomwear.\nSuccess Rate 30%, DEX+3, speed+3."/>
 </imgdir>
 <imgdir name="2040612">
 <string name="name" value="Scroll for Bottomwear for DEX"/>
-<string name="desc" value="Improves dexterity on the bottomwear.\nSuccess Rate 10%, DEX+3, speed+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves dexterity on the bottomwear.\nSuccess Rate 10%, DEX+3, speed+3."/>
 </imgdir>
 <imgdir name="2040613">
 <string name="name" value="Scroll for Bottomwear for DEX"/>
-<string name="desc" value="Improves dexterity on the bottomwear.\nSuccess Rate 60%, DEX+2, speed+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves dexterity on the bottomwear.\nSuccess Rate 60%, DEX+2, speed+1."/>
 </imgdir>
 <imgdir name="2040614">
 <string name="name" value="Scroll for Bottomwear for DEX"/>
@@ -2193,11 +2193,11 @@
 </imgdir>
 <imgdir name="2040618">
 <string name="name" value="Scroll for Bottomwear for Jump 60%"/>
-<string name="desc" value="Improves jumping abilities on bottomwears.\nSuccess rate:60%, jump+2, avoidability+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves jumping abilities on bottomwears.\nSuccess rate:60%, jump+2, avoidability+1."/>
 </imgdir>
 <imgdir name="2040619">
 <string name="name" value="Scroll for Bottomwear for Jump 10%"/>
-<string name="desc" value="Improves jumping abilities on bottomwears..\nSuccess rate:10%, jump+4, avoidability+2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves jumping abilities on bottomwears..\nSuccess rate:10%, jump+4, avoidability+2."/>
 </imgdir>
 <imgdir name="2040620">
 <string name="name" value="Scroll for Bottomwear for HP 100%"/>
@@ -2205,11 +2205,11 @@
 </imgdir>
 <imgdir name="2040621">
 <string name="name" value="Scroll for Bottomwear for HP 60%"/>
-<string name="desc" value="Improves HP on bottomwears.\nSuccess rate:60%, MaxHP+15. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves HP on bottomwears.\nSuccess rate:60%, MaxHP+15."/>
 </imgdir>
 <imgdir name="2040622">
 <string name="name" value="Scroll for Bottomwear for HP 10%"/>
-<string name="desc" value="Improves HP on bottomwears.\nSuccess rate:10%, MaxHP+30. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves HP on bottomwears.\nSuccess rate:10%, MaxHP+30."/>
 </imgdir>
 <imgdir name="2040623">
 <string name="name" value="Scroll for Bottomwear for DEX 100%"/>
@@ -2217,19 +2217,19 @@
 </imgdir>
 <imgdir name="2040624">
 <string name="name" value="Scroll for Bottomwear for DEX 70%"/>
-<string name="desc" value="Improves dexterity on bottomwears..\nSuccess rate:70%, DEX+2, accuracy+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves dexterity on bottomwears..\nSuccess rate:70%, DEX+2, accuracy+1."/>
 </imgdir>
 <imgdir name="2040625">
 <string name="name" value="Scroll for Bottomwear for DEX 60%"/>
-<string name="desc" value="Improves dexterity on bottomwears.\nSuccess rate:60%, DEX+2, accuracy+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves dexterity on bottomwears.\nSuccess rate:60%, DEX+2, accuracy+1."/>
 </imgdir>
 <imgdir name="2040626">
 <string name="name" value="Scroll for Bottomwear for DEX 30%"/>
-<string name="desc" value="Improves dexterity on bottomwears..\nSuccess rate:30%, DEX+3, accuracy+2, speed+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves dexterity on bottomwears..\nSuccess rate:30%, DEX+3, accuracy+2, speed+1."/>
 </imgdir>
 <imgdir name="2040627">
 <string name="name" value="Scroll for Bottomwear for DEX 10%"/>
-<string name="desc" value="Improves dexterity on bottomwears.\nSuccess rate:10%, DEX+3, accuracy+2, speed+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves dexterity on bottomwears.\nSuccess rate:10%, DEX+3, accuracy+2, speed+1."/>
 </imgdir>
 <imgdir name="2040700">
 <string name="name" value="Scroll for Shoes for DEX"/>
@@ -2237,11 +2237,11 @@
 </imgdir>
 <imgdir name="2040701">
 <string name="name" value="Scroll for Shoes for DEX"/>
-<string name="desc" value="Improves dexterity on shoes.\nSuccess rate:60%, Avoidability +2, Accuracy+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves dexterity on shoes.\nSuccess rate:60%, Avoidability +2, Accuracy+1."/>
 </imgdir>
 <imgdir name="2040702">
 <string name="name" value="Scroll for Shoes for DEX"/>
-<string name="desc" value="Improves dexterity on shoes.\nSuccess rate:10%, Avoidability +5, accuracy +3, speed+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves dexterity on shoes.\nSuccess rate:10%, Avoidability +5, accuracy +3, speed+1."/>
 </imgdir>
 <imgdir name="2040703">
 <string name="name" value="Scroll for Shoes for Jump"/>
@@ -2249,11 +2249,11 @@
 </imgdir>
 <imgdir name="2040704">
 <string name="name" value="Scroll for Shoes for Jump"/>
-<string name="desc" value="Improves jump on shoes.\nSuccess rate: 60%, jump +2, DEX+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves jump on shoes.\nSuccess rate: 60%, jump +2, DEX+1."/>
 </imgdir>
 <imgdir name="2040705">
 <string name="name" value="Scroll for Shoes for Jump"/>
-<string name="desc" value="Improves jump on shoes.\nSuccess rate:10%, jump+5, DEX+3, speed+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves jump on shoes.\nSuccess rate:10%, jump+5, DEX+3, speed+1."/>
 </imgdir>
 <imgdir name="2040706">
 <string name="name" value="Scroll for Shoes for Speed"/>
@@ -2265,7 +2265,7 @@
 </imgdir>
 <imgdir name="2040708">
 <string name="name" value="Scroll for Shoes for Speed"/>
-<string name="desc" value="Improves speed on shoes.\nSuccess rate:10%, speed+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves speed on shoes.\nSuccess rate:10%, speed+3."/>
 </imgdir>
 <imgdir name="2040709">
 <string name="name" value="Scroll for Shoes for DEX"/>
@@ -2281,27 +2281,27 @@
 </imgdir>
 <imgdir name="2040712">
 <string name="name" value="Dark scroll for Shoes for DEX"/>
-<string name="desc" value="Improves DEX on shoes.\nSuccess rate:70%, avoidability+2, accuracy+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves DEX on shoes.\nSuccess rate:70%, avoidability+2, accuracy+1."/>
 </imgdir>
 <imgdir name="2040713">
 <string name="name" value="Dark scroll for Shoes for DEX"/>
-<string name="desc" value="Improves DEX on shoes.\nSuccess rate:30%, avoidability+5, accuracy+3, speed+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves DEX on shoes.\nSuccess rate:30%, avoidability+5, accuracy+3, speed+1."/>
 </imgdir>
 <imgdir name="2040714">
 <string name="name" value="Dark scroll for Shoes for Jump"/>
-<string name="desc" value="Improves jump on shoes.\nSuccess rate:70%, jump+2, DEX+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves jump on shoes.\nSuccess rate:70%, jump+2, DEX+1."/>
 </imgdir>
 <imgdir name="2040715">
 <string name="name" value="Dark scroll for Shoes for Jump"/>
-<string name="desc" value="Improves jump on shoes.\nSuccess rate:30%, jump+5, DEX+3, speed+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves jump on shoes.\nSuccess rate:30%, jump+5, DEX+3, speed+1."/>
 </imgdir>
 <imgdir name="2040716">
 <string name="name" value="Dark scroll for Shoes for Speed"/>
-<string name="desc" value="Improves speed on shoes.\nSuccess rate:70%, speed+2nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves speed on shoes.\nSuccess rate:70%, speed+2."/>
 </imgdir>
 <imgdir name="2040717">
 <string name="name" value="Dark scroll for Shoes for Speed"/>
-<string name="desc" value="Improves speed on shoes.\nSuccess rate:30%, speed+3nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves speed on shoes.\nSuccess rate:30%, speed+3."/>
 </imgdir>
 <imgdir name="2040718">
 <string name="name" value="Scroll for Shoes for DEX"/>
@@ -2329,7 +2329,7 @@
 </imgdir>
 <imgdir name="2040727">
 <string name="name" value="Scroll for Spikes on Shoes 10%"/>
-<string name="desc" value="Adds traction to the shoes, which prevents the shoes from slipping on slippery surface.\nSuccess rate:10%, Does not affect the number of upgrades available. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Adds traction to the shoes, which prevents the shoes from slipping on slippery surface.\nSuccess rate:10%, Does not affect the number of upgrades available."/>
 </imgdir>
 <imgdir name="2040800">
 <string name="name" value="Scroll for Gloves for DEX"/>
@@ -2337,11 +2337,11 @@
 </imgdir>
 <imgdir name="2040801">
 <string name="name" value="Scroll for Gloves for DEX"/>
-<string name="desc" value="Improves dexterity on gloves.\nSuccess rate: 60%, accuracy+2, DEX+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves dexterity on gloves.\nSuccess rate: 60%, accuracy+2, DEX+1."/>
 </imgdir>
 <imgdir name="2040802">
 <string name="name" value="Scroll for Gloves for DEX"/>
-<string name="desc" value="Improves dexterity on gloves.\nSuccess rate:10%, accuracy+5, DEX+3, avoidability+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves dexterity on gloves.\nSuccess rate:10%, accuracy+5, DEX+3, avoidability+1."/>
 </imgdir>
 <imgdir name="2040803">
 <string name="name" value="Scroll for Gloves for ATT"/>
@@ -2349,11 +2349,11 @@
 </imgdir>
 <imgdir name="2040804">
 <string name="name" value="Scroll for Gloves for ATT"/>
-<string name="desc" value="Improves attack on gloves.\nSuccess rate 60%, weapon att. +2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on gloves.\nSuccess rate 60%, weapon att. +2."/>
 </imgdir>
 <imgdir name="2040805">
 <string name="name" value="Scroll for Gloves for ATT"/>
-<string name="desc" value="Improves attack on gloves.\nSuccess rate:10%, weapon att.+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on gloves.\nSuccess rate:10%, weapon att.+3."/>
 </imgdir>
 <imgdir name="2040806">
 <string name="name" value="Scroll for Gloves for DEX"/>
@@ -2365,43 +2365,43 @@
 </imgdir>
 <imgdir name="2040808">
 <string name="name" value="Dark scroll for Gloves for DEX"/>
-<string name="desc" value="Improves DEX on the glove.\nSuccess rate:70%, accuracy+2, DEX+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves DEX on the glove.\nSuccess rate:70%, accuracy+2, DEX+1."/>
 </imgdir>
 <imgdir name="2040809">
 <string name="name" value="Dark scroll for Gloves for DEX"/>
-<string name="desc" value="Improves DEX on the glove.\nSuccess rate:30%, accuracy+5, DEX+3, avoidability+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves DEX on the glove.\nSuccess rate:30%, accuracy+5, DEX+3, avoidability+1."/>
 </imgdir>
 <imgdir name="2040810">
 <string name="name" value="Dark scroll for Gloves for ATT"/>
-<string name="desc" value="Improves weapon att. on the glove.\nSuccess rate:70%, weapon att.+2nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves weapon att. on the glove.\nSuccess rate:70%, weapon att.+2."/>
 </imgdir>
 <imgdir name="2040811">
 <string name="name" value="Dark scroll for Gloves for ATT"/>
-<string name="desc" value="Improves weapon att. on the glove.\nSuccess rate:30%, weapon att.+3nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves weapon att. on the glove.\nSuccess rate:30%, weapon att.+3."/>
 </imgdir>
 <imgdir name="2040812">
 <string name="name" value="Dark scroll for Gloves for HP"/>
-<string name="desc" value="Improves HP on the glove.\nSuccess rate: 70%, MaxHP+15nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves HP on the glove.\nSuccess rate: 70%, MaxHP+15."/>
 </imgdir>
 <imgdir name="2040813">
 <string name="name" value="Dark scroll for Gloves for HP"/>
-<string name="desc" value="Improves HP on the glove.\nSuccess rate: 30%, MaxHP + 30nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves HP on the glove.\nSuccess rate: 30%, MaxHP + 30."/>
 </imgdir>
 <imgdir name="2040814">
 <string name="name" value="Dark Scroll for Gloves for Magic Att."/>
-<string name="desc" value="Improves magic attack on the glove.\nSuccess Rate 70%, magic attack+1, INT+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves magic attack on the glove.\nSuccess Rate 70%, magic attack+1, INT+1."/>
 </imgdir>
 <imgdir name="2040815">
 <string name="name" value="Dark Scroll for Gloves for Magic Att."/>
-<string name="desc" value="Improves magic attack on the glove.\nSuccess Rate 30%, magic attack+3, INT+3, magic defense+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves magic attack on the glove.\nSuccess Rate 30%, magic attack+3, INT+3, magic defense+1."/>
 </imgdir>
 <imgdir name="2040816">
 <string name="name" value="Scroll for Gloves for Magic Att."/>
-<string name="desc" value="Improves magic attack on the glove.\nSuccess Rate 10%, magic defense+1, magic attack+3, INT+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves magic attack on the glove.\nSuccess Rate 10%, magic defense+1, magic attack+3, INT+3."/>
 </imgdir>
 <imgdir name="2040817">
 <string name="name" value="Scroll for Gloves for Magic Att."/>
-<string name="desc" value="Improves magic attack on the glove.\nSuccess Rate 60%, magic attack+1, INT+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves magic attack on the glove.\nSuccess Rate 60%, magic attack+1, INT+1."/>
 </imgdir>
 <imgdir name="2040818">
 <string name="name" value="Scroll for Gloves for Magic Att."/>
@@ -2429,11 +2429,11 @@
 </imgdir>
 <imgdir name="2040824">
 <string name="name" value="Scroll for Gloves for HP 60%"/>
-<string name="desc" value="Improves HP on gloves.\nSuccess rate:60%, MaxHP+15. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves HP on gloves.\nSuccess rate:60%, MaxHP+15."/>
 </imgdir>
 <imgdir name="2040825">
 <string name="name" value="Scroll for Gloves for HP 10%"/>
-<string name="desc" value="Improves HP on gloves.\nSuccess rate:10%, MaxHP+30. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves HP on gloves.\nSuccess rate:10%, MaxHP+30."/>
 </imgdir>
 <imgdir name="2040900">
 <string name="name" value="Scroll for Shield for DEF"/>
@@ -2441,11 +2441,11 @@
 </imgdir>
 <imgdir name="2040901">
 <string name="name" value="Scroll for Shield for DEF"/>
-<string name="desc" value="Improves weapon def. on the shield.\nSuccess rate:60%, weapon def.+2, magic def.+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves weapon def. on the shield.\nSuccess rate:60%, weapon def.+2, magic def.+1."/>
 </imgdir>
 <imgdir name="2040902">
 <string name="name" value="Scroll for Shield for DEF"/>
-<string name="desc" value="Improves weapon def. on the shield.\nSuccess rate 10%, weapon def.+5, magic def.+3, MaxHP+10. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves weapon def. on the shield.\nSuccess rate 10%, weapon def.+5, magic def.+3, MaxHP+10."/>
 </imgdir>
 <imgdir name="2040903">
 <string name="name" value="Scroll for Shield for DEF"/>
@@ -2453,27 +2453,27 @@
 </imgdir>
 <imgdir name="2040904">
 <string name="name" value="Dark scroll for Shield for DEF"/>
-<string name="desc" value="Improves weapon def. on the shield.\nSuccess rate 70%, weapon def.+2, magic def.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves weapon def. on the shield.\nSuccess rate 70%, weapon def.+2, magic def.+1."/>
 </imgdir>
 <imgdir name="2040905">
 <string name="name" value="Dark scroll for Shield for DEF"/>
-<string name="desc" value="Improves weapon def. on the shield.\nSuccess rate 30%, weapon def.+5, magic def.+3, MaxHP+10nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves weapon def. on the shield.\nSuccess rate 30%, weapon def.+5, magic def.+3, MaxHP+10."/>
 </imgdir>
 <imgdir name="2040906">
 <string name="name" value="Dark scroll for Shield for LUK"/>
-<string name="desc" value="Improves LUK on the shield.\nSuccess rate: 70%, LUK + 2nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves LUK on the shield.\nSuccess rate: 70%, LUK + 2."/>
 </imgdir>
 <imgdir name="2040907">
 <string name="name" value="Dark scroll for Shield for LUK"/>
-<string name="desc" value="Improves LUK on the shield.\nSuccess rate: 30%, LUK + 3nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves LUK on the shield.\nSuccess rate: 30%, LUK + 3."/>
 </imgdir>
 <imgdir name="2040908">
 <string name="name" value="Dark scroll for Shield for HP"/>
-<string name="desc" value="Improves HP on the shield.\nSuccess rate: 70%, MaxHP + 15nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves HP on the shield.\nSuccess rate: 70%, MaxHP + 15."/>
 </imgdir>
 <imgdir name="2040909">
 <string name="name" value="Dark scroll for Shield for HP"/>
-<string name="desc" value="Improves HP on the shield.\nSuccess rate: 30%, MaxHP + 30nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves HP on the shield.\nSuccess rate: 30%, MaxHP + 30."/>
 </imgdir>
 <imgdir name="2040910">
 <string name="name" value="Scroll for Shield for DEF"/>
@@ -2485,23 +2485,23 @@
 </imgdir>
 <imgdir name="2040912">
 <string name="name" value="[4yrAnniv]Scroll for Shield for DEF"/>
-<string name="desc" value="Improves weapon defense for Maple Magician shield, Maple warrior shield, and the Maple Shibus shield. nSuccess rate:40%, weapon def.+3, magic def.+2 nIf failed, the item will be destroyed at a 30% rate."/>
+<string name="desc" value="Improves weapon defense for Maple Magician shield, Maple warrior shield, and the Maple Shibus shield. nSuccess rate:40%, weapon def.+3, magic def.+2."/>
 </imgdir>
 <imgdir name="2040914">
 <string name="name" value="Scroll for Shield for Weapon Att."/>
-<string name="desc" value="Improves weapon attack on the shield.\nSuccess Rate 60%, W. attack+2, STR+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves weapon attack on the shield.\nSuccess Rate 60%, W. attack+2, STR+1."/>
 </imgdir>
 <imgdir name="2040915">
 <string name="name" value="Scroll for Shield for Weapon Att."/>
-<string name="desc" value="Improves weapon attack on the shield.\nSuccess Rate 10%, W. attack+3, STR+2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves weapon attack on the shield.\nSuccess Rate 10%, W. attack+3, STR+2."/>
 </imgdir>
 <imgdir name="2040916">
 <string name="name" value="Dark Scroll for Shield for Weapon Att."/>
-<string name="desc" value="Improves weapon attack on the shield.\nSuccess Rate 70%, W. attack+2, STR+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves weapon attack on the shield.\nSuccess Rate 70%, W. attack+2, STR+1."/>
 </imgdir>
 <imgdir name="2040917">
 <string name="name" value="Dark Scroll for Shield for Weapon Att."/>
-<string name="desc" value="Improves weapon attack on the shield.\nSuccess Rate 30%, W. attack+3, STR+2nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves weapon attack on the shield.\nSuccess Rate 30%, W. attack+3, STR+2."/>
 </imgdir>
 <imgdir name="2040918">
 <string name="name" value="Scroll for Shield for Magic Att."/>
@@ -2509,19 +2509,19 @@
 </imgdir>
 <imgdir name="2040919">
 <string name="name" value="Scroll for Shield for Magic Att."/>
-<string name="desc" value="Improves magic attack on the shield.\nSuccess Rate 60%, magic attack+2, INT+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves magic attack on the shield.\nSuccess Rate 60%, magic attack+2, INT+1."/>
 </imgdir>
 <imgdir name="2040920">
 <string name="name" value="Scroll for Shield for Magic Att."/>
-<string name="desc" value="Improves magic attack on the shield.\nSuccess Rate 10%, magic attack+3, INT+2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves magic attack on the shield.\nSuccess Rate 10%, magic attack+3, INT+2."/>
 </imgdir>
 <imgdir name="2040921">
 <string name="name" value="Dark Scroll for Shield for Magic Att."/>
-<string name="desc" value="Improves magic attack on the shield.\nSuccess Rate 70%, magic attack+2, INT+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves magic attack on the shield.\nSuccess Rate 70%, magic attack+2, INT+1."/>
 </imgdir>
 <imgdir name="2040922">
 <string name="name" value="Dark Scroll for Shield for Magic Att."/>
-<string name="desc" value="Improves magic attack on the shield.\nSuccess Rate 50%, magic attack+3, INT+2nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves magic attack on the shield.\nSuccess Rate 50%, magic attack+3, INT+2."/>
 </imgdir>
 <imgdir name="2040923">
 <string name="name" value="Scroll for Shield for LUK 100%"/>
@@ -2529,11 +2529,11 @@
 </imgdir>
 <imgdir name="2040924">
 <string name="name" value="Scroll for Shield for LUK 60%"/>
-<string name="desc" value="Improves LUK on shields.\nSuccess rate:60%, LUK+2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves LUK on shields.\nSuccess rate:60%, LUK+2."/>
 </imgdir>
 <imgdir name="2040925">
 <string name="name" value="Scroll for Shield for LUK 10%"/>
-<string name="desc" value="Improves LUK on shields.\nSuccess rate:10%, LUK+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves LUK on shields.\nSuccess rate:10%, LUK+3."/>
 </imgdir>
 <imgdir name="2040926">
 <string name="name" value="Scroll for Shield for HP 100%"/>
@@ -2541,11 +2541,11 @@
 </imgdir>
 <imgdir name="2040927">
 <string name="name" value="Scroll for Shield for HP 60%"/>
-<string name="desc" value="Improves HP on shields.\nSuccess rate:60%, MaxHP+15. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves HP on shields.\nSuccess rate:60%, MaxHP+15."/>
 </imgdir>
 <imgdir name="2040928">
 <string name="name" value="Scroll for Shield for HP 10%"/>
-<string name="desc" value="Improves HP on shields.\nSuccess rate:10%, MaxHP+30. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves HP on shields.\nSuccess rate:10%, MaxHP+30."/>
 </imgdir>
 <imgdir name="2040929">
 <string name="name" value="Scroll for Shield for STR 100%"/>
@@ -2553,19 +2553,19 @@
 </imgdir>
 <imgdir name="2040930">
 <string name="name" value="Scroll for Shield for STR 70%"/>
-<string name="desc" value="Improves strength on shields..\nSuccess rate:70%, STR+2nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves strength on shields..\nSuccess rate:70%, STR+2."/>
 </imgdir>
 <imgdir name="2040931">
 <string name="name" value="Scroll for Shield for STR 60%"/>
-<string name="desc" value="Improves strength on shields.\nSuccess rate:60%, STR+2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves strength on shields.\nSuccess rate:60%, STR+2."/>
 </imgdir>
 <imgdir name="2040932">
 <string name="name" value="Scroll for Shield for STR 30%"/>
-<string name="desc" value="Improves strength on shields..\nSuccess rate:30%, STR+3nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves strength on shields..\nSuccess rate:30%, STR+3."/>
 </imgdir>
 <imgdir name="2040933">
 <string name="name" value="Scroll for Shield for STR 10%"/>
-<string name="desc" value="Improves strength on shields.\nSuccess rate:10%, STR+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves strength on shields.\nSuccess rate:10%, STR+3."/>
 </imgdir>
 <imgdir name="2041000">
 <string name="name" value="Scroll for Cape for Magic Def."/>
@@ -2573,11 +2573,11 @@
 </imgdir>
 <imgdir name="2041001">
 <string name="name" value="Scroll for Cape for Magic Def."/>
-<string name="desc" value="Improves magic def. on the cape.\nSuccess rate:60%, magic def.+3, weapon def.+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves magic def. on the cape.\nSuccess rate:60%, magic def.+3, weapon def.+1."/>
 </imgdir>
 <imgdir name="2041002">
 <string name="name" value="Scroll for Cape for Magic Def."/>
-<string name="desc" value="Improves magic def. on the cape.\nSuccess rate:10%, magic def. +5, weapon def. +3, MaxMP+10. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves magic def. on the cape.\nSuccess rate:10%, magic def. +5, weapon def. +3, MaxMP+10."/>
 </imgdir>
 <imgdir name="2041003">
 <string name="name" value="Scroll for Cape for Weapon Def."/>
@@ -2585,11 +2585,11 @@
 </imgdir>
 <imgdir name="2041004">
 <string name="name" value="Scroll for Cape for Weapon Def."/>
-<string name="desc" value="Improves weapon def. on the cape.\nSuccess rate:60%, weapon def.+3, magic def. +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves weapon def. on the cape.\nSuccess rate:60%, weapon def.+3, magic def. +1."/>
 </imgdir>
 <imgdir name="2041005">
 <string name="name" value="Scroll for Cape for Weapon Def."/>
-<string name="desc" value="Improves weapon def. on the cape.\nSuccess rate:10%, weapon def. +5, magic def.+3, MaxHP+10. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves weapon def. on the cape.\nSuccess rate:10%, weapon def. +5, magic def.+3, MaxHP+10."/>
 </imgdir>
 <imgdir name="2041006">
 <string name="name" value="Scroll for Cape for HP"/>
@@ -2597,11 +2597,11 @@
 </imgdir>
 <imgdir name="2041007">
 <string name="name" value="Scroll for Cape for HP"/>
-<string name="desc" value="Improves MaxHP on the cape.\nSuccess rate:60%, MaxHP+10. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves MaxHP on the cape.\nSuccess rate:60%, MaxHP+10."/>
 </imgdir>
 <imgdir name="2041008">
 <string name="name" value="Scroll for Cape for HP"/>
-<string name="desc" value="Improves MaxHP on the cape.\nSuccess rate:10%, MaxHP+20. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves MaxHP on the cape.\nSuccess rate:10%, MaxHP+20."/>
 </imgdir>
 <imgdir name="2041009">
 <string name="name" value="Scroll for Cape for MP"/>
@@ -2609,11 +2609,11 @@
 </imgdir>
 <imgdir name="2041010">
 <string name="name" value="Scroll for Cape for MP"/>
-<string name="desc" value="Improves MaxMP on the cape.\nSuccess rate:60%, MaxMP+10. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves MaxMP on the cape.\nSuccess rate:60%, MaxMP+10."/>
 </imgdir>
 <imgdir name="2041011">
 <string name="name" value="Scroll for Cape for MP"/>
-<string name="desc" value="Improves MaxMP on the cape.\nSuccess rate:10%, MaxMP+20. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves MaxMP on the cape.\nSuccess rate:10%, MaxMP+20."/>
 </imgdir>
 <imgdir name="2041012">
 <string name="name" value="Scroll for Cape for STR"/>
@@ -2621,11 +2621,11 @@
 </imgdir>
 <imgdir name="2041013">
 <string name="name" value="Scroll for Cape for STR"/>
-<string name="desc" value="Improves STR on the cape.\nSuccess rate:60%, STR+2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves STR on the cape.\nSuccess rate:60%, STR+2."/>
 </imgdir>
 <imgdir name="2041014">
 <string name="name" value="Scroll for Cape for STR"/>
-<string name="desc" value="Improves STR on the cape.\nSuccess rate:10%, STR+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves STR on the cape.\nSuccess rate:10%, STR+3."/>
 </imgdir>
 <imgdir name="2041015">
 <string name="name" value="Scroll for Cape for INT"/>
@@ -2633,11 +2633,11 @@
 </imgdir>
 <imgdir name="2041016">
 <string name="name" value="Scroll for Cape for INT"/>
-<string name="desc" value="Improves INT on the cape.\nSuccess rate:60%, INT+2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves INT on the cape.\nSuccess rate:60%, INT+2."/>
 </imgdir>
 <imgdir name="2041017">
 <string name="name" value="Scroll for Cape for INT"/>
-<string name="desc" value="Improves INT on the cape.\nSuccess rate:10%, INT+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves INT on the cape.\nSuccess rate:10%, INT+3."/>
 </imgdir>
 <imgdir name="2041018">
 <string name="name" value="Scroll for Cape for DEX"/>
@@ -2645,11 +2645,11 @@
 </imgdir>
 <imgdir name="2041019">
 <string name="name" value="Scroll for Cape for DEX"/>
-<string name="desc" value="Improves DEX on the cape.\nSuccess rate:60%, DEX+2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves DEX on the cape.\nSuccess rate:60%, DEX+2."/>
 </imgdir>
 <imgdir name="2041020">
 <string name="name" value="Scroll for Cape for DEX"/>
-<string name="desc" value="Improves DEX on the cape.\nSuccess rate:10%, DEX+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves DEX on the cape.\nSuccess rate:10%, DEX+3."/>
 </imgdir>
 <imgdir name="2041021">
 <string name="name" value="Scroll for Cape for LUK"/>
@@ -2657,11 +2657,11 @@
 </imgdir>
 <imgdir name="2041022">
 <string name="name" value="Scroll for Cape for LUK"/>
-<string name="desc" value="Improves LUK on the cape.\nSuccess rate:60%, LUK+2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves LUK on the cape.\nSuccess rate:60%, LUK+2."/>
 </imgdir>
 <imgdir name="2041023">
 <string name="name" value="Scroll for Cape for LUK"/>
-<string name="desc" value="Improves LUK on the cape.\nSuccess rate:10%, LUK+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves LUK on the cape.\nSuccess rate:10%, LUK+3."/>
 </imgdir>
 <imgdir name="2041024">
 <string name="name" value="Scroll for Cape for Magic Def."/>
@@ -2673,67 +2673,67 @@
 </imgdir>
 <imgdir name="2041026">
 <string name="name" value="Dark scroll for Cape for Magic Def."/>
-<string name="desc" value="Improves magic def. on the cape.\nSuccess rate:70%, magic def.+3, weapon def.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves magic def. on the cape.\nSuccess rate:70%, magic def.+3, weapon def.+1."/>
 </imgdir>
 <imgdir name="2041027">
 <string name="name" value="Dark scroll for Cape for Magic Def."/>
-<string name="desc" value="Improves magic def. on the cape.\nSuccess rate:30%, magic def.+5, weapon def.+3, MaxMP+10nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves magic def. on the cape.\nSuccess rate:30%, magic def.+5, weapon def.+3, MaxMP+10."/>
 </imgdir>
 <imgdir name="2041028">
 <string name="name" value="Dark scroll for Cape for Weapon Def."/>
-<string name="desc" value="Improves weapon def. on the cape.\nSuccess rate:70%, weapon def.+3, magic def.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves weapon def. on the cape.\nSuccess rate:70%, weapon def.+3, magic def.+1."/>
 </imgdir>
 <imgdir name="2041029">
 <string name="name" value="Dark scroll for Cape for Weapon Def."/>
-<string name="desc" value="Improves weapon def. on the cape.\nSuccess rate:30%, weapon def.+5, magic def.+3, MaxHP+10nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves weapon def. on the cape.\nSuccess rate:30%, weapon def.+5, magic def.+3, MaxHP+10."/>
 </imgdir>
 <imgdir name="2041030">
 <string name="name" value="Dark scroll for Cape for HP"/>
-<string name="desc" value="Improves MaxHP on the cape.\nSuccess rate:70%, MaxHP+10nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves MaxHP on the cape.\nSuccess rate:70%, MaxHP+10."/>
 </imgdir>
 <imgdir name="2041031">
 <string name="name" value="Dark scroll for Cape for HP"/>
-<string name="desc" value="Improves MaxHP on the cape.\nSuccess rate:30%, MaxHP+20nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves MaxHP on the cape.\nSuccess rate:30%, MaxHP+20."/>
 </imgdir>
 <imgdir name="2041032">
 <string name="name" value="Dark scroll for Cape for MP"/>
-<string name="desc" value="Improves MaxMP on the cape.\nSuccess rate:70%, MaxMP+10nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves MaxMP on the cape.\nSuccess rate:70%, MaxMP+10."/>
 </imgdir>
 <imgdir name="2041033">
 <string name="name" value="Dark scroll for Cape for MP"/>
-<string name="desc" value="Improves MaxMP on the cape.\nSuccess rate:30%, MaxMP+20nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves MaxMP on the cape.\nSuccess rate:30%, MaxMP+20."/>
 </imgdir>
 <imgdir name="2041034">
 <string name="name" value="Dark scroll for Cape for STR"/>
-<string name="desc" value="Improves STR on the cape.\nSuccess rate:70%, STR+2nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves STR on the cape.\nSuccess rate:70%, STR+2."/>
 </imgdir>
 <imgdir name="2041035">
 <string name="name" value="Dark scroll for Cape for STR"/>
-<string name="desc" value="Improves STR on the cape.\nSuccess rate:30%, STR+3nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves STR on the cape.\nSuccess rate:30%, STR+3."/>
 </imgdir>
 <imgdir name="2041036">
 <string name="name" value="Dark scroll for Cape for INT"/>
-<string name="desc" value="Improves INT on the cape.\nSuccess rate:70%, INT+2nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves INT on the cape.\nSuccess rate:70%, INT+2."/>
 </imgdir>
 <imgdir name="2041037">
 <string name="name" value="Dark scroll for Cape for INT"/>
-<string name="desc" value="Improves INT on the cape.\nSuccess rate:30%, INT+3nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves INT on the cape.\nSuccess rate:30%, INT+3."/>
 </imgdir>
 <imgdir name="2041038">
 <string name="name" value="Dark scroll for Cape for DEX"/>
-<string name="desc" value="Improves DEX on the cape.\nSuccess rate:70%, DEX+2nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves DEX on the cape.\nSuccess rate:70%, DEX+2."/>
 </imgdir>
 <imgdir name="2041039">
 <string name="name" value="Dark scroll for Cape for DEX"/>
-<string name="desc" value="Improves DEX on the cape.\nSuccess rate:30%, DEX+3nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves DEX on the cape.\nSuccess rate:30%, DEX+3."/>
 </imgdir>
 <imgdir name="2041040">
 <string name="name" value="Dark scroll for Cape for LUK"/>
-<string name="desc" value="Improves LUK on the cape.\nSuccess rate:70%, LUK+2nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves LUK on the cape.\nSuccess rate:70%, LUK+2."/>
 </imgdir>
 <imgdir name="2041041">
 <string name="name" value="Dark scroll for Cape for LUK"/>
-<string name="desc" value="Improves LUK on the cape.\nSuccess rate:30%, LUK+3nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves LUK on the cape.\nSuccess rate:30%, LUK+3."/>
 </imgdir>
 <imgdir name="2041042">
 <string name="name" value="Scroll for Cape for Magic DEF"/>
@@ -2801,23 +2801,23 @@
 </imgdir>
 <imgdir name="2041058">
 <string name="name" value="Scroll for Cape for Cold Protection 10%"/>
-<string name="desc" value="Includes the effect of protection from cold weather on the cape.\nSuccess rate: 10%. Does not affect the number of upgrades available. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Includes the effect of protection from cold weather on the cape.\nSuccess rate: 10%. Does not affect the number of upgrades available."/>
 </imgdir>
 <imgdir name="2041059">
 <string name="name" value="[4yrAnniv] Scroll for Cape for STR 20%"/>
-<string name="desc" value="Improves strength on Maple Cape.\nSuccess rate:20%, STR+3 nIf failed, the item will be destroyed at a 30% rate."/>
+<string name="desc" value="Improves strength on Maple Cape.\nSuccess rate:20%, STR+3."/>
 </imgdir>
 <imgdir name="2041060">
 <string name="name" value="[4yrAnniv] Scroll for Cape for INT 20%"/>
-<string name="desc" value="Improves INT on Maple Cape.\nSuccess rate:20%, INT+3 nIf failed, the item will be destroyed at a 30% rate."/>
+<string name="desc" value="Improves INT on Maple Cape.\nSuccess rate:20%, INT+3."/>
 </imgdir>
 <imgdir name="2041061">
 <string name="name" value="[4yrAnniv] Scroll for Cape for DEX 20%"/>
-<string name="desc" value="Improves dexterity on Maple Cape.\nSuccess rate:20%, DEX+3 nIf failed, the item will be destroyed at a 30% rate."/>
+<string name="desc" value="Improves dexterity on Maple Cape.\nSuccess rate:20%, DEX+3."/>
 </imgdir>
 <imgdir name="2041062">
 <string name="name" value="[4yrAnniv] Scroll for Cape for LUK 20%"/>
-<string name="desc" value="Improves luck on Maple Cape.\nSuccess rate:20%, LUK+3 nIf failed, the item will be destroyed at a 30% rate."/>
+<string name="desc" value="Improves luck on Maple Cape.\nSuccess rate:20%, LUK+3."/>
 </imgdir>
 <imgdir name="2041200">
 <string name="name" value="Dragon Stone"/>
@@ -2833,11 +2833,11 @@
 </imgdir>
 <imgdir name="2043001">
 <string name="name" value="Scroll for One-Handed Sword for ATT"/>
-<string name="desc" value="Improves attack on one-handed sword.\nSuccess rate:60%, weapon attack+2, STR+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on one-handed sword.\nSuccess rate:60%, weapon attack+2, STR+1."/>
 </imgdir>
 <imgdir name="2043002">
 <string name="name" value="Scroll for One-Handed Sword for ATT"/>
-<string name="desc" value="Improves attack on one-handed sword.\nSuccess rate:10%, weapon attack+5, STR+3, weapon def.+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on one-handed sword.\nSuccess rate:10%, weapon attack+5, STR+3, weapon def.+1."/>
 </imgdir>
 <imgdir name="2043003">
 <string name="name" value="Scroll for One-Handed Sword for ATT"/>
@@ -2845,27 +2845,27 @@
 </imgdir>
 <imgdir name="2043004">
 <string name="name" value="Dark scroll for One-Handed Sword for ATT"/>
-<string name="desc" value="Improves attack on one-handed sword.\nSuccess rate:70%, weapon attack+2, STR+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves attack on one-handed sword.\nSuccess rate:70%, weapon attack+2, STR+1."/>
 </imgdir>
 <imgdir name="2043005">
 <string name="name" value="Dark scroll for One-Handed Sword for ATT"/>
-<string name="desc" value="Improves attack on one-handed sword.\nSuccess rate:30%, weapon attack+5, STR+3, weapon def.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves attack on one-handed sword.\nSuccess rate:30%, weapon attack+5, STR+3, weapon def.+1."/>
 </imgdir>
 <imgdir name="2043006">
 <string name="name" value="Dark Scroll for One-Handed Sword for Magic Att."/>
-<string name="desc" value="Improves magic attack on one-handed sword.\nSuccess Rate 70%, magic attack+1, INT+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves magic attack on one-handed sword.\nSuccess Rate 70%, magic attack+1, INT+1."/>
 </imgdir>
 <imgdir name="2043007">
 <string name="name" value="Dark Scroll for One-Handed Sword for Magic Att."/>
-<string name="desc" value="Improves magic attack on one-handed sword.\nSuccess Rate 30%, magic attack+2, INT+2, magic defense+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves magic attack on one-handed sword.\nSuccess Rate 30%, magic attack+2, INT+2, magic defense+1."/>
 </imgdir>
 <imgdir name="2043008">
 <string name="name" value="Scroll for One-Handed Sword for Magic Att."/>
-<string name="desc" value="Improves magic attack on one-handed sword.\nSuccess Rate 10%, magic attack+2, magic defense+1, INT+2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves magic attack on one-handed sword.\nSuccess Rate 10%, magic attack+2, magic defense+1, INT+2."/>
 </imgdir>
 <imgdir name="2043009">
 <string name="name" value="Scroll for One-Handed Sword for Magic Att."/>
-<string name="desc" value="Improves magic attack on one-handed sword.\nSuccess Rate 60%, magic attack+1, INT+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves magic attack on one-handed sword.\nSuccess Rate 60%, magic attack+1, INT+1."/>
 </imgdir>
 <imgdir name="2043010">
 <string name="name" value="Scroll for One-Handed Sword for Magic Att."/>
@@ -2881,7 +2881,7 @@
 </imgdir>
 <imgdir name="2043013">
 <string name="name" value="[4yrAnniv]Scroll for One-Handed Sword for ATT"/>
-<string name="desc" value="Improves attack for Maple Glory Sword. nSuccess rate:40%, weapon attack+3, STR+2 nIf failed, the item will be destroyed at a 30% rate."/>
+<string name="desc" value="Improves attack for Maple Glory Sword. nSuccess rate:40%, weapon attack+3, STR+2."/>
 </imgdir>
 <imgdir name="2043015">
 <string name="name" value="Scroll for One-Handed Sword for Accuracy 100%"/>
@@ -2889,19 +2889,19 @@
 </imgdir>
 <imgdir name="2043016">
 <string name="name" value="Scroll for One-Handed Sword for Accuracy 70%"/>
-<string name="desc" value="Improves accuracy on one-handed swords.\nSuccess rate:70%, accuracy+3, DEX+2, weapon att.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves accuracy on one-handed swords.\nSuccess rate:70%, accuracy+3, DEX+2, weapon att.+1."/>
 </imgdir>
 <imgdir name="2043017">
 <string name="name" value="Scroll for One-Handed Sword for Accuracy 60%"/>
-<string name="desc" value="Improves accuracy on one-handed swords.\nSuccess rate:60%, accuracy+3, DEX+2, weapon att.+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves accuracy on one-handed swords.\nSuccess rate:60%, accuracy+3, DEX+2, weapon att.+1."/>
 </imgdir>
 <imgdir name="2043018">
 <string name="name" value="Scroll for One-Handed Sword for Accuracy 30%"/>
-<string name="desc" value="Improves accuracy on one-handed swords.\nSuccess rate:30%, accuracy+5, DEX+3, weapon att.+3nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves accuracy on one-handed swords.\nSuccess rate:30%, accuracy+5, DEX+3, weapon att.+3."/>
 </imgdir>
 <imgdir name="2043019">
 <string name="name" value="Scroll for One-Handed Sword for Accuracy 10%"/>
-<string name="desc" value="Improves accuracy on one-handed swords.\nSuccess rate:10%, accuracy+5, DEX+3, weapon att.+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves accuracy on one-handed swords.\nSuccess rate:10%, accuracy+5, DEX+3, weapon att.+3."/>
 </imgdir>
 <imgdir name="2043100">
 <string name="name" value="Scroll for One-Handed Axe for ATT"/>
@@ -2909,11 +2909,11 @@
 </imgdir>
 <imgdir name="2043101">
 <string name="name" value="Scroll for One-Handed Axe for ATT"/>
-<string name="desc" value="Improves attack on one-handed axe.\nSuccess rate:60%, weapon attack+2, STR+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on one-handed axe.\nSuccess rate:60%, weapon attack+2, STR+1."/>
 </imgdir>
 <imgdir name="2043102">
 <string name="name" value="Scroll for One-Handed Axe for ATT"/>
-<string name="desc" value="Improves attack on one-handed axe.\nSuccess rate: 10%, weapon attack +5, STR+3, weapon def. +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on one-handed axe.\nSuccess rate: 10%, weapon attack +5, STR+3, weapon def. +1."/>
 </imgdir>
 <imgdir name="2043103">
 <string name="name" value="Scroll for One-Handed Axe for ATT"/>
@@ -2921,11 +2921,11 @@
 </imgdir>
 <imgdir name="2043104">
 <string name="name" value="Dark scroll for One-Handed Axe for ATT"/>
-<string name="desc" value="Improves attack on one-handed axe.\nSuccess rate:70%, weapon attack+2, STR+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves attack on one-handed axe.\nSuccess rate:70%, weapon attack+2, STR+1."/>
 </imgdir>
 <imgdir name="2043105">
 <string name="name" value="Dark scroll for One-Handed Axe for ATT"/>
-<string name="desc" value="Improves attack on one-handed axe.\nSuccess rate:30%, weapon attack+5, STR+3, weapon def.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves attack on one-handed axe.\nSuccess rate:30%, weapon attack+5, STR+3, weapon def.+1."/>
 </imgdir>
 <imgdir name="2043106">
 <string name="name" value="Scroll for One-Handed Axe for ATT"/>
@@ -2937,7 +2937,7 @@
 </imgdir>
 <imgdir name="2043108">
 <string name="name" value="[4yrAnniv]Scroll for One-Handed Axe for ATT"/>
-<string name="desc" value="Improves attack on the Maple Steel Axe. nSuccess rate:40%, weapon attack+3, STR+2nIf failed, the item will be destroyed at a 30% rate."/>
+<string name="desc" value="Improves attack on the Maple Steel Axe. nSuccess rate:40%, weapon attack+3, STR+2."/>
 </imgdir>
 <imgdir name="2043110">
 <string name="name" value="Scroll for One-Handed Axe for Accuracy 100%"/>
@@ -2945,19 +2945,19 @@
 </imgdir>
 <imgdir name="2043111">
 <string name="name" value="Scroll for One-Handed Axe for Accuracy 70%"/>
-<string name="desc" value="Improves accuracy on one-handed axe.\nSuccess rate:70%, accuracy+3, DEX+2, weapon att.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves accuracy on one-handed axe.\nSuccess rate:70%, accuracy+3, DEX+2, weapon att.+1."/>
 </imgdir>
 <imgdir name="2043112">
 <string name="name" value="Scroll for One-Handed Axe for Accuracy 60%"/>
-<string name="desc" value="Improves accuracy on one-handed axe.\nSuccess rate:60%, accuracy+3, DEX+2, weapon att.+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves accuracy on one-handed axe.\nSuccess rate:60%, accuracy+3, DEX+2, weapon att.+1."/>
 </imgdir>
 <imgdir name="2043113">
 <string name="name" value="Scroll for One-Handed Axe for Accuracy 30%"/>
-<string name="desc" value="Improves accuracy on one-handed axe.\nSuccess rate:30%, accuracy+5, DEX+3, weapon att.+3nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves accuracy on one-handed axe.\nSuccess rate:30%, accuracy+5, DEX+3, weapon att.+3."/>
 </imgdir>
 <imgdir name="2043114">
 <string name="name" value="Scroll for One-Handed Axe for Accuracy 10%"/>
-<string name="desc" value="Improves accuracy on one-handed axe.\nSuccess rate:10%, accuracy+5, DEX+3, weapon att.+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves accuracy on one-handed axe.\nSuccess rate:10%, accuracy+5, DEX+3, weapon att.+3."/>
 </imgdir>
 <imgdir name="2043200">
 <string name="name" value="Scroll for One-Handed BW for ATT"/>
@@ -2965,11 +2965,11 @@
 </imgdir>
 <imgdir name="2043201">
 <string name="name" value="Scroll for One-Handed BW for ATT"/>
-<string name="desc" value="Improves attack on one-handed blunt weapon.\nSuccess rate:60%, weapon attack+2, STR+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on one-handed blunt weapon.\nSuccess rate:60%, weapon attack+2, STR+1."/>
 </imgdir>
 <imgdir name="2043202">
 <string name="name" value="Scroll for One-Handed BW for ATT"/>
-<string name="desc" value="Improves attack on one-handed blunt weapon.\nSuccess rate: 10%, weapon attack +5, STR+3, weapon def.+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on one-handed blunt weapon.\nSuccess rate: 10%, weapon attack +5, STR+3, weapon def.+1."/>
 </imgdir>
 <imgdir name="2043203">
 <string name="name" value="Scroll for One-Handed BW for ATT"/>
@@ -2977,11 +2977,11 @@
 </imgdir>
 <imgdir name="2043204">
 <string name="name" value="Dark scroll for One-Handed BW for ATT"/>
-<string name="desc" value="Improves attack on one-handed blunt weapon.\nSuccess rate:70%, weapon attack+2, STR+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves attack on one-handed blunt weapon.\nSuccess rate:70%, weapon attack+2, STR+1."/>
 </imgdir>
 <imgdir name="2043205">
 <string name="name" value="Dark scroll for One-Handed BW for ATT"/>
-<string name="desc" value="Improves attack on one-handed blunt weapon.\nSuccess rate:30%, weapon attack+5, STR+3, weapon def.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves attack on one-handed blunt weapon.\nSuccess rate:30%, weapon attack+5, STR+3, weapon def.+1."/>
 </imgdir>
 <imgdir name="2043206">
 <string name="name" value="Scroll for One-Handed BW for ATT"/>
@@ -2993,7 +2993,7 @@
 </imgdir>
 <imgdir name="2043208">
 <string name="name" value="[4yrAnniv]Scroll for One-Handed BW for ATT"/>
-<string name="desc" value="Added attack upgrade option for the Maple Havoc Hammer. nSuccess rate:40%, weapon attack+3, STR+2nIf failed, the item will be destroyed at a 30% rate."/>
+<string name="desc" value="Added attack upgrade option for the Maple Havoc Hammer. nSuccess rate:40%, weapon attack+3, STR+2."/>
 </imgdir>
 <imgdir name="2043210">
 <string name="name" value="Scroll for One-Handed BW for Accuracy 100%"/>
@@ -3001,19 +3001,19 @@
 </imgdir>
 <imgdir name="2043211">
 <string name="name" value="Scroll for One-Handed BW for Accuracy 70%"/>
-<string name="desc" value="Improves accuracy on one-handed blunt weapon.\nSuccess rate:70%, accuracy+3, DEX+2, weapon att.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves accuracy on one-handed blunt weapon.\nSuccess rate:70%, accuracy+3, DEX+2, weapon att.+1."/>
 </imgdir>
 <imgdir name="2043212">
 <string name="name" value="Scroll for One-Handed BW for Accuracy 60%"/>
-<string name="desc" value="Improves accuracy on one-handed blunt weapon.\nSuccess rate:60%, accuracy+3, DEX+2, weapon att.+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves accuracy on one-handed blunt weapon.\nSuccess rate:60%, accuracy+3, DEX+2, weapon att.+1."/>
 </imgdir>
 <imgdir name="2043213">
 <string name="name" value="Scroll for One-Handed BW for Accuracy 30%"/>
-<string name="desc" value="Improves accuracy on one-handed blunt weapon.\nSuccess rate:30%, accuracy+5, DEX+3, weapon att.+3nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves accuracy on one-handed blunt weapon.\nSuccess rate:30%, accuracy+5, DEX+3, weapon att.+3."/>
 </imgdir>
 <imgdir name="2043214">
 <string name="name" value="Scroll for One-Handed BW for Accuracy 10%"/>
-<string name="desc" value="Improves accuracy on one-handed blunt weapon.\nSuccess rate:10%, accuracy+5, DEX+3, weapon att.+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves accuracy on one-handed blunt weapon.\nSuccess rate:10%, accuracy+5, DEX+3, weapon att.+3."/>
 </imgdir>
 <imgdir name="2043300">
 <string name="name" value="Scroll for Dagger for ATT"/>
@@ -3021,11 +3021,11 @@
 </imgdir>
 <imgdir name="2043301">
 <string name="name" value="Scroll for Dagger for ATT"/>
-<string name="desc" value="Improves attack on dagger.\nSuccess rate:60%, weapon attack+2, LUK+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on dagger.\nSuccess rate:60%, weapon attack+2, LUK+1."/>
 </imgdir>
 <imgdir name="2043302">
 <string name="name" value="Scroll for Dagger for ATT"/>
-<string name="desc" value="Improves attack on dagger.\nSuccess rate: 10%, weapon attack +5, LUK+3, weapon def.+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on dagger.\nSuccess rate: 10%, weapon attack +5, LUK+3, weapon def.+1."/>
 </imgdir>
 <imgdir name="2043303">
 <string name="name" value="Scroll for Dagger for ATT"/>
@@ -3033,11 +3033,11 @@
 </imgdir>
 <imgdir name="2043304">
 <string name="name" value="Dark scroll for Dagger for ATT"/>
-<string name="desc" value="Improves attack on dagger.\nSuccess rate:70%, weapon attack +2, LUK +1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves attack on dagger.\nSuccess rate:70%, weapon attack +2, LUK +1."/>
 </imgdir>
 <imgdir name="2043305">
 <string name="name" value="Dark scroll for Dagger for ATT"/>
-<string name="desc" value="Improves attack on dagger.\nSuccess rate:30%, weapon attack +5, LUK +3, weapon def. +1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves attack on dagger.\nSuccess rate:30%, weapon attack +5, LUK +3, weapon def. +1."/>
 </imgdir>
 <imgdir name="2043306">
 <string name="name" value="Scroll for Dagger for ATT"/>
@@ -3049,7 +3049,7 @@
 </imgdir>
 <imgdir name="2043308">
 <string name="name" value="[4yrAnniv]Scroll for Dagger for ATT"/>
-<string name="desc" value="Improves attack on the Maple Dark Mate and Maple Asura DaggernSuccess rate:40%, weapon attack+3, LUK+2nIf failed, the item will be destroyed at a 30% rate."/>
+<string name="desc" value="Improves attack on the Maple Dark Mate and Maple Asura DaggernSuccess rate:40%, weapon attack+3, LUK+2."/>
 </imgdir>
 <imgdir name="2043700">
 <string name="name" value="Scroll for Wand for Magic Att."/>
@@ -3057,11 +3057,11 @@
 </imgdir>
 <imgdir name="2043701">
 <string name="name" value="Scroll for Wand for Magic Att."/>
-<string name="desc" value="Improves magic on wand.\nSuccess rate:60%, magic attack+2, INT+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves magic on wand.\nSuccess rate:60%, magic attack+2, INT+1."/>
 </imgdir>
 <imgdir name="2043702">
 <string name="name" value="Scroll for Wand for Magic Att."/>
-<string name="desc" value="Improves magic on wand.\nSuccess rate:10%, magic attack+5, INT+3, magic def.+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves magic on wand.\nSuccess rate:10%, magic attack+5, INT+3, magic def.+1."/>
 </imgdir>
 <imgdir name="2043703">
 <string name="name" value="Scroll for Wand for Magic Att."/>
@@ -3069,11 +3069,11 @@
 </imgdir>
 <imgdir name="2043704">
 <string name="name" value="Dark scroll for Wand for Magic Att."/>
-<string name="desc" value="Improves magic on wand.\nSuccess rate:70%, magic attack+2, INT+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves magic on wand.\nSuccess rate:70%, magic attack+2, INT+1."/>
 </imgdir>
 <imgdir name="2043705">
 <string name="name" value="Dark scroll for Wand for Magic Att."/>
-<string name="desc" value="Improves magic on wand.\nSuccess rate:30%, magic attack+5, INT+3, magic def.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves magic on wand.\nSuccess rate:30%, magic attack+5, INT+3, magic def.+1."/>
 </imgdir>
 <imgdir name="2043706">
 <string name="name" value="Scroll for Wand for Magic Att."/>
@@ -3085,7 +3085,7 @@
 </imgdir>
 <imgdir name="2043708">
 <string name="name" value="[4yrAnniv]Scroll for Wand for Magic Att."/>
-<string name="desc" value="Improves magic attack on Maple Shine Wand.\nSuccess rate:40%, magic attack+3, INT+2nIf failed, the item will be destroyed at a 30% rate."/>
+<string name="desc" value="Improves magic attack on Maple Shine Wand.\nSuccess rate:40%, magic attack+3, INT+2."/>
 </imgdir>
 <imgdir name="2043800">
 <string name="name" value="Scroll for Staff for Magic Att."/>
@@ -3093,11 +3093,11 @@
 </imgdir>
 <imgdir name="2043801">
 <string name="name" value="Scroll for Staff for Magic Att."/>
-<string name="desc" value="Improves magic on staff.\nSuccess rate:60%, magic attack+2, INT+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves magic on staff.\nSuccess rate:60%, magic attack+2, INT+1."/>
 </imgdir>
 <imgdir name="2043802">
 <string name="name" value="Scroll for Staff for Magic Att."/>
-<string name="desc" value="Improves magic on staff.\nSuccess rate:10%, magic attack+5, INT+3, magic def.+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves magic on staff.\nSuccess rate:10%, magic attack+5, INT+3, magic def.+1."/>
 </imgdir>
 <imgdir name="2043803">
 <string name="name" value="Scroll for Staff for Magic Att."/>
@@ -3105,11 +3105,11 @@
 </imgdir>
 <imgdir name="2043804">
 <string name="name" value="Dark scroll for Staff for Magic Att."/>
-<string name="desc" value="Improves magic on staff.\nSuccess rate:70%, magic attack+2, INT+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves magic on staff.\nSuccess rate:70%, magic attack+2, INT+1."/>
 </imgdir>
 <imgdir name="2043805">
 <string name="name" value="Dark scroll for Staff for Magic Att."/>
-<string name="desc" value="Improves magic on staff.\nSuccess rate:30%, magic attack+5, INT+3, magic def.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves magic on staff.\nSuccess rate:30%, magic attack+5, INT+3, magic def.+1."/>
 </imgdir>
 <imgdir name="2043806">
 <string name="name" value="Scroll for Staff for Magic Att."/>
@@ -3121,7 +3121,7 @@
 </imgdir>
 <imgdir name="2043808">
 <string name="name" value="[4yrAnniv]Scroll for Staff for Magic Att."/>
-<string name="desc" value="Improves magic attack on Maple Wisdom Staff.\nSuccess rate:40%, magic attack+3, INT+2nIf failed, the item will be destroyed at a 30% rate."/>
+<string name="desc" value="Improves magic attack on Maple Wisdom Staff.\nSuccess rate:40%, magic attack+3, INT+2."/>
 </imgdir>
 <imgdir name="2044000">
 <string name="name" value="Scroll for Two-handed Sword for ATT"/>
@@ -3129,11 +3129,11 @@
 </imgdir>
 <imgdir name="2044001">
 <string name="name" value="Scroll for Two-handed Sword for ATT"/>
-<string name="desc" value="Improves attack on two-handed sword.\nSuccess rate:60%, weapon attack+2, STR+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on two-handed sword.\nSuccess rate:60%, weapon attack+2, STR+1."/>
 </imgdir>
 <imgdir name="2044002">
 <string name="name" value="Scroll for Two-handed Sword for ATT"/>
-<string name="desc" value="Improves attack on two-handed sword.\nSuccess rate:10%, weapon attack+5, STR+3, weapon def.+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on two-handed sword.\nSuccess rate:10%, weapon attack+5, STR+3, weapon def.+1."/>
 </imgdir>
 <imgdir name="2044003">
 <string name="name" value="Scroll for Two-handed Sword for ATT"/>
@@ -3141,11 +3141,11 @@
 </imgdir>
 <imgdir name="2044004">
 <string name="name" value="Dark scroll for Two-handed Sword for ATT"/>
-<string name="desc" value="Improves attack on two-handed sword.\nSuccess rate:70%, weapon attack+2, STR+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves attack on two-handed sword.\nSuccess rate:70%, weapon attack+2, STR+1."/>
 </imgdir>
 <imgdir name="2044005">
 <string name="name" value="Dark scroll for Two-handed Sword for ATT"/>
-<string name="desc" value="Improves attack on two-handed sword.\nSuccess rate:30%, weapon attack+5, STR+3, weapon def.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves attack on two-handed sword.\nSuccess rate:30%, weapon attack+5, STR+3, weapon def.+1."/>
 </imgdir>
 <imgdir name="2044006">
 <string name="name" value="Scroll for Two-Handed Sword for ATT"/>
@@ -3157,7 +3157,7 @@
 </imgdir>
 <imgdir name="2044008">
 <string name="name" value="[4yrAnniv]Scroll for Two-Handed Sword for ATT"/>
-<string name="desc" value="Improves attack for Maple Soul Rohen. nSuccess rate:40%, weapon attack+3, STR+2nIf failed, the item will be destroyed at a 30% rate."/>
+<string name="desc" value="Improves attack for Maple Soul Rohen. nSuccess rate:40%, weapon attack+3, STR+2."/>
 </imgdir>
 <imgdir name="2044010">
 <string name="name" value="Scroll for Two-Handed Sword for Accuracy 100%"/>
@@ -3165,19 +3165,19 @@
 </imgdir>
 <imgdir name="2044011">
 <string name="name" value="Scroll for Two-Handed Sword for Accuracy 70%"/>
-<string name="desc" value="Improves accuracy on two-handed swords.\nSuccess rate:70%, accuracy+3, DEX+2, weapon att.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves accuracy on two-handed swords.\nSuccess rate:70%, accuracy+3, DEX+2, weapon att.+1."/>
 </imgdir>
 <imgdir name="2044012">
 <string name="name" value="Scroll for Two-Handed Sword for Accuracy 60%"/>
-<string name="desc" value="Improves accuracy on two-handed swords.\nSuccess rate:60%, accuracy+3, DEX+2, weapon att.+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves accuracy on two-handed swords.\nSuccess rate:60%, accuracy+3, DEX+2, weapon att.+1."/>
 </imgdir>
 <imgdir name="2044013">
 <string name="name" value="Scroll for Two-Handed Sword for Accuracy 30%"/>
-<string name="desc" value="Improves accuracy on two-handed swords.\nSuccess rate:30%, accuracy+5, DEX+3, weapon att.+3nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves accuracy on two-handed swords.\nSuccess rate:30%, accuracy+5, DEX+3, weapon att.+3."/>
 </imgdir>
 <imgdir name="2044014">
 <string name="name" value="Scroll for Two-Handed Sword for Accuracy 10%"/>
-<string name="desc" value="Improves accuracy on two-handed swords.\nSuccess rate:10%, accuracy+5, DEX+3, weapon att.+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves accuracy on two-handed swords.\nSuccess rate:10%, accuracy+5, DEX+3, weapon att.+3."/>
 </imgdir>
 <imgdir name="2044100">
 <string name="name" value="Scroll for Two-handed Axe for ATT"/>
@@ -3185,11 +3185,11 @@
 </imgdir>
 <imgdir name="2044101">
 <string name="name" value="Scroll for Two-handed Axe for ATT"/>
-<string name="desc" value="Improves attack on two-handed axe.\nSuccess rate:60%, weapon attack+2, STR+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on two-handed axe.\nSuccess rate:60%, weapon attack+2, STR+1."/>
 </imgdir>
 <imgdir name="2044102">
 <string name="name" value="Scroll for Two-handed Axe for ATT"/>
-<string name="desc" value="Improves attack on two-handed axe.\nSuccess rate:10%, weapon attack+5, STR+3, weapon def. +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on two-handed axe.\nSuccess rate:10%, weapon attack+5, STR+3, weapon def. +1."/>
 </imgdir>
 <imgdir name="2044103">
 <string name="name" value="Scroll for Two-handed Axe for ATT"/>
@@ -3197,11 +3197,11 @@
 </imgdir>
 <imgdir name="2044104">
 <string name="name" value="Dark scroll for Two-handed Axe for ATT"/>
-<string name="desc" value="Improves attack on two-handed axe.\nSuccess rate:70%, weapon attack+2, STR+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves attack on two-handed axe.\nSuccess rate:70%, weapon attack+2, STR+1."/>
 </imgdir>
 <imgdir name="2044105">
 <string name="name" value="Dark scroll for Two-handed Axe for ATT"/>
-<string name="desc" value="Improves attack on two-handed axe.\nSuccess rate:30%, weapon attack+5, STR+3, weapon def.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves attack on two-handed axe.\nSuccess rate:30%, weapon attack+5, STR+3, weapon def.+1."/>
 </imgdir>
 <imgdir name="2044106">
 <string name="name" value="Scroll for Two-Handed Axe for ATT"/>
@@ -3213,7 +3213,7 @@
 </imgdir>
 <imgdir name="2044108">
 <string name="name" value="[4yrAnniv]Scroll for Two-Handed Axe for ATT"/>
-<string name="desc" value="Improves attack for Maple Demon Axe. nSuccess rate:40%, weapon attack+3, STR+2nIf failed, the item will be destroyed at a 30% rate."/>
+<string name="desc" value="Improves attack for Maple Demon Axe. nSuccess rate:40%, weapon attack+3, STR+2."/>
 </imgdir>
 <imgdir name="2044110">
 <string name="name" value="Scroll for Two-Handed Axe for Accuracy 100%"/>
@@ -3221,19 +3221,19 @@
 </imgdir>
 <imgdir name="2044111">
 <string name="name" value="Scroll for Two-Handed Axe for Accuracy 70%"/>
-<string name="desc" value="Improves accuracy on two-handed axe.\nSuccess rate:70%, accuracy+3, DEX+2, weapon att.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves accuracy on two-handed axe.\nSuccess rate:70%, accuracy+3, DEX+2, weapon att.+1."/>
 </imgdir>
 <imgdir name="2044112">
 <string name="name" value="Scroll for Two-Handed Axe for Accuracy 60%"/>
-<string name="desc" value="Improves accuracy on two-handed axe.\nSuccess rate:60%, accuracy+3, DEX+2, weapon att.+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves accuracy on two-handed axe.\nSuccess rate:60%, accuracy+3, DEX+2, weapon att.+1."/>
 </imgdir>
 <imgdir name="2044113">
 <string name="name" value="Scroll for Two-Handed Axe for Accuracy 30%"/>
-<string name="desc" value="Improves accuracy on two-handed axe.\nSuccess rate:30%, accuracy+5, DEX+3, weapon att.+3nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves accuracy on two-handed axe.\nSuccess rate:30%, accuracy+5, DEX+3, weapon att.+3."/>
 </imgdir>
 <imgdir name="2044114">
 <string name="name" value="Scroll for Two-Handed Axe for Accuracy 10%"/>
-<string name="desc" value="Improves accuracy on two-handed axe.\nSuccess rate:10%, accuracy+5, DEX+3, weapon att.+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves accuracy on two-handed axe.\nSuccess rate:10%, accuracy+5, DEX+3, weapon att.+3."/>
 </imgdir>
 <imgdir name="2044200">
 <string name="name" value="Scroll for Two-handed BW for ATT"/>
@@ -3241,11 +3241,11 @@
 </imgdir>
 <imgdir name="2044201">
 <string name="name" value="Scroll for Two-handed BW for ATT"/>
-<string name="desc" value="Improves attack on two-handed blunt weapon.\nSuccess rate:60%, weapon attack+2, STR+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on two-handed blunt weapon.\nSuccess rate:60%, weapon attack+2, STR+1."/>
 </imgdir>
 <imgdir name="2044202">
 <string name="name" value="Scroll for Two-handed BW for ATT"/>
-<string name="desc" value="Improves attack on two-handed blunt weapon.\nSuccess rate:10%, weapon attack+5, STR+3, weapon def.+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on two-handed blunt weapon.\nSuccess rate:10%, weapon attack+5, STR+3, weapon def.+1."/>
 </imgdir>
 <imgdir name="2044203">
 <string name="name" value="Scroll for Two-handed BW for ATT"/>
@@ -3253,11 +3253,11 @@
 </imgdir>
 <imgdir name="2044204">
 <string name="name" value="Dark scroll for Two-handed BW for ATT"/>
-<string name="desc" value="Improves attack on two-handed blunt weapon.\nSuccess rate:70%, weapon attack+2, STR+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves attack on two-handed blunt weapon.\nSuccess rate:70%, weapon attack+2, STR+1."/>
 </imgdir>
 <imgdir name="2044205">
 <string name="name" value="Dark scroll for Two-handed BW for ATT"/>
-<string name="desc" value="Improves attack on two-handed blunt weapon.\nSuccess rate:30%, weapon attack+5, STR+3, weapon def.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves attack on two-handed blunt weapon.\nSuccess rate:30%, weapon attack+5, STR+3, weapon def.+1."/>
 </imgdir>
 <imgdir name="2044206">
 <string name="name" value="Scroll for Two-Handed BW for ATT"/>
@@ -3269,7 +3269,7 @@
 </imgdir>
 <imgdir name="2044208">
 <string name="name" value="[4yrAnniv]Scroll for Two-Handed BW for ATT"/>
-<string name="desc" value="Improves attack on Maple Belzet. nSuccess rate:40%, weapon attack+3, STR+2nIf failed, the item will be destroyed at a 30% rate."/>
+<string name="desc" value="Improves attack on Maple Belzet. nSuccess rate:40%, weapon attack+3, STR+2."/>
 </imgdir>
 <imgdir name="2044210">
 <string name="name" value="Scroll for Two-Handed BW for Accuracy 100%"/>
@@ -3277,19 +3277,19 @@
 </imgdir>
 <imgdir name="2044211">
 <string name="name" value="Scroll for Two-Handed BW for Accuracy 70%"/>
-<string name="desc" value="Improves accuracy on two-handed blunt weapon.\nSuccess rate:70%, accuracy+3, DEX+2, weapon att.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves accuracy on two-handed blunt weapon.\nSuccess rate:70%, accuracy+3, DEX+2, weapon att.+1."/>
 </imgdir>
 <imgdir name="2044212">
 <string name="name" value="Scroll for Two-Handed BW for Accuracy 60%"/>
-<string name="desc" value="Improves accuracy on two-handed blunt weapon.\nSuccess rate:60%, accuracy+3, DEX+2, weapon att.+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves accuracy on two-handed blunt weapon.\nSuccess rate:60%, accuracy+3, DEX+2, weapon att.+1."/>
 </imgdir>
 <imgdir name="2044213">
 <string name="name" value="Scroll for Two-Handed BW for Accuracy 30%"/>
-<string name="desc" value="Improves accuracy on two-handed blunt weapon.\nSuccess rate:30%, accuracy+5, DEX+3, weapon att.+3nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves accuracy on two-handed blunt weapon.\nSuccess rate:30%, accuracy+5, DEX+3, weapon att.+3."/>
 </imgdir>
 <imgdir name="2044214">
 <string name="name" value="Scroll for Two-Handed BW for Accuracy 10%"/>
-<string name="desc" value="Improves accuracy on two-handed blunt weapon.\nSuccess rate:10%, accuracy+5, DEX+3, weapon att.+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves accuracy on two-handed blunt weapon.\nSuccess rate:10%, accuracy+5, DEX+3, weapon att.+3."/>
 </imgdir>
 <imgdir name="2044300">
 <string name="name" value="Scroll for Spear for ATT"/>
@@ -3297,11 +3297,11 @@
 </imgdir>
 <imgdir name="2044301">
 <string name="name" value="Scroll for Spear for ATT"/>
-<string name="desc" value="Improves attack on spear.\nSuccess rate:60%, weapon attack+2, STR+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on spear.\nSuccess rate:60%, weapon attack+2, STR+1."/>
 </imgdir>
 <imgdir name="2044302">
 <string name="name" value="Scroll for Spear for ATT"/>
-<string name="desc" value="Improves attack on spear.\nSuccess rate:10%, weapon attack+5, STR+3, weapon def.+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on spear.\nSuccess rate:10%, weapon attack+5, STR+3, weapon def.+1."/>
 </imgdir>
 <imgdir name="2044303">
 <string name="name" value="Scroll for Spear for ATT"/>
@@ -3309,11 +3309,11 @@
 </imgdir>
 <imgdir name="2044304">
 <string name="name" value="Dark scroll for Spear for ATT"/>
-<string name="desc" value="Improves attack on spear.\nSuccess rate:70%, weapon attack +2, STR+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves attack on spear.\nSuccess rate:70%, weapon attack +2, STR+1."/>
 </imgdir>
 <imgdir name="2044305">
 <string name="name" value="Dark scroll for Spear for ATT"/>
-<string name="desc" value="Improves attack on spear.\nSuccess rate:30%, weapon attack +5, STR+3, weapon def.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves attack on spear.\nSuccess rate:30%, weapon attack +5, STR+3, weapon def.+1."/>
 </imgdir>
 <imgdir name="2044306">
 <string name="name" value="Scroll for Spear for ATT"/>
@@ -3325,7 +3325,7 @@
 </imgdir>
 <imgdir name="2044308">
 <string name="name" value="[4yrAnniv]Scroll for Spear for ATT"/>
-<string name="desc" value="Improves attack on Maple Soul Spear. nSuccess rate:40%, weapon attack+3, STR+2nIf failed, the item will be destroyed at a 30% rate."/>
+<string name="desc" value="Improves attack on Maple Soul Spear. nSuccess rate:40%, weapon attack+3, STR+2."/>
 </imgdir>
 <imgdir name="2044310">
 <string name="name" value="Scroll for Spear for Accuracy 100%"/>
@@ -3333,19 +3333,19 @@
 </imgdir>
 <imgdir name="2044311">
 <string name="name" value="Scroll for Spear for Accuracy 70%"/>
-<string name="desc" value="Improves accuracy on spears.\nSuccess rate:70%, accuracy+3, DEX+2, weapon att.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves accuracy on spears.\nSuccess rate:70%, accuracy+3, DEX+2, weapon att.+1."/>
 </imgdir>
 <imgdir name="2044312">
 <string name="name" value="Scroll for Spear for Accuracy 60%"/>
-<string name="desc" value="Improves accuracy on spears.\nSuccess rate:60%, accuracy+3, DEX+2, weapon att.+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves accuracy on spears.\nSuccess rate:60%, accuracy+3, DEX+2, weapon att.+1."/>
 </imgdir>
 <imgdir name="2044313">
 <string name="name" value="Scroll for Spear for Accuracy 30%"/>
-<string name="desc" value="Improves accuracy on spears.\nSuccess rate:30%, accuracy+5, DEX+3, weapon att.+3nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves accuracy on spears.\nSuccess rate:30%, accuracy+5, DEX+3, weapon att.+3."/>
 </imgdir>
 <imgdir name="2044314">
 <string name="name" value="Scroll for Spear for Accuracy 10%"/>
-<string name="desc" value="Improves accuracy on spears.\nSuccess rate:10%, accuracy+5, DEX+3, weapon att.+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves accuracy on spears.\nSuccess rate:10%, accuracy+5, DEX+3, weapon att.+3."/>
 </imgdir>
 <imgdir name="2044400">
 <string name="name" value="Scroll for Pole Arm for ATT"/>
@@ -3353,11 +3353,11 @@
 </imgdir>
 <imgdir name="2044401">
 <string name="name" value="Scroll for Pole Arm for ATT"/>
-<string name="desc" value="Improves attack on pole arm.\nSuccess rate:60%, weapon attack+2, STR+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on pole arm.\nSuccess rate:60%, weapon attack+2, STR+1."/>
 </imgdir>
 <imgdir name="2044402">
 <string name="name" value="Scroll for Pole Arm for ATT"/>
-<string name="desc" value="Improves attack on pole arm.\nSuccess rate:10%, weapon attack+5, STR+3, weapon def.+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on pole arm.\nSuccess rate:10%, weapon attack+5, STR+3, weapon def.+1."/>
 </imgdir>
 <imgdir name="2044403">
 <string name="name" value="Scroll for Pole Arm for ATT"/>
@@ -3365,11 +3365,11 @@
 </imgdir>
 <imgdir name="2044404">
 <string name="name" value="Dark scroll for Pole Arm for ATT"/>
-<string name="desc" value="Improves attack on pole arm.\nSuccess rate:70%, weapon attack +2, STR+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves attack on pole arm.\nSuccess rate:70%, weapon attack +2, STR+1."/>
 </imgdir>
 <imgdir name="2044405">
 <string name="name" value="Dark scroll for Pole Arm for ATT"/>
-<string name="desc" value="Improves attack on pole arm.\nSuccess rate:30%, weapon attack +5, STR+3, weapon def.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves attack on pole arm.\nSuccess rate:30%, weapon attack +5, STR+3, weapon def.+1."/>
 </imgdir>
 <imgdir name="2044406">
 <string name="name" value="Scroll for Pole Arm for ATT"/>
@@ -3381,7 +3381,7 @@
 </imgdir>
 <imgdir name="2044408">
 <string name="name" value="[4yrAnniv]Scroll for Pole Arm for ATT"/>
-<string name="desc" value="Improves attack for Maple Karstan nSuccess rate:40%, weapon attack+3, STR+2nIf failed, the item will be destroyed at a 30% rate."/>
+<string name="desc" value="Improves attack for Maple Karstan nSuccess rate:40%, weapon attack+3, STR+2."/>
 </imgdir>
 <imgdir name="2044410">
 <string name="name" value="Scroll for Pole-Arm for Accuracy 100%"/>
@@ -3389,19 +3389,19 @@
 </imgdir>
 <imgdir name="2044411">
 <string name="name" value="Scroll for Pole-Arm for Accuracy 70%"/>
-<string name="desc" value="Improves accuracy on pole-arms.\nSuccess rate:70%, accuracy+3, DEX+2, weapon att.+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves accuracy on pole-arms.\nSuccess rate:70%, accuracy+3, DEX+2, weapon att.+1."/>
 </imgdir>
 <imgdir name="2044412">
 <string name="name" value="Scroll for Pole-Arm for Accuracy 60%"/>
-<string name="desc" value="Improves accuracy on pole-arms.\nSuccess rate:60%, accuracy+3, DEX+2, weapon att.+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves accuracy on pole-arms.\nSuccess rate:60%, accuracy+3, DEX+2, weapon att.+1."/>
 </imgdir>
 <imgdir name="2044413">
 <string name="name" value="Scroll for Pole-Arm for Accuracy 30%"/>
-<string name="desc" value="Improves accuracy on pole-arms.\nSuccess rate:30%, accuracy+5, DEX+3, weapon att.+3nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves accuracy on pole-arms.\nSuccess rate:30%, accuracy+5, DEX+3, weapon att.+3."/>
 </imgdir>
 <imgdir name="2044414">
 <string name="name" value="Scroll for Pole-Arm for Accuracy 10%"/>
-<string name="desc" value="Improves accuracy on pole-arms.\nSuccess rate:10%, accuracy+5, DEX+3, weapon att.+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves accuracy on pole-arms.\nSuccess rate:10%, accuracy+5, DEX+3, weapon att.+3."/>
 </imgdir>
 <imgdir name="2044500">
 <string name="name" value="Scroll for Bow for ATT"/>
@@ -3409,11 +3409,11 @@
 </imgdir>
 <imgdir name="2044501">
 <string name="name" value="Scroll for Bow for ATT"/>
-<string name="desc" value="Improves attack on bow.\nSuccess rate: 60%, weapon attack+2, accuracy +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on bow.\nSuccess rate: 60%, weapon attack+2, accuracy +1."/>
 </imgdir>
 <imgdir name="2044502">
 <string name="name" value="Scroll for Bow for ATT"/>
-<string name="desc" value="Improves attack on bow.\nSuccess rate:10%, weapon attack+5, accuracy+3, DEX+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on bow.\nSuccess rate:10%, weapon attack+5, accuracy+3, DEX+1."/>
 </imgdir>
 <imgdir name="2044503">
 <string name="name" value="Scroll for Bow for ATT"/>
@@ -3421,11 +3421,11 @@
 </imgdir>
 <imgdir name="2044504">
 <string name="name" value="Dark scroll for Bow for ATT"/>
-<string name="desc" value="Improves attack on bow.\nSuccess rate:70%, weapon attack +2, accuracy +1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves attack on bow.\nSuccess rate:70%, weapon attack +2, accuracy +1."/>
 </imgdir>
 <imgdir name="2044505">
 <string name="name" value="Dark scroll for Bow for ATT"/>
-<string name="desc" value="Improves attack on bow.\nSuccess rate:30%, weapon attack +5, accuracy +3, DEX+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves attack on bow.\nSuccess rate:30%, weapon attack +5, accuracy +3, DEX+1."/>
 </imgdir>
 <imgdir name="2044506">
 <string name="name" value="Scroll for Bow for ATT"/>
@@ -3437,7 +3437,7 @@
 </imgdir>
 <imgdir name="2044508">
 <string name="name" value="[4yrAnniv]Scroll for Bow for ATT"/>
-<string name="desc" value="Improves attack on Maple Kandiva Bow. nSuccess rate:40%, weapon attack+3, accuracy+1nIf failed, the item will be destroyed at a 30% rate."/>
+<string name="desc" value="Improves attack on Maple Kandiva Bow. nSuccess rate:40%, weapon attack+3, accuracy+1."/>
 </imgdir>
 <imgdir name="2044600">
 <string name="name" value="Scroll for Crossbow for ATT"/>
@@ -3445,11 +3445,11 @@
 </imgdir>
 <imgdir name="2044601">
 <string name="name" value="Scroll for Crossbow for ATT"/>
-<string name="desc" value="Improves attack on crossbow.\nSuccess rate:60%, weapon attack+2, accuracy+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on crossbow.\nSuccess rate:60%, weapon attack+2, accuracy+1."/>
 </imgdir>
 <imgdir name="2044602">
 <string name="name" value="Scroll for Crossbow for ATT"/>
-<string name="desc" value="Improves attack on crossbow.\nSuccess rate:10%, weapon attack+5, accuracy+3, DEX+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on crossbow.\nSuccess rate:10%, weapon attack+5, accuracy+3, DEX+1."/>
 </imgdir>
 <imgdir name="2044603">
 <string name="name" value="Scroll for Crossbow for ATT"/>
@@ -3457,11 +3457,11 @@
 </imgdir>
 <imgdir name="2044604">
 <string name="name" value="Dark scroll for Crossbow for ATT"/>
-<string name="desc" value="Improves attack on crossbow.\nSuccess rate:70%, weapon attack+2, accuracy+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves attack on crossbow.\nSuccess rate:70%, weapon attack+2, accuracy+1."/>
 </imgdir>
 <imgdir name="2044605">
 <string name="name" value="Dark scroll for Crossbow for ATT"/>
-<string name="desc" value="Improves attack on crossbow.\nSuccess rate:30%, weapon attack+5, accuracy+3, DEX+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves attack on crossbow.\nSuccess rate:30%, weapon attack+5, accuracy+3, DEX+1."/>
 </imgdir>
 <imgdir name="2044606">
 <string name="name" value="Scroll for Crossbow for ATT"/>
@@ -3473,7 +3473,7 @@
 </imgdir>
 <imgdir name="2044608">
 <string name="name" value="[4yrAnniv]Scroll for Crossbow for ATT"/>
-<string name="desc" value="Improves attack on Maple Nishada. nSuccess rate:40%, weapon attack+3, accuracy+2nIf failed, the item will be destroyed at a 30% rate."/>
+<string name="desc" value="Improves attack on Maple Nishada. nSuccess rate:40%, weapon attack+3, accuracy+2."/>
 </imgdir>
 <imgdir name="2044700">
 <string name="name" value="Scroll for Claw for ATT"/>
@@ -3481,11 +3481,11 @@
 </imgdir>
 <imgdir name="2044701">
 <string name="name" value="Scroll for Claw for ATT"/>
-<string name="desc" value="Improves attack on claw.\nSuccess rate:60%, weapon attack+2, accuracy+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on claw.\nSuccess rate:60%, weapon attack+2, accuracy+1."/>
 </imgdir>
 <imgdir name="2044702">
 <string name="name" value="Scroll for Claw for ATT"/>
-<string name="desc" value="Improves attack on claw.\nSuccess rate:10%, weapon attack+5, accuracy+3, LUK+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on claw.\nSuccess rate:10%, weapon attack+5, accuracy+3, LUK+1."/>
 </imgdir>
 <imgdir name="2044703">
 <string name="name" value="Scroll for Claw for ATT"/>
@@ -3493,11 +3493,11 @@
 </imgdir>
 <imgdir name="2044704">
 <string name="name" value="Dark Scroll for Claw for ATT"/>
-<string name="desc" value="Improves attack on claw.\nSuccess rate:70%, weapon attack +2, accuracy +1nIf failed, the item will be destroyed at the 50% rate."/>
+<string name="desc" value="Improves attack on claw.\nSuccess rate:70%, weapon attack +2, accuracy +1."/>
 </imgdir>
 <imgdir name="2044705">
 <string name="name" value="Dark scroll for Claw for ATT"/>
-<string name="desc" value="Improves attack on claw.\nSuccess rate:30%, weapon attack +5, accuracy +3, LUK+1nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves attack on claw.\nSuccess rate:30%, weapon attack +5, accuracy +3, LUK+1."/>
 </imgdir>
 <imgdir name="2044706">
 <string name="name" value="Scroll for Claw for ATT"/>
@@ -3509,7 +3509,7 @@
 </imgdir>
 <imgdir name="2044708">
 <string name="name" value="[4yrAnniv]Scroll for Claw for ATT"/>
-<string name="desc" value="Improves attack on Maple Scandar. nSuccess rate:40%, weapon attack+3, accuracy+2nIf failed, the item will be destroyed at a 30% rate."/>
+<string name="desc" value="Improves attack on Maple Scandar. nSuccess rate:40%, weapon attack+3, accuracy+2."/>
 </imgdir>
 <imgdir name="2044800">
 <string name="name" value="Scroll for Knuckler for Attack 100%"/>
@@ -3517,19 +3517,19 @@
 </imgdir>
 <imgdir name="2044801">
 <string name="name" value="Scroll for Knuckler for Attack 60%"/>
-<string name="desc" value="Improves attack on Knucklers.\nSuccess rate:60%, weapon att. +2, STR+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on Knucklers.\nSuccess rate:60%, weapon att. +2, STR+1."/>
 </imgdir>
 <imgdir name="2044802">
 <string name="name" value="Scroll for Knuckler for ATT"/>
-<string name="desc" value="Improves attack on Knucklers.\nSuccess rate:10%, weapon att. +5, STR+3, weapon def. +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on Knucklers.\nSuccess rate:10%, weapon att. +5, STR+3, weapon def. +1."/>
 </imgdir>
 <imgdir name="2044803">
 <string name="name" value="Scroll for Knuckler for Attack 70%"/>
-<string name="desc" value="Improves attack on Knucklers.\nSuccess rate:70%, weapon att. +2, STR+1nIf failed, the item will be destroyed at a 50% rate"/>
+<string name="desc" value="Improves attack on Knucklers.\nSuccess rate:70%, weapon att. +2, STR+1"/>
 </imgdir>
 <imgdir name="2044804">
 <string name="name" value="Scroll for Knuckler for Attack 30%"/>
-<string name="desc" value="Improves attack on Knucklers.\nSuccess rate:30%, weapon att. +5, STR+3, weapon def. +1nIf failed, the item will be destroyed at a 50% rate"/>
+<string name="desc" value="Improves attack on Knucklers.\nSuccess rate:30%, weapon att. +5, STR+3, weapon def. +1"/>
 </imgdir>
 <imgdir name="2044805">
 <string name="name" value="Scroll for Knuckle for Accuracy 100%"/>
@@ -3537,23 +3537,23 @@
 </imgdir>
 <imgdir name="2044806">
 <string name="name" value="Scroll for Knuckle for Accuracy 70%"/>
-<string name="desc" value="Improves accuracy on knuckles.\nSuccess rate:70%, accuracy+3, DEX+2, weapon att.+1nIf failed, the item will be destroyed at a 50% rate.."/>
+<string name="desc" value="Improves accuracy on knuckles.\nSuccess rate:70%, accuracy+3, DEX+2, weapon att.+1.."/>
 </imgdir>
 <imgdir name="2044807">
 <string name="name" value="Scroll for Knuckle for Accuracy 60%"/>
-<string name="desc" value="Improves accuracy on knuckles.\nSuccess rate:60%, accuracy+3, DEX+2, weapon att.+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves accuracy on knuckles.\nSuccess rate:60%, accuracy+3, DEX+2, weapon att.+1."/>
 </imgdir>
 <imgdir name="2044808">
 <string name="name" value="Scroll for Knuckle for Accuracy 30%"/>
-<string name="desc" value="Improves accuracy on knuckles.\nSuccess rate:30%, accuracy+5, DEX+3, weapon att.+3nIf failed, the item will be destroyed at a 50% rate.."/>
+<string name="desc" value="Improves accuracy on knuckles.\nSuccess rate:30%, accuracy+5, DEX+3, weapon att.+3.."/>
 </imgdir>
 <imgdir name="2044809">
 <string name="name" value="Scroll for Knuckle for Accuracy 10%"/>
-<string name="desc" value="Improves accuracy on knuckles.\nSuccess rate:10%, accuracy+5, DEX+3, weapon att.+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves accuracy on knuckles.\nSuccess rate:10%, accuracy+5, DEX+3, weapon att.+3."/>
 </imgdir>
 <imgdir name="2044810">
 <string name="name" value="[4yrAnniv] Scroll for Knuckle for Attack 40%"/>
-<string name="desc" value="Improves the attack on Maple Golden Claw. nSuccess rate:40%,weapon att.+3,STR+2nIf failed, the item will be destroyed at a 30% rate."/>
+<string name="desc" value="Improves the attack on Maple Golden Claw. nSuccess rate:40%,weapon att.+3,STR+2."/>
 </imgdir>
 <imgdir name="2044900">
 <string name="name" value="Scroll for Gun for Attack 100%"/>
@@ -3561,23 +3561,23 @@
 </imgdir>
 <imgdir name="2044901">
 <string name="name" value="Scroll for Gun for Attack 60%"/>
-<string name="desc" value="Improves attack on Guns.\nSuccess rate:60%, weapon att. +2, accuracy+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on Guns.\nSuccess rate:60%, weapon att. +2, accuracy+1."/>
 </imgdir>
 <imgdir name="2044902">
 <string name="name" value="Scroll for Gun for ATT"/>
-<string name="desc" value="Improves attack on Guns.\nSuccess rate:10%, weapon att. +5, accuracy+3, DEX+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on Guns.\nSuccess rate:10%, weapon att. +5, accuracy+3, DEX+1."/>
 </imgdir>
 <imgdir name="2044903">
 <string name="name" value="Scroll for Gun for Attack 70%"/>
-<string name="desc" value="Improves attack on Guns.\nSuccess rate:70%, weapon att. +2, accuracy+1nIf failed, the item will be destroyed at a 50% rate"/>
+<string name="desc" value="Improves attack on Guns.\nSuccess rate:70%, weapon att. +2, accuracy+1"/>
 </imgdir>
 <imgdir name="2044904">
 <string name="name" value="Scroll for Gun for Attack 30%"/>
-<string name="desc" value="Improves attack on Guns.\nSuccess rate:30%, weapon att. +5, accuracy+3, DEX+1nIf failed, the item will be destroyed at a 50% rate"/>
+<string name="desc" value="Improves attack on Guns.\nSuccess rate:30%, weapon att. +5, accuracy+3, DEX+1"/>
 </imgdir>
 <imgdir name="2044905">
 <string name="name" value="[4yrAnniv] Gun for Attack 40%"/>
-<string name="desc" value="Improves the attact on Maple Canon Shooter. nSuccess rate:40%, weapon att.+3,naccuracy+2nIf failed, the item will be destroyed at a 30% rate."/>
+<string name="desc" value="Improves the attact on Maple Canon Shooter. nSuccess rate:40%, weapon att.+3,naccuracy+2."/>
 </imgdir>
 <imgdir name="2048000">
 <string name="name" value="Scroll for Pet Equip. for Speed"/>
@@ -3585,11 +3585,11 @@
 </imgdir>
 <imgdir name="2048001">
 <string name="name" value="Scroll for Pet Equip. for Speed"/>
-<string name="desc" value="Improves speed on pet equip.\nSuccess rate:60%, moving speed+2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves speed on pet equip.\nSuccess rate:60%, moving speed+2."/>
 </imgdir>
 <imgdir name="2048002">
 <string name="name" value="Scroll for Pet Equip. for Speed"/>
-<string name="desc" value="Improves speed on pet equip.\nSuccess rate:10%, moving speed+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves speed on pet equip.\nSuccess rate:10%, moving speed+3."/>
 </imgdir>
 <imgdir name="2048003">
 <string name="name" value="Scroll for Pet Equip. for Jump"/>
@@ -3597,11 +3597,11 @@
 </imgdir>
 <imgdir name="2048004">
 <string name="name" value="Scroll for Pet Equip. for Jump"/>
-<string name="desc" value="Improves jump on pet equip.\nSuccess rate:60%, jump+2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves jump on pet equip.\nSuccess rate:60%, jump+2."/>
 </imgdir>
 <imgdir name="2048005">
 <string name="name" value="Scroll for Pet Equip. for Jump"/>
-<string name="desc" value="Improves jump on pet equip.\nSuccess rate:10%, jump+3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves jump on pet equip.\nSuccess rate:10%, jump+3."/>
 </imgdir>
 <imgdir name="2048006">
 <string name="name" value="Scroll for Speed for Pet Equip."/>
@@ -3621,39 +3621,39 @@
 </imgdir>
 <imgdir name="2048010">
 <string name="name" value="Scroll for Pet Equip. for STR 60%"/>
-<string name="desc" value="Improves strength on pet equipments.\nSuccess rate:60%, STR+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves strength on pet equipments.\nSuccess rate:60%, STR+1."/>
 </imgdir>
 <imgdir name="2048011">
 <string name="name" value="Scroll for Pet Equip. for INT 60%"/>
-<string name="desc" value="Improves intelligence on pet equipments.\nSuccess rate:60%, INT+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves intelligence on pet equipments.\nSuccess rate:60%, INT+1."/>
 </imgdir>
 <imgdir name="2048012">
 <string name="name" value="Scroll for Pet Equip. for DEX 60%"/>
-<string name="desc" value="Improves dexterity on pet equipments.\nSuccess rate:60%, DEX+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves dexterity on pet equipments.\nSuccess rate:60%, DEX+1."/>
 </imgdir>
 <imgdir name="2048013">
 <string name="name" value="Scroll for Pet Equip. for LUK 60%"/>
-<string name="desc" value="Improves luck on pet equipments.\nSuccess rate:60%, LUK+1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves luck on pet equipments.\nSuccess rate:60%, LUK+1."/>
 </imgdir>
 <imgdir name="2049000">
 <string name="name" value="Clean Slate Scroll 1%"/>
-<string name="desc" value="Recovers the lost number of upgrades due to failed scroll by 1. Not available on Cash Items. Success rate:1%, If failed, the item will be destroyed at a 2% rate.."/>
+<string name="desc" value="Reduces number of upgrades by 1. Not available on Cash Items. Success rate:1%."/>
 </imgdir>
 <imgdir name="2049001">
 <string name="name" value="Clean Slate Scroll 3%"/>
-<string name="desc" value="Recovers the lost number of upgrades due to failed scroll by 1. Success rate:3%, If failed, the item will be destroyed at a 6% rate.."/>
+<string name="desc" value="Reduces number of upgrades by 1. Success rate:3%."/>
 </imgdir>
 <imgdir name="2049002">
 <string name="name" value="Clean Slate Scroll 5%"/>
-<string name="desc" value="Recovers the lost number of upgrades due to failed scroll by 1. Success rate:5%, If failed, the item will be destroyed at a 10% rate.."/>
+<string name="desc" value="Reduces number of upgrades by 1. Success rate:5%."/>
 </imgdir>
 <imgdir name="2049003">
 <string name="name" value="Clean Slate Scroll 20%"/>
-<string name="desc" value="Recovers the lost number of upgrades due to failed scroll by 1. Success rate:20%, If failed, the item will be destroyed at a 50% rate.."/>
+<string name="desc" value="RReduces number of upgrades by 1. Success rate:20%."/>
 </imgdir>
 <imgdir name="2049100">
 <string name="name" value="Chaos Scroll 60%"/>
-<string name="desc" value="Alters the equipment for better or worse. Not available on Cash Items.\nSuccess rate:60%"/>
+<string name="desc" value="Alters the equipment for better. Not available on Cash Items.\nSuccess rate:60%"/>
 </imgdir>
 <imgdir name="2049101">
 <string name="name" value="Liar Tree Sap 100%"/>
@@ -3666,6 +3666,10 @@
 <imgdir name="2049104">
 <string name="name" value="Agent Equipment Scroll 100%"/>
 <string name="desc" value="Can be used on an agent equipment to either enhance or worsen the function.\nSuccess rate:100%"/>
+</imgdir>
+<imgdir name="2049116">
+<string name="name" value="Black Scroll 60%"/>
+<string name="desc" value="Consumes all remaining slots with random stats based on remaining levels. Not available on Cash Items.\nSuccess rate:60%"/>
 </imgdir>
 <imgdir name="2050000">
 <string name="name" value="Antidote"/>
@@ -5293,7 +5297,7 @@
 </imgdir>
 <imgdir name="2340000">
 <string name="name" value="White Scroll"/>
-<string name="desc" value="One of Subani&apos;s sacred Scrolls. If used in conjunction with a normal or Dark Scroll, the number of item upgrade slots will not be deducted if the scroll fails. However, if using a Dark Scroll, there is still a chance that your weapon will be destroyed."/>
+<string name="desc" value="One of Subani&apos;s sacred Scrolls. Grants any scroll 100% chance of working."/>
 </imgdir>
 <imgdir name="2360000">
 <string name="name" value="Change to Ghost"/>
@@ -7746,15 +7750,15 @@
 </imgdir>
 <imgdir name="2040329">
 <string name="name" value="Scroll for Earring for DEX 10%"/>
-<string name="desc" value="Improves DEX on earrings. nSuccess rate: 10%, Dex +3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves DEX on earrings. nSuccess rate: 10%, Dex +3."/>
 </imgdir>
 <imgdir name="2040330">
 <string name="name" value="Scroll for Earring for INT 10%"/>
-<string name="desc" value="Improves INT on earrings. nSuccess rate: 10%, Magic ATT +5, INT +3, Magic Defense +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves INT on earrings. nSuccess rate: 10%, Magic ATT +5, INT +3, Magic Defense +1."/>
 </imgdir>
 <imgdir name="2040331">
 <string name="name" value="Scroll for Earring for LUK 10%"/>
-<string name="desc" value="Improves LUK on earrings. nSuccess rate: 10%, LUK +3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves LUK on earrings. nSuccess rate: 10%, LUK +3."/>
 </imgdir>
 <imgdir name="2040728">
 <string name="name" value="Balrog&apos;s STR Scroll 30%"/>
@@ -7806,7 +7810,7 @@
 </imgdir>
 <imgdir name="2040826">
 <string name="name" value="Scroll for Gloves for ATT 60%"/>
-<string name="desc" value="Improves ATT on Gloves.\nSuccess rate: 60%, Weapons ATT +2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves ATT on Gloves.\nSuccess rate: 60%, Weapons ATT +2."/>
 </imgdir>
 <imgdir name="2041100">
 <string name="name" value="Scroll for Ring for STR 100%"/>
@@ -7814,11 +7818,11 @@
 </imgdir>
 <imgdir name="2041101">
 <string name="name" value="Scroll for Rings for STR 60%"/>
-<string name="desc" value="Improves STR on Rings.\nSuccess rate: 60%, STR +2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves STR on Rings.\nSuccess rate: 60%, STR +2."/>
 </imgdir>
 <imgdir name="2041102">
 <string name="name" value="Scroll for Rings for STR 10%"/>
-<string name="desc" value="Improves STR on Rings.\nSuccess rate: 10%, STR +3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves STR on Rings.\nSuccess rate: 10%, STR +3."/>
 </imgdir>
 <imgdir name="2041103">
 <string name="name" value="Scroll for Rings for INT 100%"/>
@@ -7826,11 +7830,11 @@
 </imgdir>
 <imgdir name="2041104">
 <string name="name" value="Scroll for Rings for INT 60%"/>
-<string name="desc" value="Improves INT on Rings.\nSuccess rate: 60%, INT +2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves INT on Rings.\nSuccess rate: 60%, INT +2."/>
 </imgdir>
 <imgdir name="2041105">
 <string name="name" value="Scroll for Rings for INT 10%"/>
-<string name="desc" value="Improves INT on Rings.\nSuccess rate: 10%, INT +2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves INT on Rings.\nSuccess rate: 10%, INT +2."/>
 </imgdir>
 <imgdir name="2041106">
 <string name="name" value="Scroll for Rings for DEX 100%"/>
@@ -7838,11 +7842,11 @@
 </imgdir>
 <imgdir name="2041107">
 <string name="name" value="Scroll for Rings for DEX 60%"/>
-<string name="desc" value="Improves DEX on Rings.\nSuccess rate: 100%, DEX +2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves DEX on Rings.\nSuccess rate: 100%, DEX +2."/>
 </imgdir>
 <imgdir name="2041108">
 <string name="name" value="Scroll for Rings for DEX 10%"/>
-<string name="desc" value="Improves DEX on Rings.\nSuccess rate: 10%, DEX +3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves DEX on Rings.\nSuccess rate: 10%, DEX +3."/>
 </imgdir>
 <imgdir name="2041109">
 <string name="name" value="Scroll for Rings for LUK 100%"/>
@@ -7850,11 +7854,11 @@
 </imgdir>
 <imgdir name="2041110">
 <string name="name" value="Scroll for Rings for LUK 60%"/>
-<string name="desc" value="Improves LUK on Rings.\nSuccess rate: 60%, LUK+2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves LUK on Rings.\nSuccess rate: 60%, LUK+2."/>
 </imgdir>
 <imgdir name="2041111">
 <string name="name" value="Scroll for Rings for LUK 10%"/>
-<string name="desc" value="Improves LUK on Rings.\nSuccess rate: 10%, LUK +3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves LUK on Rings.\nSuccess rate: 10%, LUK +3."/>
 </imgdir>
 <imgdir name="2041112">
 <string name="name" value="Dark Scroll for Rings for STR 70%"/>
@@ -7894,11 +7898,11 @@
 </imgdir>
 <imgdir name="2041301">
 <string name="name" value="Scroll for Belts for STR 60%"/>
-<string name="desc" value="Improves STR on Belts.\nSuccess rate: 60%, STR +2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves STR on Belts.\nSuccess rate: 60%, STR +2."/>
 </imgdir>
 <imgdir name="2041302">
 <string name="name" value="Scroll for Belts for STR 10%"/>
-<string name="desc" value="Improves STR on Belts.\nSuccess rate: 10%, STR +3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves STR on Belts.\nSuccess rate: 10%, STR +3."/>
 </imgdir>
 <imgdir name="2041303">
 <string name="name" value="Scroll for Belts for INT 100%"/>
@@ -7906,11 +7910,11 @@
 </imgdir>
 <imgdir name="2041304">
 <string name="name" value="Scroll for Belts for INT 60%"/>
-<string name="desc" value="Improves INT on Belts.\nSuccess rate: 60%, INT +2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves INT on Belts.\nSuccess rate: 60%, INT +2."/>
 </imgdir>
 <imgdir name="2041305">
 <string name="name" value="Scroll for Belts for INT 10%"/>
-<string name="desc" value="Improves INT on Belts.\nSuccess rate: 10%, INT +3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves INT on Belts.\nSuccess rate: 10%, INT +3."/>
 </imgdir>
 <imgdir name="2041306">
 <string name="name" value="Scroll for Belts for DEX 100%"/>
@@ -7918,11 +7922,11 @@
 </imgdir>
 <imgdir name="2041307">
 <string name="name" value="Scroll for Belts for DEX 60%"/>
-<string name="desc" value="Improves DEX on Belts.\nSuccess rate: 60%, DEX +2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves DEX on Belts.\nSuccess rate: 60%, DEX +2."/>
 </imgdir>
 <imgdir name="2041308">
 <string name="name" value="Scroll for Belts for DEX 10%"/>
-<string name="desc" value="Improves DEX on Belts.\nSuccess rate: 10%, DEX +2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves DEX on Belts.\nSuccess rate: 10%, DEX +2."/>
 </imgdir>
 <imgdir name="2041309">
 <string name="name" value="Scroll for Belts for LUK 100%"/>
@@ -7930,11 +7934,11 @@
 </imgdir>
 <imgdir name="2041310">
 <string name="name" value="Scroll for Belts for LUK 60%"/>
-<string name="desc" value="Improves LUK on Belts.\nSuccess rate: 60%, LUK +2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves LUK on Belts.\nSuccess rate: 60%, LUK +2."/>
 </imgdir>
 <imgdir name="2041311">
 <string name="name" value="Scroll for Belts for LUK 10%"/>
-<string name="desc" value="Improves LUK on Belts.\nSuccess rate: 10%, LUK +3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves LUK on Belts.\nSuccess rate: 10%, LUK +3."/>
 </imgdir>
 <imgdir name="2041312">
 <string name="name" value="Dark Scroll for Belts for STR 70%"/>
@@ -8542,67 +8546,67 @@
 </imgdir>
 <imgdir name="2043021">
 <string name="name" value="King Pepe&apos;s 60% Scroll for One-handed Sword Attacks"/>
-<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Cutlass.\nSuccess Rate: 60%, Weapon Attack +2, STR +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Cutlass.\nSuccess Rate: 60%, Weapon Attack +2, STR +1."/>
 </imgdir>
 <imgdir name="2043116">
 <string name="name" value="King Pepe&apos;s 60% Scroll for One-handed Axe Attacks"/>
-<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Danker.\nSuccess Rate: 60%, Weapon Attack +2, STR +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Danker.\nSuccess Rate: 60%, Weapon Attack +2, STR +1."/>
 </imgdir>
 <imgdir name="2043216">
 <string name="name" value="King Pepe&apos;s 60% Scroll for One-handed BW Attacks"/>
-<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Heavy Hammer.\nSuccess Rate: 60%, Weapon Attack +2, STR +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Heavy Hammer.\nSuccess Rate: 60%, Weapon Attack +2, STR +1."/>
 </imgdir>
 <imgdir name="2043311">
 <string name="name" value="King Pepe&apos;s 60% Scroll for Dagger Attacks"/>
-<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Gephart.\nSuccess Rate: 60%, Weapon Attack +2, Luck +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Gephart.\nSuccess Rate: 60%, Weapon Attack +2, Luck +1."/>
 </imgdir>
 <imgdir name="2043711">
 <string name="name" value="King Pepe&apos;s 60% Scroll for Wand Magic Attacks"/>
-<string name="desc" value="Improves the Magic Attack strength of King Pepe&apos;s Wizard Wand.\nSuccess Rate: 60%, Magic Attack +2, Intelligence +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves the Magic Attack strength of King Pepe&apos;s Wizard Wand.\nSuccess Rate: 60%, Magic Attack +2, Intelligence +1."/>
 </imgdir>
 <imgdir name="2043811">
 <string name="name" value="King Pepe&apos;s 60% Scroll for Staff Magic Attacks"/>
-<string name="desc" value="Improves the Magic Attacks strength of King Pepe&apos;s Petal Staff.\nSuccess Rate: 60%, Magic Attack +2, Intelligence +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves the Magic Attacks strength of King Pepe&apos;s Petal Staff.\nSuccess Rate: 60%, Magic Attack +2, Intelligence +1."/>
 </imgdir>
 <imgdir name="2044024">
 <string name="name" value="King Pepe&apos;s 60% Scroll for Two-handed Sword Attacks"/>
-<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Highlander.\nSuccess Rate: 60%, Weapon Attack +2, Strength +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Highlander.\nSuccess Rate: 60%, Weapon Attack +2, Strength +1."/>
 </imgdir>
 <imgdir name="2044116">
 <string name="name" value="King Pepe&apos;s 60% Scroll for Two-handed Axe Attacks"/>
-<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Niam.\nSuccess Rate: 60%, Weapon Attack +2, Strength +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Niam.\nSuccess Rate: 60%, Weapon Attack +2, Strength +1."/>
 </imgdir>
 <imgdir name="2044216">
 <string name="name" value="King Pepe&apos;s 60% Scroll for Two-handed BW Attacks"/>
-<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Big Hammer.\nSuccess Rate: 60%, Weapon Attack +2, Strength +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Big Hammer.\nSuccess Rate: 60%, Weapon Attack +2, Strength +1."/>
 </imgdir>
 <imgdir name="2044316">
 <string name="name" value="King Pepe&apos;s 60% Scroll for Spear Attacks"/>
-<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Nakamaki.\nSuccess Rate: 60%, Weapon Attack +2, Strength +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Nakamaki.\nSuccess Rate: 60%, Weapon Attack +2, Strength +1."/>
 </imgdir>
 <imgdir name="2044416">
 <string name="name" value="King Pepe&apos;s 60% Scroll for Polearm Attacks"/>
-<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Axe Polearm.\nSuccess Rate: 60%, Weapon Attack +2, Strength +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Axe Polearm.\nSuccess Rate: 60%, Weapon Attack +2, Strength +1."/>
 </imgdir>
 <imgdir name="2044511">
 <string name="name" value="King Pepe&apos;s 60% Scroll for Bow Attacks"/>
-<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Red Viper.\nSuccess Rate: 60%, Weapon Attack +2, Accuracy +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Red Viper.\nSuccess Rate: 60%, Weapon Attack +2, Accuracy +1."/>
 </imgdir>
 <imgdir name="2044611">
 <string name="name" value="King Pepe&apos;s 60% Scroll for Crossbow Attacks"/>
-<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Eagle Crow.\nSuccess Rate: 60%, Weapon Attack +2, Accuracy +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Eagle Crow.\nSuccess Rate: 60%, Weapon Attack +2, Accuracy +1."/>
 </imgdir>
 <imgdir name="2044711">
 <string name="name" value="King Pepe&apos;s 60% Scroll for Thief Attacks"/>
-<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Dark Guardian.\nSuccess Rate: 60%, Weapon Attack +2, Accuracy +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Dark Guardian.\nSuccess Rate: 60%, Weapon Attack +2, Accuracy +1."/>
 </imgdir>
 <imgdir name="2044816">
 <string name="name" value="King Pepe&apos;s 60% Scroll for Knuckle Attacks"/>
-<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Silver Maden.\nSuccess Rate: 60%, Weapon Attack +2, Strength +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Silver Maden.\nSuccess Rate: 60%, Weapon Attack +2, Strength +1."/>
 </imgdir>
 <imgdir name="2044909">
 <string name="name" value="King Pepe&apos;s 60% Scroll for Gun Attacks"/>
-<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Shooting Star.\nSuccess Rate: 60%, Weapon Attack +2, Accuracy +1. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves the Attack strength of King Pepe&apos;s Shooting Star.\nSuccess Rate: 60%, Weapon Attack +2, Accuracy +1."/>
 </imgdir>
 <imgdir name="2049112">
 <string name="name" value="King Pepe&apos;s 100% Scroll for Weapons"/>
@@ -8834,11 +8838,11 @@
 </imgdir>
 <imgdir name="2040759">
 <string name="name" value="Scroll for Shoes for ATT"/>
-<string name="desc" value="Improves attack on gloves.\nSuccess rate: 60%. Weapon Attack +2. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on gloves.\nSuccess rate: 60%. Weapon Attack +2."/>
 </imgdir>
 <imgdir name="2040760">
 <string name="name" value="Scroll for Shoes for ATT"/>
-<string name="desc" value="Improves attack on shoes.\nSuccess rate: 10%, Weapon Attack +3. The success rate of this scroll can be enhanced by Vega&apos;s Spell."/>
+<string name="desc" value="Improves attack on shoes.\nSuccess rate: 10%, Weapon Attack +3."/>
 </imgdir>
 <imgdir name="2044815">
 <string name="name" value="Scroll for Knuckler for Attack 100%"/>
@@ -8926,51 +8930,51 @@
 </imgdir>
 <imgdir name="2049200">
 <string name="name" value="Dark Scroll for Accessory for STR 70%  "/>
-<string name="desc" value="Improves STR on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 70%, STR+2\nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves STR on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 70%, STR+2\."/>
 </imgdir>
 <imgdir name="2049201">
 <string name="name" value="Dark Scroll for Accessory for STR 30%"/>
-<string name="desc" value="Improves STR on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 30%, STR+3\nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves STR on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 30%, STR+3\."/>
 </imgdir>
 <imgdir name="2049202">
 <string name="name" value="Dark Scroll for Accessory for DEX 70%"/>
-<string name="desc" value="Improves DEX on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 70%, DEX+2\nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves DEX on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 70%, DEX+2\."/>
 </imgdir>
 <imgdir name="2049203">
 <string name="name" value="Dark Scroll for Accessory for DEX 30%"/>
-<string name="desc" value="Improves DEX on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 30%, DEX+3\nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves DEX on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 30%, DEX+3\."/>
 </imgdir>
 <imgdir name="2049204">
 <string name="name" value="Dark Scroll for Accessory for INT 70%"/>
-<string name="desc" value="Improves INT on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 70%. INT+2\nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves INT on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 70%. INT+2\."/>
 </imgdir>
 <imgdir name="2049205">
 <string name="name" value="Dark Scroll for Accessory for INT 30%"/>
-<string name="desc" value="Improves INT on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 30%. INT+3\nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves INT on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 30%. INT+3\."/>
 </imgdir>
 <imgdir name="2049206">
 <string name="name" value="Dark Scroll for Accessory for LUK 70%"/>
-<string name="desc" value="Improves LUK on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 70%, LUK+2\nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves LUK on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 70%, LUK+2\."/>
 </imgdir>
 <imgdir name="2049207">
 <string name="name" value="Dark Scroll for Accessory for LUK 30%"/>
-<string name="desc" value="Improves LUK on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 30%, LUK+3\nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves LUK on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 30%, LUK+3\."/>
 </imgdir>
 <imgdir name="2049208">
 <string name="name" value="Dark Scroll for Accessory for HP 70%"/>
-<string name="desc" value="Improves MaxHP on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 70%, MaxHP+10\nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves MaxHP on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 70%, MaxHP+10\."/>
 </imgdir>
 <imgdir name="2049209">
 <string name="name" value="Dark Scroll for Accessory for HP 30%"/>
-<string name="desc" value="Improves MaxHP on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 30%, MaxHP+30\nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves MaxHP on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 30%, MaxHP+30\."/>
 </imgdir>
 <imgdir name="2049210">
 <string name="name" value="Dark Scroll for Accessory for MP 70%"/>
-<string name="desc" value="Improves MaxMP on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 70%, MaxMP+10\nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves MaxMP on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 70%, MaxMP+10\."/>
 </imgdir>
 <imgdir name="2049211">
 <string name="name" value="Dark Scroll for Accessory for MP 30%"/>
-<string name="desc" value="Improves MaxMP on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 30%, MaxMP+30\nIf failed, the item will be destroyed at a 50% rate."/>
+<string name="desc" value="Improves MaxMP on Accessories (Pendants, Belts, Rings).\nSuccess Rate: 30%, MaxMP+30\."/>
 </imgdir>
 <imgdir name="2044418">
 <string name="name" value="Scroll for Polearm for Accuracy 65%"/>

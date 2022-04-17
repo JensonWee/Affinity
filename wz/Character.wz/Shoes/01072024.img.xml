@@ -9,12 +9,12 @@
 </canvas>
 <string name="islot" value="So"/>
 <string name="vslot" value="So"/>
-<int name="reqJob" value="2"/>
+<int name="reqJob" value="0"/>
 <int name="reqLevel" value="15"/>
 <int name="reqSTR" value="0"/>
 <int name="reqDEX" value="0"/>
-<int name="reqINT" value="48"/>
-<int name="reqLUK" value="18"/>
+<int name="reqINT" value="0"/>
+<int name="reqLUK" value="0"/>
 <int name="incPDD" value="5"/>
 <int name="incMDD" value="2"/>
 <int name="tuc" value="5"/>

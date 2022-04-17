@@ -2,10 +2,10 @@
 <imgdir name="01382009.img">
 <imgdir name="info">
 <canvas name="icon" width="37" height="37">
-<vector name="origin" x="2" y="35"/>
+<vector name="origin" x="3" y="35"/>
 </canvas>
 <canvas name="iconRaw" width="37" height="37">
-<vector name="origin" x="-1" y="32"/>
+<vector name="origin" x="3" y="35"/>
 </canvas>
 <string name="islot" value="Wp"/>
 <string name="vslot" value="Wp"/>
@@ -14,7 +14,7 @@
 <short name="attack" value="6"/>
 <string name="afterImage" value="mace"/>
 <string name="sfx" value="mace"/>
-<int name="reqJob" value="2"/>
+<int name="reqJob" value="0"/>
 <int name="reqLevel" value="35"/>
 <int name="reqSTR" value="0"/>
 <int name="reqDEX" value="0"/>
@@ -24,7 +24,7 @@
 <int name="incMAD" value="48"/>
 <int name="incMHP" value="100"/>
 <int name="tuc" value="7"/>
-<int name="price" value="35000"/>
+<int name="price" value="4900"/>
 <int name="attackSpeed" value="6"/>
 <int name="cash" value="0"/>
 </imgdir>

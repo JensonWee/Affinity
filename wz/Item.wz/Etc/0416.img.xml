@@ -19,10 +19,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -67,10 +67,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -115,10 +115,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -127,10 +127,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="Pet Level : 1 ~ 30\nsit bad|no|badgirl|badboy\nup|stand|rise poop\niloveyou"/>
+<string name="text" value="Pet Level : 1 ~ 30\nsit bad|no|badgirl|badboy\nup|stand|rise|poop\niloveyou"/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Pet Level : 11 ~ 30\ntalk|chat|say hug"/>
+<string name="text" value="Pet Level : 11 ~ 30\ntalk|chat|say|hug"/>
 </imgdir>
 <imgdir name="3">
 <string name="text" value="Pet Level : 21 ~ 30\nsleep|sleepy|gotobed"/>
@@ -163,10 +163,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -211,10 +211,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -259,10 +259,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -307,10 +307,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -355,10 +355,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -403,10 +403,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -451,10 +451,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -499,10 +499,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -577,10 +577,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -622,10 +622,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -667,10 +667,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -717,10 +717,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -767,15 +767,15 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
 <imgdir name="0">
-<string name="text" value="Pet Command Guide : Elephant\n"/>
+<string name="text" value="Pet Command Guide : Red Elly\n"/>
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
@@ -817,10 +817,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -861,10 +861,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -911,10 +911,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -953,10 +953,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -998,10 +998,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -1043,10 +1043,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -1061,6 +1061,54 @@
 <string name="text" value="Pet Level : 21 ~ 30\ncutie, change"/>
 </imgdir>
 <imgdir name="3">
+<string name="text" value="If pet&apos;s level reaches 15, you may order pet to say certain lines by using #b/pet#k command. "/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Visit the Pet Trainer or Pet Food Merchant to buy food for your pet. Then use pet commands to increase intimacy with your pet."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160025">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide : White Monkey\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level : 1 ~ 30\nsit rest bad|no|badgirl|badboy\npee iloveyou up|stand"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet Level : 10 ~ 30\ntalk|say|chat play melong"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet Level : 20 ~ 30\nsleep|sleepy|gotobed"/>
+</imgdir>
+<imgdir name="4">
 <string name="text" value="If pet&apos;s level reaches 15, you may order pet to say certain lines by using #b/pet#k command. "/>
 </imgdir>
 </imgdir>
@@ -1088,10 +1136,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -1133,10 +1181,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -1178,10 +1226,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -1223,10 +1271,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -1271,10 +1319,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -1316,10 +1364,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -1366,10 +1414,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -1411,10 +1459,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -1751,25 +1799,25 @@
 </imgdir>
 <imgdir name="16">
 <imgdir name="0">
-<string name="text" value="(1)#e Warrior#n\n#rLevel 10 and over, STR over 35#k. Once the criteria is met, meet #bDances with Balrog#k at Perion to learn a thing or two about becoming a true warrior."/>
+<string name="text" value="(1)#e Warrior#n\n#rLevel 10 and over.#k Once the criteria is met, meet #bDances with Balrog#k at Perion to learn a thing or two about becoming a true warrior."/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="(2) #eBowman#n\n#rLevel 10 and over, DEX over 25#k. Once the criteria is met, meet #bAthena Pierce#k at Henesys and learn what it&apos;s like to be the true bowman."/>
+<string name="text" value="(2) #eBowman#n\n#rLevel 10 and over.#k Once the criteria is met, meet #bAthena Pierce#k at Henesys and learn what it&apos;s like to be the true bowman."/>
 </imgdir>
 <imgdir name="2">
 </imgdir>
 </imgdir>
 <imgdir name="17">
 <imgdir name="0">
-<string name="text" value="(3) #eThief#n\n#rLevel 10 and over, DEX over 25#k. Once the criteria is met, meet #bDark Lord#k of Kerning City and pick up aspects of what it&apos;s like to live in the dark, becoming a true thief in the process."/>
+<string name="text" value="(3) #eThief#n\n#rLevel 10 and over.#k Once the criteria is met, meet #bDark Lord#k of Kerning City and pick up aspects of what it&apos;s like to live in the dark, becoming a true thief in the process."/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="(4)#e Magician#n\n#rLevel 8 and over, INT over 20#k. Once the criteria is met, meet #bGrendel the Really Old#k of Ellinia and learn the ins and outs of becoming a true magician."/>
+<string name="text" value="(4)#e Magician#n\n#rLevel 8 and over.#k Once the criteria is met, meet #bGrendel the Really Old#k of Ellinia and learn the ins and outs of becoming a true magician."/>
 </imgdir>
 </imgdir>
 <imgdir name="18">
 <imgdir name="0">
-<string name="text" value="(5)#ePirate#n\n#rLevel 10 and over.#k Once he criteria is met, meet #bKyrin# at Nautilus and learn what it&apos;s like to be a true pirate.  "/>
+<string name="text" value="(5)#ePirate#n\n#rLevel 10 and over.#k Once he criteria is met, meet #bKyrin#k at Nautilus and learn what it&apos;s like to be a true pirate.  "/>
 </imgdir>
 <imgdir name="1">
 <string name="text" value="#bTip.#k It is strongly recommended that the job advancement takes place as soon as your character is at an eligible level. "/>
@@ -4654,13 +4702,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="\nIt&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Life Water is used up, you can gather up the #bLife Water#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. "/>
-</imgdir>
-<imgdir name="3">
-<string name="text" value="Visit the Pet Trainer or Pet Food Merchant to buy food for your pet. Then use pet commands to increase intimacy with your pet."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -4775,10 +4820,10 @@
 <string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -4843,44 +4888,52 @@
 <imgdir name="1">
 <string name="text" value="(1) Select [Monster Crystal]-[Monster Crystal] in the Maker Skill window.\n(2) Go to your Inventory and move the 100+ items that you&apos;ve won by fighting level 31+ monsters to the Maker Skill window. \n(3) Click on the &apos;Make&apos; button and you will have a Monster Crystal."/>
 </imgdir>
-<imgdir name="2">
-<string name="text" value="#bTip.#k Remember, there is, in fact, a chance that you may end up making a higher-leveled Monster Crystal!\n#bTip.#k Also, note that not all quest items or items dropped by monsters can be used.  "/>
-</imgdir>
 </imgdir>
 <imgdir name="3">
 <imgdir name="0">
-<string name="text" value="#e3. How to Make Equipment Items#n"/>
-</imgdir>
-<imgdir name="1">
-<string name="text" value="  (1) Go to the Maker Skill window and click on the type and name of equipment item you would like to make for yourself. \n(2) Select all the materials you will need to make the equipment item. Check each material. If you are missing some of the required materials, you will find that the icon for that material is in gray. \n (3) Click on the &apos;Make&apos; button and your equipment item should be ready to go!  "/>
-</imgdir>
-<imgdir name="2">
-<string name="text" value="#bTip.#k By registering an accelerator or an upgraded gem, you can make yourself a higher quality item with better options. "/>
+<string name="text" value="#bTip.#k Remember, there is, in fact, a chance that you may end up making a higher-leveled Monster Crystal!\n#bTip.#k Also, note that not all quest items or items dropped by monsters can be used.  "/>
 </imgdir>
 </imgdir>
 <imgdir name="4">
+<imgdir name="1">
+<string name="text" value="  (1) Go to the Maker Skill window and click on the type and name of equipment item you would like to make for yourself. \n(2) Select all the materials you will need to make the equipment item. Check each material. If you are missing some of the required materials, you will find that the icon for that material is in gray. \n (3) Click on the &apos;Make&apos; button and your equipment item should be ready to go!  "/>
+</imgdir>
+<imgdir name="0">
+<string name="text" value="#e3. How to Make Equipment Items#n"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="#bTip.#k By registering an accelerator or an upgraded gem, you can make yourself a higher quality item with better options. "/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
 <imgdir name="0">
 <string name="text" value="#e4. How to Make Upgraded Gems#n"/>
 </imgdir>
 <imgdir name="1">
 <string name="text" value="(1) Go to the Maker Skill window and click on the type and name of the upgraded gem you would like to make for yourself.\n  (2) Check to see if you have all the required materials for making the gem. If you are missing some of the required materials, you will find that the icon for that material is in gray. \n  (3) Click on the &apos;Make&apos; button and your upgraded gem should be ready to go! "/>
 </imgdir>
-<imgdir name="2">
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
 <string name="text" value="#bTip.#k Note that there is always the chance that you may end up making yourself an intermediate grade or high grade gem!\n#bTip.#k If you collect at least 10 upgraded gems for yourself, you&apos;ll be able to refine them and turn them into an even higher grade gem. "/>
 </imgdir>
 </imgdir>
-<imgdir name="5">
+<imgdir name="8">
 <imgdir name="0">
 <string name="text" value="#e5. How to Disassemble Equipment Items#n"/>
 </imgdir>
 <imgdir name="1">
 <string name="text" value="(1) Go to the Maker Skill window and click on the [Disassemble] - [Monster Crystal]. \n  (2) Place the item you would like to disassemble in the ? slot. \n (3) Click on the &apos;Make&apos; button and disassemble your equipment item to extract a Monster Crystal from it."/>
 </imgdir>
-<imgdir name="2">
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
 <string name="text" value="#bTip.#k The higher the quality of the equipment item, the more Monster Crystals you&apos;ll be able to extract! "/>
 </imgdir>
 </imgdir>
-<imgdir name="6">
+<imgdir name="10">
 <imgdir name="0">
 <string name="text" value="#e6. What is an accelerator?#n"/>
 </imgdir>
@@ -4890,18 +4943,22 @@
 <imgdir name="2">
 <string name="text" value="(2) If you do not use the accelerator, there is always the chance that the newly made item may end up with either a better or worse set of options. "/>
 </imgdir>
-<imgdir name="3">
+</imgdir>
+<imgdir name="11">
+<imgdir name="0">
 <string name="text" value="(3) Use the accelerator and you will definitely end up with an item with better options. If, however, the process is unsuccessful, the materials used for making the item will disappear. "/>
 </imgdir>
 </imgdir>
-<imgdir name="7">
+<imgdir name="12">
 <imgdir name="0">
 <string name="text" value="#e7. ???#n"/>
 </imgdir>
 <imgdir name="1">
 <string name="text" value="Keep in mind that this method of making items involves a lot of trial-and-error. Combine various types and numbers of materials to see what kind of item you end up with! If you are unsuccessful and you do not get any items in the end, you won&apos;t end up losing any of the materials. "/>
 </imgdir>
-<imgdir name="2">
+</imgdir>
+<imgdir name="13">
+<imgdir name="0">
 <string name="text" value="#bTip.#k You can always use an accelerator or upgraded gems, but with that comes the possibility that your item will be destroyed. "/>
 </imgdir>
 </imgdir>
@@ -5254,13 +5311,13 @@
 <imgdir name="0">
 <imgdir name="0">
 <string name="text" value="Notice about the Pets"/>
-<string name="align" value="1.000000"/>
+<string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="It&apos;ll serve as a lovely pet to you for the next 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Once 90 days pass and the Water of Life is used up, you can gather up the #bWater of Life#k by meeting up with a fairy in #bMarr&apos;s Forest#k to revive your pet. Visit the pet training instructor or the store owner to increase your closeness level with your pet. You can also use commands to your pet to raise your closeness level."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -5269,13 +5326,13 @@
 <string name="align" value="1.000000"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="Pet Level : 1~30\nsit / no, bad, badgirl, badboy / poop"/>
+<string name="text" value="Pet Level : 1~30\nsit|no|bad|badgirl|badboy|poop"/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Pet Level : 10~30\nlazy, dummy, ihateyou\ntalk, chat, say, mumble\niloveyou, hugme, loveyou"/>
+<string name="text" value="Pet Level : 10~30\nlazy|dummy| ihateyou\ntalk|chat|say|mumble\niloveyou|hugme|loveyou"/>
 </imgdir>
 <imgdir name="3">
-<string name="text" value="Pet Level : 20~30\nshake, music, charm, bleh\njoke, boo, gotobed\nsleep, sleepy, poke, stinky\ndummy, ihateyou\n#bContinuted in the next page.#k"/>
+<string name="text" value="Pet Level : 20~30\nshake|music| charm|bleh\njoke|boo| gotobed\nsleep|sleepy|poke, stinky\ndummy|ihateyou"/>
 </imgdir>
 </imgdir>
 <imgdir name="2">
@@ -6027,81 +6084,6 @@
 </imgdir>
 </imgdir>
 </imgdir>
-<imgdir name="04161049">
-<imgdir name="info">
-<canvas name="icon" width="33" height="27">
-<vector name="origin" x="0" y="27"/>
-</canvas>
-<canvas name="iconRaw" width="33" height="26">
-<vector name="origin" x="0" y="27"/>
-</canvas>
-<int name="price" value="1"/>
-<int name="only" value="1"/>
-<int name="tradeBlock" value="1"/>
-<int name="notSale" value="1"/>
-</imgdir>
-<imgdir name="book">
-<imgdir name="0">
-<imgdir name="0">
-<string name="text" value="#e노블레스 안내서#n"/>
-<int name="align" value="1"/>
-</imgdir>
-<imgdir name="1">
-<string name="text" value="  목  차\n#L1##b1. 노블레스란?#k#l\n#L3##b2. 간단한 조작 방법#k#l\n#L9##b3. 아이템이란?#k#l\n#L11##b4. AP와 SP#k#l\n#L14##b5. 전직이란?#k#l\n#L15##b6. 1차 전직 조건과 방법#k#l"/>
-</imgdir>
-</imgdir>
-</imgdir>
-</imgdir>
-<imgdir name="04161050">
-<imgdir name="info">
-<canvas name="icon" width="33" height="27">
-<vector name="origin" x="0" y="27"/>
-</canvas>
-<canvas name="iconRaw" width="33" height="26">
-<vector name="origin" x="0" y="27"/>
-</canvas>
-<int name="price" value="1"/>
-<int name="only" value="1"/>
-<int name="tradeBlock" value="1"/>
-<int name="notSale" value="1"/>
-</imgdir>
-<imgdir name="book">
-<imgdir name="0">
-<imgdir name="0">
-<string name="text" value="#e레전드 안내서#n"/>
-<int name="align" value="1"/>
-</imgdir>
-<imgdir name="1">
-<string name="text" value="  목  차\n#L1##b1. 레전드란?#k#l\n#L3##b2. 간단한 조작 방법#k#l\n#L9##b3. 아이템이란?#k#l\n#L11##b4. AP와 SP#k#l\n#L14##b5. 전직이란?#k#l\n#L15##b6. 1차 전직 조건과 방법#k#l"/>
-</imgdir>
-</imgdir>
-</imgdir>
-</imgdir>
-<imgdir name="04161051">
-<imgdir name="info">
-<canvas name="icon" width="28" height="31">
-<vector name="origin" x="-2" y="31"/>
-</canvas>
-<canvas name="iconRaw" width="28" height="30">
-<vector name="origin" x="-2" y="31"/>
-</canvas>
-<int name="price" value="1"/>
-<int name="only" value="1"/>
-<int name="tradeBlock" value="1"/>
-<int name="notSale" value="1"/>
-</imgdir>
-<imgdir name="book">
-<imgdir name="0">
-<imgdir name="0">
-<string name="text" value="#e레전드 안내서#n"/>
-<int name="align" value="1"/>
-</imgdir>
-<imgdir name="1">
-<string name="text" value="  목  차\n#L1##b1. 레전드란?#k#l\n#L3##b2. 간단한 조작 방법#k#l\n#L9##b3. 아이템이란?#k#l\n#L11##b4. AP와 SP#k#l\n#L14##b5. 전직이란?#k#l\n#L15##b6. 1차 전직 조건과 방법#k#l"/>
-</imgdir>
-</imgdir>
-</imgdir>
-</imgdir>
 <imgdir name="04160044">
 <imgdir name="info">
 <canvas name="icon" width="29" height="30">
@@ -6117,14 +6099,14 @@
 <imgdir name="book">
 <imgdir name="0">
 <imgdir name="0">
-<string name="text" value="Notice about the pets"/>
-<string name="align" value="1.000000"/>
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="\nThe pet will remain with you for 90 days."/>
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="When 90 days have passed and all of the Life Water has dried up, you can revive your pet by obtaining &quot;Life Water&quot; and talking to the fairy in #bMarr&apos;s Forest#k or to the Wisp at the #bEos Tower Entrance#k in Ludibrium."/>
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
 </imgdir>
 </imgdir>
 <imgdir name="1">
@@ -6133,16 +6115,3215 @@
 <string name="align" value="1.000000"/>
 </imgdir>
 <imgdir name="1">
-<string name="text" value="Pet Level : 1 - 30\n Hungry?, Food?\nDon&apos;t,No,Scold,Stop it!\nPoo,Poop,Focus\nSleep,Sleepy,Doze,Tired\nGo away,Stupid,Grawl,Angry\nWhat&apos;s this?Curious?/Say it!,Tell,Tell me"/>
+<string name="text" value="Pet Level : 1 - 30\n Hungry?|Food?\nDon&apos;t|No|Scold|Stop it!\nPoo|Poop| Focus\nSleep|Sleepy|Doze|Tired\nGo away|Stupid|Growl|Angry\nWhat&apos;s this?|Curious?|Say something!|Tell something!|Sing something!"/>
 </imgdir>
 <imgdir name="2">
-<string name="text" value="Pet Level : 15 - 30\nGood, Impressive, Proud\nLove you,Like you,Honey"/>
+<string name="text" value="Pet Level : 15 - 30\nGood|Impressive|Proud\nLove you|Like you|Honey"/>
 </imgdir>
 </imgdir>
 <imgdir name="2">
 <imgdir name="0">
 <string name="text" value="Tip. When the pet reaches level 15, you can make it talk. \n #bEx.) /pet [What you want the pet to say]#k"/>
 </imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161049">
+<imgdir name="info">
+<canvas name="icon" width="33" height="27">
+<vector name="origin" x="0" y="27"/>
+</canvas>
+<canvas name="iconRaw" width="33" height="26">
+<vector name="origin" x="0" y="27"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#eDragon Types and Characteristics (Vol. I)#n"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n\n- Leafre Dragon Conservation Union"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="\n\n\nTable of Contents\n\n#b1. Prologue\n#b2. Definition of a Dragon\n#b3. Dragon Types and Characteristics\n#b4. Conclusion"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#e1. Prologue#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Travelers of Maple World, what do you think of when you hear the word &quot;Dragon&quot;?"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" Do you think of the three-headed incarnation of evil, the vicious Horntail? Do you get the ticklish urge even this moment to go hunt that monster, since Dragons yield such high EXP?"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value=" Ah, but Dragons are not monsters. They are another race of creatures, both wise and intelligent."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" Granted, there are evil monsters that resemble Dragons. But don&apos;t write off all Dragons simply because of that. Good and evil exist in every species. Surely, there are some Dragons that can live in peace with us."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" Sadly, some people don&apos;t recognize that, and think of all"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="Dragons as monsters that ought to be eliminated."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" This book will provide detailed and practical information pertaining to Dragon types and characteristics, allowing you to know which Dragons to avoid and which to befriend."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" Our hope is that this will help prevent misunderstandings and allow all races to live in peace with Dragons."/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="#e2. Definition of a Dragon#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" If you want to learn about the different types of dragons, you must first learn to define what a dragon is. For instance, Lizards have short limbs, a long body, and a tail that resembles a dragon&apos;s, but they cannot be regarded as dragons."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" Dragons possess reason and emotions, and are capable of communicating with humans. "/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="That is not true of Lizards, which explains why they can never be dragons."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="In that sense, Drakes, Wyverns, Dragon Turtles, and Newts closely resemble dragons."/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="But they are not dragons! While they have sturdy scales and horns, tails, and the ability to exhale powerful breaths, they do not have a dragon&apos;s intelligence. Hence, they are known as Quasi Dragons. They are monsters who submit to powerful figures, often seen as the underlings of a real dragon."/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="#e3. Dragon Types and Characteristics#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" There are many ways to categorize Dragons, such as scale color, horn shape, physical build, habitat, and Dragon personality."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" However, since this book is meant for the general population, it will only cover the major types of common and special Dragons."/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value=" A. Common Dragons"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" Categorizing Dragons by their scale color is the most basic and convenient method of distinguishing Dragon types."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" In Leafre, this method is used to cateogorize and breed dragons. "/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value=" Knowing a Dragon&apos;s personality can easily help you establish good rapport with the Dragon."/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="  a. Red Dragons"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" Dragons with red scales generally have the fire attribute. They must be approached with caution as they tend to be volatile, although they are just and loyal."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" If you have irritated a Red Dragon, beware! The dragon may attack with Fire Breath."/>
+</imgdir>
+</imgdir>
+<imgdir name="10">
+<imgdir name="0">
+<string name="text" value="  b. Blue Dragons"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" Dragons with blue scales generally have the ice attribute. They are perceptive and cold-hearted. They can be petty, so do not get on their bad side."/>
+</imgdir>
+</imgdir>
+<imgdir name="11">
+<imgdir name="0">
+<string name="text" value="  c. Green Dragons"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" Dragons with green scales generally have the wind attribute. They are playful and outgoing. They love forests and do not permit the destruction of nature."/>
+</imgdir>
+</imgdir>
+<imgdir name="12">
+<imgdir name="0">
+<string name="text" value="  d. Gold Dragons"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" Dragons with gold scales generally have the holy attribute. They can be overly carefree, as they are calm and peaceful by nature."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" Gold Dragons will fulfill your requests no matter what, but no one can tell how long it will take."/>
+</imgdir>
+</imgdir>
+<imgdir name="13">
+<imgdir name="0">
+<string name="text" value="  e. Black Dragons"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" These Dragons have black scales and black horns. While most dragons have horns that are a different color from their scales, #bBlack Dragons are entirely black, including their horns#k."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" These Dragons generally have the darkness attribute, and although they are quiet and considerate, they can be insidious."/>
+</imgdir>
+</imgdir>
+<imgdir name="14">
+<imgdir name="0">
+<string name="text" value=" Now please note that this is not the only way to categorize Dragons. There are many Dragons that have scale colors that were not mentioned. Also, some Dragons may look like one of the Dragons mentioned above, yet have completely different personalities and characteristics."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" If you wish to find out more about Dragons not mentioned above, please refer to Dragon Types and Characteristics (Vol. II)."/>
+</imgdir>
+</imgdir>
+<imgdir name="15">
+<imgdir name="0">
+<string name="text" value="\n\n\n\n\n\n\n\n\n\n\n\n\n\nContinued in\nDragon Types and Characteristics (Vol. II)."/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161050">
+<imgdir name="info">
+<canvas name="icon" width="33" height="27">
+<vector name="origin" x="0" y="27"/>
+</canvas>
+<canvas name="iconRaw" width="33" height="26">
+<vector name="origin" x="0" y="27"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#eDragon Types and Characteristics (Vol. II)#n"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n\n- Leafre Dragon Conservation Union"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="\n\n\nTable of Contents\n\n#b1. Prologue\n#b2. Definition of a Dragon\n#b3. Dragon Types and Characteristics\n#b4. Conclusion"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value=" A. Special Dragons"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" Sometimes, a dragon may physically appear to be a colored dragon yet have completely different characteristics."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" These are known as special dragons."/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="  a. Serpent Dragons"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" While common dragons have plump bodies and long tails, Serpent Dragons more closely resemble a snake with their long body and distinctive facial features. They live by the sea and feed on small fishes."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" Serpent Dragons, who are known for their mild temperament, do not attack first unless you intrude into their territory. "/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="But they are also fair and logical, so they will permit entry into their territory if you pay a reasonable fee and only if -- they pay the proper fee."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Serpent Dragons do not have a specific attribute. They use both Ice Breath and Fire Breath, and have resistances to both. It is said they are proficient in magic, although they seldom use it."/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value=" Although it is hard to find Serpent Dragons in Victoria Island and Ossyria, it has been reported that a Serpent Dragon named Leviathan has appeared near Minar Forest."/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="  b. Onyx Dragons"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" At first glance, Onyx Dragons look like Black Dragons because they both have black scales, but Onyx Dragons have gold horns and their scales have a clear and mysterious glow."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" They have the most unique growth process of any Dragon. "/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value=" Onyx Dragons grow physically depending on their mental growth. A newborn Onyx Dragon has unstable mental and physical abilities. Even after time passes, it will not develop if left alone. The only way for an Onyx Dragon to grow is to enter a Spirit Pact with another race."/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value=" An Onyx Dragon that enters a Spirit Pact will be spiritually linked to that person for eternity. Once that happens, the Onyx Dragon will finally recognize itself as a being and begin to develop intelligence. When its master grows, the Onyx Dragon will grow accordingly."/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value=" A spirit can develop endlessly, so an Onyx Dragon&apos;s growth potential is also endless. Onyx Dragons with good masters can acquire unrivaled amounts of power. Unfortunately, Onyx Dragons are said to be extinct."/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="  c. Mutant Dragons"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" Who is the most famous Dragon in all of Maple World? Ask a hundred people and every single one will say, &quot;Horntail&quot;! However, only a handful of people have ever seen Horntail and thus, only a handful of people know that Horntail is a Mutant Dragon."/>
+</imgdir>
+</imgdir>
+<imgdir name="10">
+<imgdir name="0">
+<string name="text" value=" Horntail can be categorized as a Black Dragon by its scale color. But because it is a three-headed Dragon, it is recognized as a special Dragon instead of a common Dragon. Each of Horntail&apos;s three heads has different abilities, and one of the heads is said to use a powerful luring skill."/>
+</imgdir>
+</imgdir>
+<imgdir name="11">
+<imgdir name="0">
+<string name="text" value=" Horntail may be an intelligent Dragon, but it is currently regarded as a monster in Maple World due to its vicious personality. Leafre is constantly recruiting members to join its expeditionary team to defeat Horntail, who has betrayed Nine Spirit and put Minar Forest in danger."/>
+</imgdir>
+</imgdir>
+<imgdir name="12">
+<imgdir name="0">
+<string name="text" value=" Of course, it is not easy to challenge Horntail. Currently, Horntail is the most powerful Dragon in Maple World. Of the three Dragon kings, Afrien went missing and Nine Spirit is in the process of recuperating from Horntail&apos;s betrayal, so Horntail stands unchallenged in Maple World."/>
+</imgdir>
+</imgdir>
+<imgdir name="13">
+<imgdir name="0">
+<string name="text" value="#e4. Conclusion#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" Dragons in Maple World have their own thoughts, feelings, and will. Not all Dragons are good, but that isn&apos;t a good enough reason to regard all Dragons as monsters."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" We can befriend Dragons, with the right mindset and diplomacy. So study them, and then give it a shot! Your life will surely be enriched."/>
+</imgdir>
+</imgdir>
+<imgdir name="14">
+<imgdir name="0">
+<string name="text" value="\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n&lt;The End&gt;"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161051">
+<imgdir name="info">
+<canvas name="icon" width="28" height="31">
+<vector name="origin" x="-2" y="31"/>
+</canvas>
+<canvas name="iconRaw" width="28" height="30">
+<vector name="origin" x="-2" y="31"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#eCrew Member&apos;s Voyage Log#n"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n\n- Written by John, A Retired Crew Member"/>
+<int name="align" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#ePrologue#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="  This book is a collection of my experiences while out to sea as a crew member. My experiences reveal the thrilling life of a man of the sea, so read it if you wish to live vicariously through my adventures."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" But remember: a true adventurer is someone who has firsthand experience of the world, and not a person who merely reads someone else&apos;s voyage log."/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="June 29th - Sunny"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" I have been on dry land for too long! Soon, I embark on a new voyage. This time, I board the Thunder Bolt under the command of Captain Alpha. He is well known, so I have high hopes for this voyage."/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="June 30th - Sunny"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" A lovely day. The voyage is off to a smooth start."/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="July 1st - Sunny"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="The wind is favorable. We&apos;re sailing faster than expected. Captain Alpha suggested we take a shortcut and sail through the Karibbean Triangle."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="I&apos;m sure the path is shorter, but that part of the sea is known for its atrocious weather and deadly reefs. That worries me."/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="July 2nd - Sunny"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" We agreed to enter Karibbean Triangle as Captain Alpha suggested. I was nervous, but we haven&apos;t encountered any problems thanks to the proficient crew members. Actually, it&apos;s going extremely well."/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="July 3rd - Sunny"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" Everything seems peaceful. I worried for nothing."/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="July 4th - Sunny"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" The sea is never this calm here. We must have luck on our side. Many crew members, including the Captain, have taken to napping on the deck to bask in the lovely weather."/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="July 5th - Sunny"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" I&apos;ve been feeding the sea gulls. Now, they visit me. On land, I scare people with my threatening appearance, but the sea gulls don&apos;t care. It&apos;s so peaceful, being here with the gulls. And pirates aren&apos;t foolish enough to attack a huge ship like ours, so I don&apos;t have to worry about that, either.."/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="July 6th - Sunny"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" We&apos;re about to leave the Karibbean Triangle. The expected 20 day voyage has been shortened to 10. I&apos;m glad we followed Captain Alpha&apos;s instincts."/>
+</imgdir>
+</imgdir>
+<imgdir name="10">
+<imgdir name="0">
+<string name="text" value="July 7th - Sunny"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" I&apos;m so relaxed. I&apos;ve been fishing. Something isn&apos;t quite right, though. The sea gulls have stopped visiting. Are we too far from their home now?"/>
+</imgdir>
+</imgdir>
+<imgdir name="11">
+<imgdir name="0">
+<string name="text" value="July 8th - Sunny"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" This sea is much too quiet. I&apos;m uneasy. I mentioned this to one of the guys and he just laughed. I don&apos;t know whether I&apos;m being mocked or not. I just hope I&apos;m wrong..."/>
+</imgdir>
+</imgdir>
+<imgdir name="12">
+<imgdir name="0">
+<string name="text" value="July 9th - Sunny"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" I asked Captain Alpha if he thought anything felt strange to him. He laughed and said I worry too much. I hope he&apos;s right. He does have more experience than I do."/>
+</imgdir>
+</imgdir>
+<imgdir name="13">
+<imgdir name="0">
+<string name="text" value="July 10th - A sudden storm!"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" We were hit by a ferocious storm! The Thunder Bolt happened to be in the eye of the storm, which explains why the weather was so calm. No wonder those sea gulls stopped visiting. The storm will most likely get stronger. Will we survive this calamity?"/>
+</imgdir>
+</imgdir>
+<imgdir name="14">
+<imgdir name="0">
+<string name="text" value="July 11th - Overcast"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" When I opened my eyes, I was lying on the shore of a strange island. The Thunder Bolt must be completely wrecked. I wonder if Captain Alpha and the others are okay, but right now, I must worry about myself. This island is covered in ice. I&apos;m freezing! I wrapped myself in a tattered sail I found floating nearby. I still have my harpoon on me, so I can hunt fish. I&apos;m glad I didn&apos;t lose my voyage log in the midst of all this."/>
+</imgdir>
+</imgdir>
+<imgdir name="15">
+<imgdir name="0">
+<string name="text" value="July 12th - Overcast, then rainy"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" The island is covered in snow. I see some animals and plants but no sign of human life. Could this be a deserted island? I hope not. Anyway, it looks like rain. I should head inland and look for shelter of some sort."/>
+</imgdir>
+</imgdir>
+<imgdir name="16">
+<imgdir name="0">
+<string name="text" value="July 13th - Rainy"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" I almost fainted! I hid myself in a cave, but as I wandered deeper, I found a monster. A Dragon! I&apos;ve only heard of such creatures in fairy tales... Now, before my very eyes, there is a Dragon, frozen in ice. It has #bblack scales and four golden horns#k. Quite intimidating. I&apos;m huddled in a nook near the entrance of the cave because I&apos;m scared to go too close. If it awakens, I can flee outside."/>
+</imgdir>
+</imgdir>
+<imgdir name="17">
+<imgdir name="0">
+<string name="text" value="July 14th - Rainy, then sunny"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" Luckily, the Dragon hasn&apos;t woken up. I was visited by some friendly faces today. The sea gulls! They recognized me, I think. I fed them some fish, and then a brilliant idea came to me. I ripped a piece of my clothing and wrote a note to whomever, asking them to rescue me. Then I tied it around one of the sea gull&apos;s legs. I hope someone finds it."/>
+</imgdir>
+</imgdir>
+<imgdir name="18">
+<imgdir name="0">
+<string name="text" value="July 15th - Overcast, then rainy"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" Constant rain. I waited all day by the shore but didn&apos;t see a single ship. No one sails through the Karibbean Triangle, so I only have one hope. The sea gulls..."/>
+</imgdir>
+</imgdir>
+<imgdir name="19">
+<imgdir name="0">
+<string name="text" value="July 16th - Sunny"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="   I saw a ship! It reached the shore within seconds. The sea gulls had surrounded the ship and guided it to me. It is indeed a rescue ship! I&apos;m saved! My sea gulls saved my life!"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161052">
+<imgdir name="info">
+<canvas name="icon" width="30" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="30" height="31">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="notSale" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#eEvan Guide#n"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Table of Contents\n#L1##b1. Basic Controls#k#l\n#L7##b2. What is an item?#k#l"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="1-1. Basic Controls"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#eLeft, Right Arrows#n: Move left and right\n#eUp, Down Arrows#n: Climb a rope or ladder, use portal\n#eAlt#n: Jump\n#eCtrl#n: Attack\n#eZ or 0 on NumPad#n: Pick up items\n#eE#n: Open Equipment window\n#eI#n: Open Item Inventory window\n#eS#n: Open Character Stat window\n#eK#n: Open Skill window"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="#bTip.#k You can easily access Use items and Skills by assigning them to hotkeys located at the bottom right of the screen."/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="1-2. Commands"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Perform various functions by entering the commands provided below into the chat window."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="(1) #eChat#n\n"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#e/all#n: Talk in regular chat mode.\n#e/buddy#n: Talk in buddy chat mode.\n#e/party#n: Talk in party chat mode.\n#e/Guild#n: Talk in guild chat mode.\n#e/whisper [character name]#n: Talk to a particular person."/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="(2) #eAction#n\n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e/find [character name]#n: Check whether a character is online and the character&apos;s current location.\n#e/trade [character name]#n: Request a trade."/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="(3) #eParty#n\n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e/partyinfo#n: Display information about current party members.\n#e/makeparty#n: Create a new party.\n#e/leaveparty#n: Leave the current party."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#e/partyinvite#n: Invite a new party member.#b(Party Leader)#k\n#e/partyexpell#n: Kick a party member out of the party.#b(Party Leader)#k"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#L1##bReturn to the Table of Contents#k#l"/>
+<string name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="2. What is an item?"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(1) #eEquipment Items#n\n  These items can be equipped on characters to boost abilities. You can also equip your purchased cash items, which customize the look of a character."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="To equip an item, open the Equipment window and drag the item to the corresponding equipment inventory slot, or simply double-click on the item you want to equip."/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="(2) #eUse Items#n\n  These items consist of potions that recover HP/MP, scrolls that upgrade equipment, and other consumable items. Double-click on an item to use it. The effects of the item will be applied and then the item will disappear."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(3)#e Etc Items#n\n  These include items dropped by monsters, quest items, ores, jewels, and other miscellaneous items."/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="These items don&apos;t do much by themselves but can be used to complete quests and/or interact with NPCs."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(4)#e Cash Items#n\n  Items that can be purchased in the Cash Shop, primarily to customize the look of a character and create other visual effects. #rCash items can be purchased by charging your account with cash. #k"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n#L1##bReturn to the Table of Contents#k#l"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160047">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Mir/Ruby\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 ~ 30\nsit\nsleep\nbad|no\nloveyou\ntalk|chat|say\neat"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet Level: 10 ~ 30\nfire\npoop"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet Level: 20 ~ 30\nfly"/>
+<string name="align" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="   If your pet&apos;s level reaches 15, you may command your pet to say certain lines by using the #b/pet#k command.\n #bEx.) /pet [What you want the pet to say]#k"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n   Mir and Ruby enjoy eating Fireballs. You can develop greater intimacy to your pet by feeding it Fireballs."/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160038">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Training your pet by using commands or developing closeness by feeding your pet will increase your pet&apos;s level."/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Toucan\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 ~ 30\nsit\nstupid|ihateyou|dummy\nbad|no|badgirl|badboy\nilove you"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet Level: 10 ~ 30\nsay|talk|chat\nsleep|sleepy|gotobed"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="Pet Level: 20 ~ 30\nattack\nwhistle"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="   If your pet&apos;s level reaches 15, you may command your pet to say certain lines by using the #b/pet#k command.\n #bEx.) /pet [What you want the pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160054">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Persian Cat\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, discipline, don&apos;t\niloveyou"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160057">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Tiel, Esel, Galiel\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, discipline, don&apos;t\niloveyou"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet level: 20 to 30\nshowoff, trick, perform"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160066">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="펫에 대한 알림문"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90여일간 당신의 곁에서 사랑스러운 펫으로 지낼 것입니다."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="90일이 지나 생명수가 다 마르면 당신은 #b생명수#k를 구해 #b마르의 숲#k에 있는 요정을 만나거나 루디브리엄의 #b에오스탑 입구#k에 있는 위습을 만나 펫을 부활시킬 수도 있습니다."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="조련사나 펫 먹이 상인을 찾아가 펫의 먹이를 먹이고 명령어를 사용하여 펫과의 친밀도를 높여보세요."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="펫 명령어 안내서 : 핑크빈 편\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="펫 레벨 : 1 ~ 30\n앉아\n때찌,안돼,혼난다,혼날래\n사랑해,좋아해,내사랑"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="펫 레벨 : 10 ~ 30\n놀자\n자자, 졸립지, 쿨쿨, 잘자\n말해봐, 말해줘, 말해"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="펫 레벨 : 20 ~ 30\n개인기"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip. 펫의 레벨이 15가 되면 특정 말을 하도록 시킬 수 있습니다. \n #b예) /펫 [할 말]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160070">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Corgi Pup\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, discipline, don&apos;t\niloveyou"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161053">
+<imgdir name="info">
+<canvas name="icon" width="33" height="28">
+<vector name="origin" x="0" y="28"/>
+</canvas>
+<canvas name="iconRaw" width="33" height="26">
+<vector name="origin" x="0" y="28"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#ePuzzle King Guide#n"/>
+<int name="align" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#i4001440:#"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e#bHow to obtain Puzzle Piece A.#n#k"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#rHunt the event monster!#k"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="During the 6th Anniversary event, the special monster, #b6th Anniversary Cake#k, appears in all maps and towns in the Maple World. Defeat the monster to obtain #bPuzzle Piece A#k."/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="#i4001441:#"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e#bHow to obtain Puzzle Piece B.#n#k"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#rNPC Inkie sells it!#k"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="You can purchase Puzzle Piece B from the NPC Inkie, who appears in town during the 6th Anniversary event. Inkie and Inkwell sell other rare items besides the Puzzle Piece, too, so make sure to visit them!"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="#i4001442:# #i4001443:# #i4001444:#"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e#bHow to obtain Puzzle Pieces C, D, and E.#n#k"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#rDo the MapleStory 6th Anniversary Quest!#k"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Do the repeatable #b&apos;MapleStory 6th Anniversary&apos; quest during the event to receive Puzzle Piece C, D, or E at random. You must complete the whole quest to obtain the Puzzle Piece!"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="#i4001445:#"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e#bHow to obtain Puzzle Piece F.#n#k"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#rPop the Balloon!#k"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Participate in the #b&apos;Balloon Hunt&apos;#k party quest, available only during the 6th Anniversary event! Pop the Balloon to obtain the Puzzle Piece. Make sure to participate, as you can receive a variety of gifts when you win!"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="#i4001446:#"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e#bHow to obtain Puzzle Piece G.#n#k"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#rGrow a Maple Tree!#k"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="During the 6th Anniversary period, grow the #bMaple Tree#k on Maple Tree Hill until it pops to obtain Puzzle Piece G.\nIf you give more than 50 Sunshines to the Maple Tree in one day, Aramia can also give you a Puzzle Piece G that day."/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161054">
+<imgdir name="info">
+<canvas name="icon" width="30" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="30" height="31">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="notSale" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#eCitizen&apos;s Guide#n"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="  Table of Contents\n#L1##b1. Basic Controls#k#l\n#L7##b2. What are Items?#k#l"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="1-1. Basic Controls"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#eLeft, Right Arrow#n: Move left and right\n#eUp, Down Arrow#n: Use rope or ladder to climb up and down, use portal\n#eAlt #n: Jump\n#eCtrl #n: Attack\n#eZ or 0 in NumPad #n: Pick up items\n#eE #n: Open Equipment window\n#eI #n: Open Item window\n#eS #n: Open Ability window\n#eK #n: Open Skill window"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="#bTip.#k At the bottom right corner of the screen, assign one of the Hotkeys with a &apos;Use&apos; item or a skill for easy access to the item or the skill."/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="1-2. Commands"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Enter the commands below in the chat window to use the corresponding functions."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="(1) #eChat#n\n"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#e/all#n: Talk in regular chat mode.\n#e/buddy#n: Talk in buddy chat mode.\n#e/party#n: Talk to party members.\n#e/guild#n: Talk to guild members.\n#e/whisper [character name]#n: Talk to a particular person."/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="(2) #eAction#n\n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e/find [character name]#n: Check the login status of the character and the character&apos;s current location.\n#e/trade [character name]#n: Request a trade."/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="(3) #eParty#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e/partyinfo#n: Display information about current party members.\n#e/makeparty#n: Create a new party.\n#e/leaveparty#n: Leave the party\n#e/partyinvite [character name]#n: Invite a new party member.#b(Party Leader)#k\n#e/partyexpel [character name]#n: Kick a party member out of the party.#b(Party Leader)#k"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#L1##bReturn to the Table of Contents#k#l"/>
+<string name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="2. What are Items?"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(1) #eEquipment Item#n\n  These items can be equipped on characters to boost abilities. You can also equip your purchased cash items, which customize the look of a character.  "/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="To equip an item, open the Equipment window and drag the item to the corresponding equipment inventory slot, or simply double-click on the item you want to equip."/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="(2) #eUse Items#n\n These items consist of potions that recover HP/MP, Scrolls that upgrade equipment, and other consumable items. Double-click on an item to use it. The effects of the item will be applied, and then the item will disappear."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(3) #eEtc. Items#n\n These include items dropped by monsters, quest items, ores, jewels, and other miscellaneous items."/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="These items don&apos;t do much by themselves, but can be used to complete quests and/or interact with NPCs."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(4) #eCash Items#n\n Items that can be purchased in the Cash Shop, primarily to customize the look of a character and create other visual effects. #rCash items can be purchased by charging your account with cash.#k"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n#L1##bReturn to the Table of Contents#k#l"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161079">
+<imgdir name="info">
+<canvas name="icon" width="30" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="30" height="31">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="notSale" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#eMercedes Guide#n"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="  Table of Contents\n#L1##b1. Basic Controls#k#l\n#L7##b2. What are Items?#k#l"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="1-1. Basic Controls"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#eLeft, Right Arrow#n: Move left and right\n#eUp, Down Arrow#n: Use ropes or ladders to climb up and down, use portals\n#eAlt #n: Jump\n#eCtrl #n: Attack\n#eZ or 0 in NumPad #n: Pick up items\n#eE #n: Open Equipment window\n#eI #n: Open Item window\n#eS #n: Open Ability window\n#eK #n: Open Skill window"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="#bTip.#k At the bottom right corner of the screen, assign one of the Hotkeys to a &apos;Use&apos; item or a skill for easy access."/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="1-2. Commands"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Enter the commands below in the chat window to use the corresponding functions."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="(1) #eChat#n\n"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#e/all#n: Talk in regular chat mode.\n#e/buddy#n: Talk in buddy chat mode.\n#e/party#n: Talk to party members.\n#e/guild#n: Talk to guild members.\n#e/whisper [character name]#n: Talk to a particular person."/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="(2) #eAction#n\n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e/find [character name]#n: Check the login status of the character and the character&apos;s current location.\n#e/trade [character name]#n: Request a trade."/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="(3) #eParty#n\n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e/partyinfo#n: Display information about current party members.\n#e/makeparty#n: Create a new party.\n#e/leaveparty#n: Leave the current party."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#e/partyinvite [character name]#n: Invite a new party member.#b(Party Leader)#k\n#e/partyexpel [character name]#n: Kick a party member out of the party.#b(Party Leader)#k"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#L1##bReturn to the Table of Contents#k#l"/>
+<string name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="2. What are Items?"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(1) #eEquipment Items#n\n  These items can be equipped on characters to boost abilities. You can also equip your purchased cash items, which customize the look of your character.  "/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="To equip an item, open the Equipment window and drag the item to the corresponding equipment inventory slot, or simply double-click on the item you want to equip."/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="(2) #eUse Items#n\n These items consist of potions that recover HP/MP, Scrolls that upgrade equipment, and other consumable items. Double-click on an item to use it. The effects of the item will be applied, and then the item will disappear."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(3) #eEtc. Items#n\n These include items dropped by monsters, quest items, ores, jewels, and other miscellaneous items."/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="These items don&apos;t do much by themselves, but can be used to complete quests and/or interact with NPCs."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(4) #eCash Items#n\n Items that can be purchased in the Cash Shop, primarily to customize the look of a character and create other visual effects. #rCash items can be purchased by charging your account with cash.#k"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n\n\n\n#L1##bReturn to the Table of Contents#k#l"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161080">
+<imgdir name="info">
+<canvas name="icon" width="28" height="28">
+<vector name="origin" x="-2" y="28"/>
+</canvas>
+<canvas name="iconRaw" width="27" height="27">
+<vector name="origin" x="-2" y="28"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="notSale" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Month: X, Day: X\n\nI had a meeting with the king of Ludibrium... he really puts my patience to the test. I heard he&apos;s quite old, but why does he act like a kid?"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="Month: X, Day: X\n\n(Hard to read as this part has been damaged.)"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="Month: X, Day: X\n\nI got scolded by Elena for speaking too... roughly. But what I was supposed to do when he looked like he wouldn&apos;t understand otherwise?! Speaking gracefully is tiring too…"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="Month: X, Day: X\n\n(Hard to read as this part has been damaged.)"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="Month: X, Day: X\n\n(Hard to read as this part has been damaged.)"/>
+</imgdir>
+</imgdir>
+<imgdir name="10">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="11">
+<imgdir name="0">
+<string name="text" value="Month: X, Day: X\n\nThat jerk-of-man, king of Ariant was robbed. I hear he REALLY got robbed... Just out of courtesy, I told him that he has my condolences, but... BOY does he deserve it! Phantom the master thief, huh? I kind of like him already."/>
+</imgdir>
+</imgdir>
+<imgdir name="12">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="13">
+<imgdir name="0">
+<string name="text" value="Month: X, Day: X\n\n(Hard to read as this part has been damaged.)"/>
+</imgdir>
+</imgdir>
+<imgdir name="14">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="15">
+<imgdir name="0">
+<string name="text" value="Month: X, Day: X\n\nBarren land... there&apos;s nothing I can do within my power. What could I do to help El Nath become more rich? I will have to talk more with the king."/>
+</imgdir>
+</imgdir>
+<imgdir name="16">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="17">
+<imgdir name="0">
+<string name="text" value="Month: X, Day: X\n\n(Hard to read as this part has been damaged.)"/>
+</imgdir>
+</imgdir>
+<imgdir name="18">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="19">
+<imgdir name="0">
+<string name="text" value="Month: X, Day: X\n\nI hear stories about Phantom the master thief wherever I go. Is he a righteous thief that only steals from the rich? He sure does sound cool... I would actually like to meet him, but... all Ereve has are trres and grass... I guess he won&apos;t be coming anytime soon."/>
+</imgdir>
+</imgdir>
+<imgdir name="20">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="21">
+<imgdir name="0">
+<string name="text" value="(Looks faded, as if she wrote it and erased it after.)\n\nIt&apos;s not that I don&apos;t like my duties as the empress, but... sometimes I want to be a normal girl. I shouldn&apos;t have these thoughts, should I...?"/>
+</imgdir>
+</imgdir>
+<imgdir name="22">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="23">
+<imgdir name="0">
+<string name="text" value="Month: X, Day: X\n\n(Hard to read as this part has been damaged.)"/>
+</imgdir>
+</imgdir>
+<imgdir name="24">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="25">
+<imgdir name="0">
+<string name="text" value="Month: X, Day: X\n\n(Hard to read as this part has been damaged.)"/>
+</imgdir>
+</imgdir>
+<imgdir name="26">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="27">
+<imgdir name="0">
+<string name="text" value="Month: X, Day: X\n\nIf he won&apos;t come, then can&apos;t I just call him? I&apos;m talking about Phantom the master thief, of course. Rumors say that he only targets extremely valuable things, so... how about I create a rumor that an extremely valuable treasure is at Ereve? Worth a shot, right? But... he IS Phantom the master thief... what if I don&apos;t even get to see his face?"/>
+</imgdir>
+</imgdir>
+<imgdir name="28">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="29">
+<imgdir name="0">
+<string name="text" value="Month: X, Day: X\n\n(Hard to read as this part has been damaged.)"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161081">
+<imgdir name="info">
+<canvas name="icon" width="31" height="30">
+<vector name="origin" x="-1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="27">
+<vector name="origin" x="-1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="notSale" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#eMesoranger Action Guide#n"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="  Table of Contents\n#L1##b1. What Are Mesorangers?#k#l\n#L2##b2. Eligibility#k#l \n#L3##b3. Trust of the People Score#k#l \n#L4##b4. Bonus Score#k#l \n#L5##b5. Interview Score#k#l \n#L6##b6. Getting In#k#l"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#e#b1. What Are Mesorangers?#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="They&apos;re brave warriors from the Omega Sector who protect Maple World from the alien threat! They must be fit, both mentally and physically. Join them, if you think you&apos;re up to the task!"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="#e#b2. Eligibility#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="You need bravery, will, and trust to become a Mesoranger. You can get ordinary bravery, will, and trust just by eliminating normal monsters. "/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="You can start the Action Exam as soon as you meet the minimum requirements, but your Bonus Score will be a little too low for you to realistically pass the exam. You can learn more about improving your score in the Bonus Score section."/>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="#e#b2. Trust of the People Score#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="This score depends on your class, level, and fame, but the biggest part of what determines this score is the impression you make on other people!"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="To make a good impression, you&apos;ll need a Sincere Expression, a Genuine Smile, a solid Fashion Sense, and Intellectual Poise. Talk to Dr. Pepper about how to obtain these traits."/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="#e#b2. Bonus Score#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="The amount of bravery, will, and faith you have makes a huge difference in whether you pass the Action Exam!"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="We&apos;ve listed the methods you can earn more bravery, will, and faith in the next section."/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="\n#b4-1. How to Obtain Bravery#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="1) Bravery#k \n - Hunt normal monsters"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="2) Sincere Bravery#k \n - Hunt normal monsters (rare) \n - Participate in Gonzo Gallery"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="3) Bountiful Bravery \n - Defeat bosses"/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="\n#b4-1. How to Obtain Will#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="1) Will#k \n - Hunt normal monsters \n - Purchase from General Stores"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="2) Willful Will\n - Hunt normal monsters (rare)  \n - Participate in Monster Park \n - Participate in Mu Lung Dojo \n - Hunt master monsters"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="3) Unwavering Will \n - Hunt in the Forest of Endurance and Forest of Tenacity"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="\n#b4-1. How to Obtain Trust#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="1) Trust#k \n - Hunt normal monsters "/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="2) Trusting Trust#k \n - Participate in party quests"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="3) Unconditional Trust#k \n - Participate in party quests (rare)"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Complete the [Advice from General Maestro] quests to get more bravery, will, and trust."/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="\n#b4-4. The Right Attitude#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Having the right attitude makes all the difference in whether you get into the Mesorangers. "/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="But you also have to strategize. If collecting bravery, will, and trust takes too long, you might want to focus on your Trust of the People and Interview Scores instead."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="The choice is yours."/>
+</imgdir>
+</imgdir>
+<imgdir name="10">
+<imgdir name="0">
+<string name="text" value="#e#b2. Interview Score#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="This score is determined by a chat you have with Dr. Kim. Just answer his questions honestly. The questions change annually, but they&apos;re all related to the attitude that a good Mesoranger should have."/>
+</imgdir>
+</imgdir>
+<imgdir name="11">
+<imgdir name="0">
+<string name="text" value="#e#b6. Getting In#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="You can join the Mesorangers and obtain exclusive Mesoranger items if your combined Trust of the People Score, Bonus Score, and Interview Score exceed 1000! Even if you don&apos;t get in, you can still get some souvenirs!"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="You have it in you to become a Mesorange! Keep trying until you succeed!"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04162000">
+<imgdir name="info">
+<canvas name="icon" width="31" height="31">
+<vector name="origin" x="0" y="31"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="30">
+<vector name="origin" x="0" y="31"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="UI" value="0"/>
+<int name="notSale" value="1"/>
+<int name="only" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+<imgdir name="book">
+</imgdir>
+</imgdir>
+<imgdir name="04162001">
+<imgdir name="info">
+<canvas name="icon" width="31" height="31">
+<vector name="origin" x="-1" y="31"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="28">
+<vector name="origin" x="-1" y="31"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="UI" value="2"/>
+<int name="notSale" value="1"/>
+<int name="only" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+<imgdir name="book">
+</imgdir>
+</imgdir>
+<imgdir name="04162002">
+<imgdir name="info">
+<canvas name="icon" width="31" height="30">
+<vector name="origin" x="-1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="28">
+<vector name="origin" x="-1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="UI" value="3"/>
+<int name="notSale" value="1"/>
+<int name="only" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+<imgdir name="book">
+</imgdir>
+</imgdir>
+<imgdir name="04162003">
+<imgdir name="info">
+<canvas name="icon" width="31" height="29">
+<vector name="origin" x="-1" y="29"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="27">
+<vector name="origin" x="-1" y="29"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="UI" value="4"/>
+<int name="notSale" value="1"/>
+<int name="only" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+<imgdir name="book">
+</imgdir>
+</imgdir>
+<imgdir name="04162004">
+<imgdir name="info">
+<canvas name="icon" width="30" height="31">
+<vector name="origin" x="-1" y="31"/>
+</canvas>
+<canvas name="iconRaw" width="30" height="29">
+<vector name="origin" x="-1" y="31"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="UI" value="5"/>
+<int name="notSale" value="1"/>
+<int name="only" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+<imgdir name="book">
+</imgdir>
+</imgdir>
+<imgdir name="04162005">
+<imgdir name="info">
+<canvas name="icon" width="31" height="30">
+<vector name="origin" x="0" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="28">
+<vector name="origin" x="0" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="UI" value="6"/>
+<int name="notSale" value="1"/>
+<int name="only" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+<imgdir name="book">
+</imgdir>
+</imgdir>
+<imgdir name="04162006">
+<imgdir name="info">
+<canvas name="icon" width="31" height="29">
+<vector name="origin" x="-1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="28">
+<vector name="origin" x="-1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="UI" value="7"/>
+<int name="notSale" value="1"/>
+<int name="only" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+<imgdir name="book">
+</imgdir>
+</imgdir>
+<imgdir name="04162007">
+<imgdir name="info">
+<canvas name="icon" width="32" height="30">
+<vector name="origin" x="-1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="28">
+<vector name="origin" x="-1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="UI" value="8"/>
+<int name="notSale" value="1"/>
+<int name="only" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+<imgdir name="book">
+</imgdir>
+</imgdir>
+<imgdir name="04162008">
+<imgdir name="info">
+<canvas name="icon" width="31" height="31">
+<vector name="origin" x="-1" y="31"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="28">
+<vector name="origin" x="-1" y="31"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="UI" value="9"/>
+<int name="notSale" value="1"/>
+<int name="only" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+<imgdir name="book">
+</imgdir>
+</imgdir>
+<imgdir name="04162009">
+<imgdir name="info">
+<canvas name="icon" width="31" height="30">
+<vector name="origin" x="0" y="31"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="29">
+<vector name="origin" x="0" y="31"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="UI" value="10"/>
+<int name="notSale" value="1"/>
+<int name="only" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+<imgdir name="book">
+</imgdir>
+</imgdir>
+<imgdir name="04160050">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide : Visitor Research Monkey\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level : 1 ~ 30\nsit rest bad|no|badgirl|badboy\npoop iloveyou up|stand"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet Level : 10 ~ 30\ntalk|say|chat play"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet Level : 20 ~ 30\nsleep|sleepy|gotobed"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="If pet&apos;s level reaches 15, you may order pet to say certain lines by using #b/pet#k command. "/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Visit the Pet Trainer or Pet Food Merchant to buy food for your pet. Then use pet commands to increase intimacy with your pet."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160055">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Cake Command Guide : Cake\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level : 1 ~ 30\nsit, bad|no\n, eat, talk|chat|say, loveyou, sleep"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet Level : 10 ~ 30\ndance"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet Level : 20 ~ 30\npoop, big, smarty"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="If pet&apos;s level reaches 15, you may order pet to say certain lines by using #b/pet#k command. "/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Visit the Pet Trainer or Pet Food Merchant to buy food for your pet. Then use pet commands to increase intimacy with your pet."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160056">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide : Pie\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level : 1 ~ 30\nsit, bad|no\n, eat, talk|chat|say, loveyou, sleep"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet Level : 10 ~ 30\ndance"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet Level : 20 ~ 30\npoop, big, smarty"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="If pet&apos;s level reaches 15, you may order pet to say certain lines by using #b/pet#k command. "/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Visit the Pet Trainer or Pet Food Merchant to buy food for your pet. Then use pet commands to increase intimacy with your pet."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160052">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Corgi Pup\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, bad, don&apos;t\nstupid, mutt, idiot, hate"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\ntalk, chat, say, bark\ndown"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet level: 20 to 30\niloveyou"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04162010">
+<imgdir name="info">
+<canvas name="icon" width="31" height="30">
+<vector name="origin" x="-1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="28">
+<vector name="origin" x="-1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="UI" value="14"/>
+<int name="notSale" value="1"/>
+<int name="only" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+<imgdir name="book">
+</imgdir>
+</imgdir>
+<imgdir name="04162011">
+<imgdir name="info">
+<canvas name="icon" width="31" height="29">
+<vector name="origin" x="-1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="29">
+<vector name="origin" x="-1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="UI" value="99"/>
+<int name="notSale" value="1"/>
+<int name="only" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+<imgdir name="book">
+</imgdir>
+</imgdir>
+<imgdir name="04162012">
+<imgdir name="info">
+<canvas name="icon" width="33" height="31">
+<vector name="origin" x="-1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="33" height="31">
+<vector name="origin" x="-1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="UI" value="98"/>
+<int name="notSale" value="1"/>
+<int name="only" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+<imgdir name="book">
+</imgdir>
+</imgdir>
+<imgdir name="04162013">
+<imgdir name="info">
+<canvas name="icon" width="32" height="31">
+<vector name="origin" x="-1" y="31"/>
+</canvas>
+<canvas name="iconRaw" width="32" height="30">
+<vector name="origin" x="-1" y="31"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="UI" value="13"/>
+<int name="notSale" value="1"/>
+<int name="only" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+<imgdir name="book">
+</imgdir>
+</imgdir>
+<imgdir name="04162014">
+<imgdir name="info">
+<canvas name="icon" width="32" height="31">
+<vector name="origin" x="-2" y="31"/>
+</canvas>
+<canvas name="iconRaw" width="32" height="30">
+<vector name="origin" x="-2" y="31"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="UI" value="14"/>
+<int name="notSale" value="1"/>
+<int name="only" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+<imgdir name="book">
+</imgdir>
+</imgdir>
+<imgdir name="04160067">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Craw\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, discipline, don&apos;t\niloveyou"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet level: 20 to 30\nshowoff, trick, perform"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160068">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Adriano\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, discipline, don&apos;t\niloveyou"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet level: 20 to 30\nshowoff, trick, perform"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160069">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Bonkey\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, discipline, don&apos;t\niloveyou"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet level: 20 to 30\nshowoff, trick, perform"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160071">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Dragon\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, discipline, don&apos;t\niloveyou"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet level: 20 to 30\nshowoff, trick, perform"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160074">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Demon\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, discipline, don&apos;t\niloveyou"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet level: 20 to 30\nshowoff, trick, perform"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160072">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Fennec Fox\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, discipline, don&apos;t\niloveyou
+"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say
+"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet level: 20 to 30\n nod
+"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k
+"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160073">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="펫에 대한 알림문"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90여일간 당신의 곁에서 사랑스러운 펫으로 지낼 것입니다."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="90일이 지나 생명수가 다 마르면 당신은 #b생명수#k를 구해 #b마르의 숲#k에 있는 요정을 만나거나 루디브리엄의 #b에오스탑 입구#k에 있는 위습을 만나 펫을 부활시킬 수도 있습니다."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="조련사나 펫 먹이 상인을 찾아가 펫의 먹이를 먹이고 명령어를 사용하여 펫과의 친밀도를 높여보세요."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="펫 명령어 안내서 : 꼬마 앵무새 편\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="펫 레벨 : 1 ~ 30\n앉아\n때찌,안돼,혼난다,혼날래\n사랑해,좋아해,내사랑"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="펫 레벨 : 10 ~ 30\n응가\n자자, 졸립지, 쿨쿨, 잘자\n말해봐, 말해줘, 말해"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="펫 레벨 : 20 ~ 30\n개인기"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip. 펫의 레벨이 15가 되면 특정 말을 하도록 시킬 수 있습니다. \n #b예) /펫 [할 말]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160075">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Chunky Raccoon\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, discipline, don&apos;t\niloveyou"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet level: 20 to 30\nshowoff, trick, perform"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160076">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Blue Burro\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, discipline, don&apos;t\niloveyou"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet level: 20 to 30\nshowoff, trick, perform"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160077">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Blackheart\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, discipline, don&apos;t\niloveyou"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160078">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Harp Seal\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, discipline, don&apos;t\niloveyou"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet level: 20 to 30\nshowoff, trick, perform"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160065">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide : Shark\n"/>
+<string name="align" value="1.000000"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level : 1 ~ 30\nsit / bad, no, badboy, badgirl\niloveyou, poop\nstupid, dummy, ihateyou"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet Level : 11 ~ 30\ntalk, chat, cutie, smile, laugh"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet Level : 21 ~ 30\nsleep, nap, sleepy"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="If pet&apos;s level reaches 15, you may order pet to say certain lines.\n#bex) /pet insert your own#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160079">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Puffram\n"/>
+<string name="align" value="1.000000"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, discipline, don&apos;t\niloveyou"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet level: 20 to 30\nshowoff, trick, perform"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="If pet&apos;s level reaches 15, you may order pet to say certain lines.\n#bex) /pet insert your own#k"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160082">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Demon\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, discipline, don&apos;t\niloveyou"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet level: 20 to 30\nshowoff, trick, perform"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160087">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Starwing\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, discipline, don&apos;t\niloveyou"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet level: 20 to 30\nshowoff, trick, perform"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160088">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Shark\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, discipline, don&apos;t\niloveyou"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet level: 20 to 30\nshowoff, trick, perform"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160090">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Dragon\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, discipline, don&apos;t\niloveyou"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet level: 20 to 30\nshowoff, trick, perform"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160083">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Merlion\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap,no,bad,don&apos;t\n stupid,ihateyou,dummy "/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\n talk,chat,say \n"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet level: 20 to 30\niloveyou\n sleep,sleepy,gotobed\n disguise,change,transform "/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160084">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Butterfly\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap,no,bad,don&apos;t\n stupid,ihateyou,dummy "/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\n talk,chat,say \n"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet level: 20 to 30\niloveyou\n sleep,sleepy,gotobed\n disguise,change,transform "/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160096">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Fennec Fox\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, discipline, don&apos;t\niloveyou
+"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say
+"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet level: 20 to 30\n nod
+"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k
+"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160092">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Pet Notice"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\nA wonderful pet that will keep you company for the next 90 days."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="You can revive an expired pet by getting #bWater of Life#k from the Fairy in #bMar&apos;s Forest#k or the Wisp at the #bEos Tower Entrance#k in Ludibrium."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Feeding your pet will solidify the bond between you! The pet tamer and the pet food merchant both sell food that will increase Closeness."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Teddy\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, discipline, don&apos;t\niloveyou"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160094">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Pet Notice"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\nA wonderful pet that will keep you company for the next 90 days."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="You can revive an expired pet by getting #bWater of Life#k from the Fairy in #bMar&apos;s Forest#k or the Wisp at the #bEos Tower Entrance#k in Ludibrium."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Feeding your pet will solidify the bond between you! The pet tamer and the pet food merchant both sell food that will increase Closeness."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Pumpkin\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, discipline, don&apos;t\niloveyou"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160097">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Pet Notice"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\nA wonderful pet that will keep you company for the next 90 days."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="You can revive an expired pet by getting #bWater of Life#k from the Fairy in #bMar&apos;s Forest#k or the Wisp at the #bEos Tower Entrance#k in Ludibrium."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Feeding your pet will solidify the bond between you! The pet tamer and the pet food merchant both sell food that will increase Closeness."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Koala\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, discipline, don&apos;t\niloveyou"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160098">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Pet Notice"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\nThis wonderful pet will keep you company for the next 90 days."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="When its life expires, you can resurrect it by using #bWater of Life#k from the Fairy in #bMar&apos;s Forest#k or the Wisp at the #bEos Tower Entrance#k in Ludibrium."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Feed your pet regularly to maintain your bond with him. Pet Tamers and Pet Food Merchants sell pet food that increase Closeness."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide: Squirrel\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, discipline, don&apos;t\niloveyou"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet Level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip. When your pet reaches Level 15, you can train him to say specific words. \n #bExample: /pet [word]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160102">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Pet Notice"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\nA wonderful pet that will keep you company for the next 90 days."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="You can revive an expired pet by getting #bWater of Life#k from the Fairy in #bMar&apos;s Forest#k or the Wisp at the #bEos Tower Entrance#k in Ludibrium."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Feeding your pet will solidify the bond between you! The pet tamer and the pet food merchant both sell food that will increase Closeness."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide : Roo-bot\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level: 1 to 30\nsit\nslap, no, bad, don&apos;t\niloveyou"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet level: 10 to 30\npoop\nsleep, sleepy, zzz, goodnight\ntalk, chat, say"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip: You can control what your pet says when it reaches Lv. 15.\n #bExample) /pet [What you want your pet to say]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160105">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="Notice about the Pets"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Training your pet by using commands or feeding your pet will increase your pet&apos;s Closeness and level. Basic pet food is sold by pet food merchants, and special pet food is sold in the Cash Shop."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="If your pet expires and turns into a doll, you can purchase #bWater of Life#k from the Cash Shop to revive it."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="Pet Command Guide : Yeti Robot\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level : 15 ~ 30\nsit bad|no|badgirl|badboy\nstupid|ihateyou|dummy\niloveyou|mylove|likeyou\ntalk|chat|say\nsleep|sleepy|gotobed"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet Level : 21 ~ 30\nattack|fire\nchange|go"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="If pet&apos;s level reaches 15, you may order pet to say certain lines by using #b/pet#k command. "/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Visit the Pet Trainer or Pet Food Merchant to buy food for your pet. Then use pet commands to increase intimacy with your pet."/>
 </imgdir>
 </imgdir>
 </imgdir>

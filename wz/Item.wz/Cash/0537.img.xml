@@ -17,11 +17,30 @@
 <imgdir name="info">
 <canvas name="icon" width="29" height="29">
 <vector name="origin" x="-2" y="29"/>
+<string name="source" value="Item/Cash/0537.img/05370000/info/icon"/>
 </canvas>
 <canvas name="iconRaw" width="29" height="28">
 <vector name="origin" x="-2" y="29"/>
+<string name="source" value="Item/Cash/0537.img/05370000/info/iconRaw"/>
 </canvas>
 <canvas name="sample" width="80" height="68">
+<string name="source" value="Item/Cash/0537.img/05370000/info/sample"/>
+</canvas>
+<int name="cash" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="05370002">
+<imgdir name="info">
+<canvas name="icon" width="29" height="29">
+<vector name="origin" x="-2" y="29"/>
+<string name="source" value="Item/Cash/0537.img/05370000/info/icon"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="28">
+<vector name="origin" x="-2" y="29"/>
+<string name="source" value="Item/Cash/0537.img/05370000/info/iconRaw"/>
+</canvas>
+<canvas name="sample" width="80" height="68">
+<string name="source" value="Item/Cash/0537.img/05370000/info/sample"/>
 </canvas>
 <int name="cash" value="1"/>
 </imgdir>

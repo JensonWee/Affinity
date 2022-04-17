@@ -10,7 +10,7 @@
 <string name="islot" value="Tm"/>
 <string name="vslot" value="Tm"/>
 <int name="reqJob" value="0"/>
-<int name="reqLevel" value="0"/>
+<int name="reqLevel" value="75"/>
 <int name="tuc" value="0"/>
 <int name="tamingMob" value="3"/>
 <int name="tradeBlock" value="1"/>
@@ -217,20 +217,6 @@
 <imgdir name="5">
 <uol name="0" value="../../stand1/5/0"/>
 <uol name="delay" value="../../stand1/1/delay"/>
-</imgdir>
-</imgdir>
-<imgdir name="tired">
-<imgdir name="0">
-<canvas name="0" width="86" height="56">
-<vector name="origin" x="45" y="53"/>
-<vector name="lt" x="-48" y="-56"/>
-<vector name="rb" x="64" y="3"/>
-<imgdir name="map">
-<vector name="navel" x="11" y="-45"/>
-</imgdir>
-<string name="z" value="tamingMobMid"/>
-</canvas>
-<int name="delay" value="120"/>
 </imgdir>
 </imgdir>
 <imgdir name="jump">

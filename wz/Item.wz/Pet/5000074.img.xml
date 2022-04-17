@@ -17,10 +17,7 @@
 <int name="cash" value="1"/>
 <int name="chatBalloon" value="52"/>
 <int name="nameTag" value="52"/>
-<int name="life" value="30"/>
-<int name="pickupItem" value="1"/>
-<int name="longRange" value="1"/>
-<int name="sweepForDrop" value="1"/>
+<int name="life" value="90"/>
 </imgdir>
 <imgdir name="interact">
 <imgdir name="0">
@@ -127,7 +124,7 @@
 <int name="l1" value="9"/>
 <imgdir name="success">
 <imgdir name="0">
-<string name="act" value="rest0"/>
+<string name="act" value="scratch"/>
 <string name="0" value="c5_s1"/>
 <string name="1" value="c5_s2"/>
 </imgdir>
@@ -148,7 +145,7 @@
 <int name="l1" value="19"/>
 <imgdir name="success">
 <imgdir name="0">
-<string name="act" value="rest0"/>
+<string name="act" value="scratch"/>
 <string name="0" value="c6_s1"/>
 <string name="1" value="c6_s2"/>
 <string name="2" value="c6_s3"/>
@@ -173,7 +170,7 @@
 <int name="l1" value="29"/>
 <imgdir name="success">
 <imgdir name="0">
-<string name="act" value="rest0"/>
+<string name="act" value="scratch"/>
 <string name="0" value="c7_s1"/>
 <string name="1" value="c7_s2"/>
 <string name="2" value="c7_s3"/>
@@ -198,7 +195,7 @@
 <int name="l1" value="30"/>
 <imgdir name="success">
 <imgdir name="0">
-<string name="act" value="rest0"/>
+<string name="act" value="scratch"/>
 <string name="0" value="c8_s1"/>
 <string name="1" value="c8_s2"/>
 <string name="2" value="c8_s3"/>
@@ -374,7 +371,7 @@
 </imgdir>
 <imgdir name="fail">
 <imgdir name="0">
-<string name="act" value="rest0"/>
+<string name="act" value="scratch"/>
 <string name="0" value="c15_f1"/>
 <string name="1" value="c15_f2"/>
 <string name="2" value="c15_f3"/>
@@ -399,7 +396,7 @@
 </imgdir>
 <imgdir name="fail">
 <imgdir name="0">
-<string name="act" value="rest0"/>
+<string name="act" value="scratch"/>
 <string name="0" value="c16_f1"/>
 <string name="1" value="c16_f2"/>
 <string name="2" value="c16_f3"/>
@@ -591,7 +588,7 @@
 </imgdir>
 <imgdir name="fail">
 <imgdir name="0">
-<string name="act" value="rest0"/>
+<string name="act" value="scratch"/>
 <string name="0" value="c24_f1"/>
 <string name="1" value="c24_f2"/>
 <string name="2" value="c24_f3"/>
@@ -691,7 +688,7 @@
 </imgdir>
 <imgdir name="fail">
 <imgdir name="0">
-<string name="act" value="rest0"/>
+<string name="act" value="scratch"/>
 <string name="0" value="c28_f1"/>
 <string name="1" value="c28_f2"/>
 <string name="2" value="c28_f3"/>

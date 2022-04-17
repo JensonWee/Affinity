@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <imgdir name="01112219.img">
 <imgdir name="info">
-<canvas name="icon" width="26" height="29">
-<vector name="origin" x="-4" y="29"/>
-</canvas>
-<canvas name="iconRaw" width="25" height="25">
-<vector name="origin" x="-4" y="29"/>
-</canvas>
 <canvas name="sample" width="50" height="42">
 </canvas>
 <string name="islot" value="Ri"/>
@@ -19,5 +13,11 @@
 <int name="reqLUK" value="0"/>
 <int name="cash" value="1"/>
 <int name="chatBalloon" value="21"/>
+<canvas name="icon" width="26" height="29">
+<vector name="origin" x="-4" y="29"/>
+</canvas>
+<canvas name="iconRaw" width="25" height="25">
+<vector name="origin" x="-4" y="29"/>
+</canvas>
 </imgdir>
 </imgdir>

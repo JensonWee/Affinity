@@ -15,10 +15,10 @@
 <string name="afterImage" value="bow"/>
 <string name="sfx" value="bow"/>
 <int name="tuc" value="8"/>
-<int name="reqJob" value="4"/>
+<int name="reqJob" value="0"/>
 <int name="reqLevel" value="120"/>
-<int name="reqSTR" value="125"/>
-<int name="reqDEX" value="305"/>
+<int name="reqSTR" value="0"/>
+<int name="reqDEX" value="0"/>
 <int name="reqINT" value="0"/>
 <int name="reqLUK" value="0"/>
 <int name="incPAD" value="109"/>

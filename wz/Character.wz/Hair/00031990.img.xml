@@ -7,24 +7,24 @@
 </imgdir>
 <imgdir name="default">
 <canvas name="hairOverHead" width="48" height="40">
-<vector name="origin" x="20" y="19"/>
+<vector name="origin" x="26" y="15"/>
 <imgdir name="map">
-<vector name="brow" x="0" y="0"/>
+<vector name="brow" x="-6" y="4"/>
 </imgdir>
 <string name="z" value="hairOverHead"/>
 </canvas>
 <canvas name="hair" width="36" height="33">
-<vector name="origin" x="15" y="12"/>
+<vector name="origin" x="18" y="11"/>
 <imgdir name="map">
-<vector name="brow" x="0" y="0"/>
+<vector name="brow" x="-3" y="1"/>
 </imgdir>
 <string name="z" value="hair"/>
 </canvas>
 <imgdir name="hairShade">
-<canvas name="0" width="35" height="29">
-<vector name="origin" x="14" y="12"/>
+<canvas name="0" width="1" height="1">
+<vector name="origin" x="0" y="0"/>
 <imgdir name="map">
-<vector name="brow" x="0" y="0"/>
+<vector name="brow" x="-4" y="1"/>
 </imgdir>
 <string name="z" value="hairShade"/>
 <string name="group" value="skin"/>
@@ -36,20 +36,28 @@
 <uol name="9" value="0"/>
 <uol name="10" value="0"/>
 <uol name="11" value="0"/>
+<canvas name="검정" width="1" height="1">
+<vector name="origin" x="0" y="0"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="hairShade" width="1" height="1">
+<vector name="origin" x="0" y="0"/>
+<int name="z" value="0"/>
+</canvas>
 </imgdir>
 </imgdir>
 <imgdir name="backDefault">
 <canvas name="backHair" width="48" height="41">
-<vector name="origin" x="19" y="18"/>
+<vector name="origin" x="20" y="15"/>
 <imgdir name="map">
-<vector name="brow" x="0" y="0"/>
+<vector name="brow" x="0" y="4"/>
 </imgdir>
 <string name="z" value="backHair"/>
 </canvas>
 <canvas name="backHairBelowCap" width="35" height="34">
-<vector name="origin" x="13" y="12"/>
+<vector name="origin" x="13" y="7"/>
 <imgdir name="map">
-<vector name="brow" x="0" y="0"/>
+<vector name="brow" x="0" y="5"/>
 </imgdir>
 <string name="z" value="backHairBelowCap"/>
 </canvas>
@@ -522,8 +530,8 @@
 <imgdir name="prone">
 <imgdir name="0">
 <uol name="hairOverHead" value="../../default/hairOverHead"/>
-<uol name="hairShade" value="../../default/hairShade"/>
 <uol name="hair" value="../../default/hair"/>
+<uol name="hairShade" value="../../default/hairShade"/>
 </imgdir>
 </imgdir>
 <imgdir name="heal">

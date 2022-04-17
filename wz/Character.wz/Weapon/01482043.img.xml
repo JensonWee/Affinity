@@ -14,7 +14,7 @@
 <short name="attack" value="8"/>
 <string name="afterImage" value="knuckle"/>
 <string name="sfx" value="knuckle"/>
-<int name="reqJob" value="16"/>
+<int name="reqJob" value="0"/>
 <int name="reqLevel" value="59"/>
 <int name="reqSTR" value="0"/>
 <int name="reqDEX" value="0"/>
@@ -25,7 +25,7 @@
 <int name="incSTR" value="5"/>
 <int name="incMHP" value="100"/>
 <int name="tuc" value="7"/>
-<int name="price" value="280000"/>
+<int name="price" value="31000"/>
 <int name="attackSpeed" value="5"/>
 <int name="cash" value="0"/>
 <int name="tradeBlock" value="1"/>

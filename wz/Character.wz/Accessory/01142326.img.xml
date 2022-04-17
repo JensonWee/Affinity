@@ -6,6 +6,7 @@
 </canvas>
 <canvas name="iconRaw" width="33" height="30">
 <vector name="origin" x="0" y="29"/>
+<string name="source" value="Character/Accessory/01142326.img/info/icon"/>
 </canvas>
 <string name="islot" value="Me"/>
 <string name="vslot" value="Me"/>

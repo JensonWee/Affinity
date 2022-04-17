@@ -10,7 +10,6 @@
 <string name="islot" value="Me"/>
 <string name="vslot" value="Me"/>
 <int name="reqJob" value="0"/>
-<int name="reqLevel" value="70"/>
 <int name="reqSTR" value="0"/>
 <int name="reqDEX" value="0"/>
 <int name="reqINT" value="0"/>
@@ -28,5 +27,6 @@
 <int name="only" value="1"/>
 <int name="cash" value="0"/>
 <int name="medalTag" value="19"/>
+<int name="reqLevel" value="60"/>
 </imgdir>
 </imgdir>

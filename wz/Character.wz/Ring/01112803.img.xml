@@ -3,11 +3,14 @@
 <imgdir name="info">
 <canvas name="icon" width="26" height="33">
 <vector name="origin" x="-4" y="32"/>
+<string name="source" value="Character/Ring/01112300.img/info/icon"/>
 </canvas>
 <canvas name="iconRaw" width="24" height="29">
 <vector name="origin" x="-5" y="33"/>
+<string name="source" value="Character/Ring/01112300.img/info/iconRaw"/>
 </canvas>
 <canvas name="sample" width="74" height="46">
+<string name="source" value="Character/Ring/01112223.img/info/sample"/>
 </canvas>
 <string name="islot" value="Ri"/>
 <string name="vslot" value="Ri"/>

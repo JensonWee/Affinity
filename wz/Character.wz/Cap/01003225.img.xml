@@ -28,7 +28,6 @@
 <int name="incMHP" value="50"/>
 <int name="incMMP" value="50"/>
 <int name="charmEXP" value="100"/>
-<int name="accountShareTag" value="1"/>
 </imgdir>
 <imgdir name="default">
 <canvas name="default" width="48" height="48">

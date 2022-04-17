@@ -2496,14 +2496,9 @@
 <vector name="origin" x="-3" y="29"/>
 <int name="z" value="0"/>
 </canvas>
-<int name="slotMax" value="20"/>
+<int name="slotMax" value="9999"/>
 <int name="type" value="12"/>
 <int name="tradeBlock" value="1"/>
-<imgdir name="reqMap">
-<int name="980010101" value="0"/>
-<int name="980010201" value="0"/>
-<int name="980010301" value="0"/>
-</imgdir>
 </imgdir>
 <imgdir name="mob">
 <imgdir name="0">

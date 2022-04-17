@@ -18,7 +18,7 @@
 <int name="incINT" value="1"/>
 <int name="incDEX" value="1"/>
 <int name="incLUK" value="1"/>
-<int name="reqJob" value="2"/>
+<int name="reqJob" value="0"/>
 <int name="reqLevel" value="30"/>
 <int name="reqSTR" value="0"/>
 <int name="reqDEX" value="0"/>

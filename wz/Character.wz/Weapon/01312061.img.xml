@@ -9,12 +9,12 @@
 </canvas>
 <string name="islot" value="Wp"/>
 <string name="vslot" value="Wp"/>
-<int name="walk" value="1"/>
+<int name="walk" value="2"/>
 <int name="stand" value="1"/>
 <short name="attack" value="1"/>
 <string name="afterImage" value="swordOL"/>
 <string name="sfx" value="swordL"/>
-<int name="reqJob" value="1"/>
+<int name="reqJob" value="0"/>
 <int name="reqLevel" value="107"/>
 <int name="reqSTR" value="0"/>
 <int name="reqDEX" value="0"/>
@@ -26,7 +26,7 @@
 <int name="attackSpeed" value="5"/>
 <int name="cash" value="0"/>
 </imgdir>
-<imgdir name="walk1">
+<imgdir name="walk2">
 <imgdir name="0">
 <canvas name="weapon" width="60" height="61">
 <vector name="origin" x="36" y="23"/>

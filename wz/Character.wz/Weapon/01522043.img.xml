@@ -3,9 +3,11 @@
 <imgdir name="info">
 <canvas name="icon" width="35" height="33">
 <vector name="origin" x="2" y="32"/>
+<string name="source" value="Character/Weapon/01522010.img/info/icon"/>
 </canvas>
 <canvas name="iconRaw" width="35" height="33">
 <vector name="origin" x="2" y="32"/>
+<string name="source" value="Character/Weapon/01522010.img/info/iconRaw"/>
 </canvas>
 <string name="islot" value="Wp"/>
 <string name="vslot" value="Wp"/>
@@ -16,7 +18,7 @@
 <string name="sfx" value="dualBow"/>
 <int name="reqJob" value="4"/>
 <int name="reqLevel" value="70"/>
-<int name="reqSTR" value="75"/>
+<int name="reqSTR" value="0"/>
 <int name="reqDEX" value="205"/>
 <int name="reqINT" value="0"/>
 <int name="reqLUK" value="0"/>
@@ -38,6 +40,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/1/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="50" height="47">
 <vector name="origin" x="48" y="13"/>
@@ -45,6 +48,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverArmBelowHead"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/0/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -54,6 +58,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/0/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="59" height="42">
 <vector name="origin" x="43" y="3"/>
@@ -61,6 +66,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="handBelowWeapon"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/1/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -70,6 +76,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/1/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="50" height="47">
 <vector name="origin" x="48" y="13"/>
@@ -77,6 +84,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="handBelowWeapon"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/0/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="3">
@@ -86,6 +94,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/swingP2/2/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="47" y="40"/>
@@ -93,6 +102,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverArmBelowHead"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -104,6 +114,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/stand1/0/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="58" height="41">
 <vector name="origin" x="47" y="-1"/>
@@ -111,6 +122,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverArmBelowHead"/>
+<string name="source" value="Character/Weapon/01522010.img/stand1/0/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -120,6 +132,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/stand1/0/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="58" height="41">
 <vector name="origin" x="47" y="0"/>
@@ -127,6 +140,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverArmBelowHead"/>
+<string name="source" value="Character/Weapon/01522010.img/stand1/0/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -136,6 +150,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/stand1/0/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="58" height="41">
 <vector name="origin" x="47" y="-1"/>
@@ -143,6 +158,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverArmBelowHead"/>
+<string name="source" value="Character/Weapon/01522010.img/stand1/0/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -154,6 +170,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/stand1/0/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="50" height="47">
 <vector name="origin" x="51" y="17"/>
@@ -161,6 +178,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverArmBelowHead"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/0/weaponL"/>
 </canvas>
 <canvas name="weapon2" width="51" height="61">
 <vector name="origin" x="40" y="42"/>
@@ -177,6 +195,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/stand1/0/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="50" height="47">
 <vector name="origin" x="51" y="15"/>
@@ -184,6 +203,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverArmBelowHead"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/0/weaponL"/>
 </canvas>
 <canvas name="weapon2" width="51" height="61">
 <vector name="origin" x="40" y="39"/>
@@ -191,6 +211,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverHand"/>
+<string name="source" value="Character/Weapon/01522043.img/alert/0/weapon2"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -200,6 +221,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/stand1/0/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="50" height="47">
 <vector name="origin" x="51" y="13"/>
@@ -207,6 +229,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverArmBelowHead"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/0/weaponL"/>
 </canvas>
 <canvas name="weapon2" width="51" height="61">
 <vector name="origin" x="40" y="37"/>
@@ -214,6 +237,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverHand"/>
+<string name="source" value="Character/Weapon/01522043.img/alert/0/weapon2"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -225,6 +249,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/0/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="50" height="47">
 <vector name="origin" x="40" y="22"/>
@@ -232,6 +257,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/0/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -241,6 +267,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/0/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="50" height="47">
 <vector name="origin" x="-6" y="19"/>
@@ -248,6 +275,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO1/1/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -257,6 +285,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverArm"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO1/2/weapon"/>
 </canvas>
 <canvas name="weaponL" width="47" height="50">
 <vector name="origin" x="38" y="50"/>
@@ -264,6 +293,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO1/2/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -282,6 +312,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverArmBelowHead"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/0/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -291,6 +322,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO2/1/weapon"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="43" y="50"/>
@@ -298,6 +330,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -307,6 +340,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/1/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="47" height="50">
 <vector name="origin" x="46" y="54"/>
@@ -314,6 +348,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO1/2/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -325,6 +360,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverArm"/>
+<string name="source" value="Character/Weapon/01522010.img/swingT3/2/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="60" y="44"/>
@@ -332,6 +368,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverArm"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -341,6 +378,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO3/1/weapon"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="36" y="46"/>
@@ -348,6 +386,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -357,6 +396,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO3/2/weapon"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="0" y="46"/>
@@ -364,6 +404,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO3/2/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -375,6 +416,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverArm"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO1/1/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="50" height="47">
 <vector name="origin" x="55" y="14"/>
@@ -382,6 +424,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverArm"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/0/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -391,6 +434,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="backWeapon"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO3/2/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="7" y="56"/>
@@ -398,6 +442,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="backWeapon"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO3/2/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -407,6 +452,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="34" y="46"/>
@@ -414,6 +460,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="3">
@@ -423,6 +470,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO3/2/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="50" height="47">
 <vector name="origin" x="57" y="8"/>
@@ -430,6 +478,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverArm"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/0/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -441,6 +490,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/swingT1/0/weapon"/>
 </canvas>
 <canvas name="weaponL" width="58" height="41">
 <vector name="origin" x="12" y="59"/>
@@ -448,6 +498,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverHand"/>
+<string name="source" value="Character/Weapon/01522010.img/swingT1/0/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -457,6 +508,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverHand"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO1/2/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="40" height="58">
 <vector name="origin" x="52" y="52"/>
@@ -464,6 +516,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverHand"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO2/1/weapon"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -473,6 +526,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/0/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="50" height="47">
 <vector name="origin" x="52" y="8"/>
@@ -480,6 +534,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/0/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -491,6 +546,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/swingT2/0/weapon"/>
 </canvas>
 <canvas name="weaponL" width="50" height="47">
 <vector name="origin" x="-2" y="58"/>
@@ -498,6 +554,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/swingT1/0/weapon"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -507,6 +564,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="47" height="50">
 <vector name="origin" x="48" y="53"/>
@@ -514,6 +572,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO1/2/weaponL"/>
 </canvas>
 <canvas name="weapon2" width="49" height="67">
 <vector name="origin" x="50" y="51"/>
@@ -530,6 +589,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO1/1/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="50" height="47">
 <vector name="origin" x="3" y="9"/>
@@ -537,6 +597,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO1/1/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -548,6 +609,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO1/1/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="58" height="40">
 <vector name="origin" x="10" y="4"/>
@@ -555,6 +617,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverArmBelowHead"/>
+<string name="source" value="Character/Weapon/01522010.img/swingT3/0/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -564,6 +627,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO1/1/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="50" height="47">
 <vector name="origin" x="3" y="12"/>
@@ -571,6 +635,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverArmBelowHead"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO1/1/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -580,6 +645,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverArmBelowHead"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO1/2/weapon"/>
 </canvas>
 <canvas name="weaponL" width="40" height="58">
 <vector name="origin" x="16" y="63"/>
@@ -587,6 +653,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverArmBelowHead"/>
+<string name="source" value="Character/Weapon/01522010.img/swingT3/2/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -598,6 +665,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="backWeaponOverGlove"/>
+<string name="source" value="Character/Weapon/01522010.img/swingTF/0/weapon"/>
 </canvas>
 <canvas name="weaponL" width="59" height="42">
 <vector name="origin" x="15" y="56"/>
@@ -605,6 +673,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="backWeaponOverGlove"/>
+<string name="source" value="Character/Weapon/01522010.img/swingT2/0/weapon"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -614,6 +683,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverArmBelowHead"/>
+<string name="source" value="Character/Weapon/01522010.img/swingT1/0/weapon"/>
 </canvas>
 <canvas name="weaponL" width="59" height="42">
 <vector name="origin" x="26" y="61"/>
@@ -621,6 +691,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverArmBelowHead"/>
+<string name="source" value="Character/Weapon/01522010.img/swingT2/0/weapon"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -630,6 +701,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowArm"/>
+<string name="source" value="Character/Weapon/01522010.img/swingT2/0/weapon"/>
 </canvas>
 <canvas name="weaponL" width="59" height="42">
 <vector name="origin" x="33" y="60"/>
@@ -637,6 +709,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowArm"/>
+<string name="source" value="Character/Weapon/01522010.img/swingT2/0/weapon"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -648,6 +721,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowArm"/>
+<string name="source" value="Character/Weapon/01522010.img/swingP1/0/weapon"/>
 </canvas>
 <canvas name="weaponL" width="50" height="47">
 <vector name="origin" x="5" y="57"/>
@@ -655,6 +729,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowArm"/>
+<string name="source" value="Character/Weapon/01522010.img/swingT1/0/weapon"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -664,6 +739,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowArm"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO1/2/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="56" y="44"/>
@@ -671,6 +747,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowArm"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -680,6 +757,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverBody"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/0/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="50" height="47">
 <vector name="origin" x="56" y="11"/>
@@ -687,6 +765,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverBody"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/0/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -698,6 +777,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO1/2/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="59" height="43">
 <vector name="origin" x="22" y="66"/>
@@ -705,6 +785,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/swingP2/0/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -714,6 +795,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="armBelowHead"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="47" height="50">
 <vector name="origin" x="40" y="58"/>
@@ -721,6 +803,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO1/2/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -730,6 +813,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="armBelowHead"/>
+<string name="source" value="Character/Weapon/01522010.img/swingP2/2/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="47" height="50">
 <vector name="origin" x="11" y="-1"/>
@@ -737,6 +821,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverBody"/>
+<string name="source" value="Character/Weapon/01522010.img/swingP2/2/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -755,6 +840,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverGlove"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -764,6 +850,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/1/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="50" height="47">
 <vector name="origin" x="61" y="15"/>
@@ -771,6 +858,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverGlove"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/0/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -780,6 +868,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/swingT2/0/weapon"/>
 </canvas>
 <canvas name="weaponL" width="58" height="40">
 <vector name="origin" x="21" y="59"/>
@@ -787,6 +876,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverGlove"/>
+<string name="source" value="Character/Weapon/01522010.img/swingPF/2/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="3">
@@ -796,6 +886,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/0/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="50" height="47">
 <vector name="origin" x="57" y="8"/>
@@ -803,6 +894,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/0/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -814,6 +906,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="Weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/swingP2/2/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="6" y="34"/>
@@ -821,6 +914,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverGlove"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO3/2/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -830,6 +924,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverBody"/>
+<string name="source" value="Character/Weapon/01522010.img/stand1/0/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="50" height="47">
 <vector name="origin" x="11" y="11"/>
@@ -837,6 +932,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverArm"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO1/1/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -846,6 +942,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverHand"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="61" y="41"/>
@@ -853,6 +950,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverArmBelowHead"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -871,6 +969,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverGlove"/>
+<string name="source" value="Character/Weapon/01522010.img/stabT2/0/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -880,6 +979,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverBody"/>
+<string name="source" value="Character/Weapon/01522043.img/stabT2/0/weapon"/>
 </canvas>
 <canvas name="weaponL" width="50" height="47">
 <vector name="origin" x="58" y="13"/>
@@ -887,6 +987,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverGlove"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/0/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -897,6 +998,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverBody"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO3/1/weapon"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="61" y="40"/>
@@ -904,6 +1006,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverGlove"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -916,6 +1019,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO1/1/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="-6" y="39"/>
@@ -923,6 +1027,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverBody"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO3/2/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -935,6 +1040,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/0/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="57" y="43"/>
@@ -942,6 +1048,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverGlove"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -952,6 +1059,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="Weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="37" y="43"/>
@@ -959,6 +1067,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -971,6 +1080,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowArm"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO1/2/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="57" y="44"/>
@@ -978,6 +1088,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverGlove"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -988,6 +1099,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="35" y="44"/>
@@ -995,6 +1107,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -1007,6 +1120,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/swingP1/0/weapon"/>
 </canvas>
 <canvas name="weaponL" width="59" height="42">
 <vector name="origin" x="39" y="5"/>
@@ -1014,6 +1128,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverGlove"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/1/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -1024,6 +1139,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/1/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="67" y="46"/>
@@ -1031,6 +1147,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverGlove"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -1041,6 +1158,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weapon"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="56" y="45"/>
@@ -1048,6 +1166,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -1060,6 +1179,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowArm"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="59" y="46"/>
@@ -1067,6 +1187,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -1077,6 +1198,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowArm"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO1/2/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="59" y="46"/>
@@ -1084,6 +1206,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 <canvas name="weapon2" width="81" height="70">
 <vector name="origin" x="60" y="57"/>
@@ -1101,6 +1224,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowArm"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO1/2/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="59" y="46"/>
@@ -1108,6 +1232,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -1120,6 +1245,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowArm"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO2/1/weapon"/>
 </canvas>
 <canvas name="weaponL" width="40" height="58">
 <vector name="origin" x="46" y="47"/>
@@ -1127,6 +1253,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO2/1/weapon"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -1137,6 +1264,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowArm"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="50" y="43"/>
@@ -1144,6 +1272,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -1154,6 +1283,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowArm"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="50" y="43"/>
@@ -1161,6 +1291,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="3">
@@ -1171,6 +1302,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowArm"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="50" y="43"/>
@@ -1178,6 +1310,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="4">
@@ -1188,6 +1321,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowArm"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="48" y="43"/>
@@ -1195,6 +1329,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -1214,6 +1349,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO2/1/weapon"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -1224,6 +1360,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowArm"/>
+<string name="source" value="Character/Weapon/01522010.img/swingO1/2/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="63" y="50"/>
@@ -1231,6 +1368,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -1243,6 +1381,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowArm"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="73" y="39"/>
@@ -1250,6 +1389,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -1260,6 +1400,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowArm"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="74" y="39"/>
@@ -1267,6 +1408,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -1285,6 +1427,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowArm"/>
+<string name="source" value="Character/Weapon/01522010.img/swingT2/0/weapon"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="45" y="41"/>
@@ -1292,6 +1435,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverGlove"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -1302,6 +1446,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowArm"/>
+<string name="source" value="Character/Weapon/01522010.img/swingT2/0/weapon"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="45" y="41"/>
@@ -1309,6 +1454,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponOverGlove"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -1320,6 +1466,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowArm"/>
+<string name="source" value="Character/Weapon/01522010.img/swingT2/0/weapon"/>
 </canvas>
 <canvas name="weaponL" width="42" height="59">
 <vector name="origin" x="44" y="40"/>
@@ -1327,6 +1474,7 @@
 <vector name="navel" x="0" y="0"/>
 </imgdir>
 <string name="z" value="weaponBelowBody"/>
+<string name="source" value="Character/Weapon/01522010.img/walk1/3/weaponL"/>
 </canvas>
 </imgdir>
 </imgdir>

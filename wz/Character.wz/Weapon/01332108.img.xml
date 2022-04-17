@@ -14,7 +14,7 @@
 <short name="attack" value="1"/>
 <string name="afterImage" value="swordOS"/>
 <string name="sfx" value="swordS"/>
-<int name="reqJob" value="8"/>
+<int name="reqJob" value="0"/>
 <int name="reqLevel" value="30"/>
 <int name="reqSTR" value="0"/>
 <int name="reqDEX" value="0"/>

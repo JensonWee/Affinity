@@ -3095,6 +3095,7 @@
 </canvas>
 </imgdir>
 </imgdir>
+<uol name="5000147" value="5000023"/>
 <imgdir name="5000024">
 <imgdir name="stand0">
 <canvas name="0" width="27" height="14">
@@ -11172,6 +11173,7 @@
 <uol name="8" value="2"/>
 </imgdir>
 </imgdir>
+<uol name="5000148" value="5000058"/>
 <imgdir name="5000040">
 <imgdir name="stand0">
 <canvas name="0" width="41" height="22">

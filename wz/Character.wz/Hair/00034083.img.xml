@@ -22,7 +22,7 @@
 </canvas>
 <imgdir name="hairShade">
 <canvas name="0" width="29" height="7">
-<vector name="origin" x="14" y="9"/>
+<vector name="origin" x="14" y="3"/>
 <imgdir name="map">
 <vector name="brow" x="0" y="0"/>
 </imgdir>
@@ -358,8 +358,9 @@
 </imgdir>
 <imgdir name="swingTF">
 <imgdir name="0">
-<uol name="backHair" value="../../backDefault/backHair"/>
-<uol name="backHairBelowCap" value="../../backDefault/backHairBelowCap"/>
+<uol name="hairOverHead" value="../../default/hairOverHead"/>
+<uol name="hair" value="../../default/hair"/>
+<uol name="hairShade" value="../../default/hairShade"/>
 </imgdir>
 <imgdir name="1">
 <uol name="hairOverHead" value="../../walk1/1/hairOverHead"/>

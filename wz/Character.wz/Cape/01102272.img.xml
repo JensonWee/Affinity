@@ -30,14 +30,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="12" height="11">
 <vector name="origin" x="-6" y="10"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -53,14 +53,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="7" height="7">
 <vector name="origin" x="-6" y="8"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -76,14 +76,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="12" height="11">
 <vector name="origin" x="-6" y="10"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="3">
@@ -99,14 +99,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="13" height="8">
 <vector name="origin" x="-6" y="11"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -124,14 +124,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="6" height="6">
 <vector name="origin" x="-6" y="9"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -147,14 +147,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="6" height="5">
 <vector name="origin" x="-5" y="8"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -170,14 +170,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="6" height="6">
 <vector name="origin" x="-6" y="9"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="3">
@@ -193,14 +193,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="6" height="6">
 <vector name="origin" x="-7" y="10"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -218,14 +218,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="12" height="14">
 <vector name="origin" x="-6" y="8"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -241,14 +241,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="11" height="11">
 <vector name="origin" x="-6" y="9"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -264,14 +264,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="12" height="10">
 <vector name="origin" x="-5" y="8"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -312,14 +312,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="7" height="6">
 <vector name="origin" x="-6" y="9"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -335,14 +335,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="6" height="5">
 <vector name="origin" x="-6" y="8"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -360,14 +360,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="13" height="12">
 <vector name="origin" x="-2" y="9"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -383,14 +383,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="12" height="14">
 <vector name="origin" x="-3" y="9"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -406,14 +406,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="11" height="15">
 <vector name="origin" x="-3" y="9"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -424,7 +424,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -433,7 +433,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -449,7 +449,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -467,7 +467,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -483,7 +483,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -499,7 +499,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -517,14 +517,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="3" height="3">
 <vector name="origin" x="-3" y="10"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -533,7 +533,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -542,7 +542,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -560,7 +560,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -569,7 +569,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -578,7 +578,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="3">
@@ -594,7 +594,57 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
+</canvas>
+</imgdir>
+</imgdir>
+<imgdir name="swingT1">
+<imgdir name="0">
+<canvas name="cape" width="43" height="29">
+<vector name="origin" x="9" y="8"/>
+<imgdir name="map">
+<vector name="navel" x="0" y="0"/>
+</imgdir>
+<string name="z" value="capeBelowBody"/>
+</canvas>
+<canvas name="capeOverHead" width="36" height="18">
+<vector name="origin" x="11" y="19"/>
+<imgdir name="map">
+<vector name="navel" x="0" y="0"/>
+</imgdir>
+<string name="z" value="cape"/>
+</canvas>
+</imgdir>
+<imgdir name="1">
+<canvas name="cape" width="32" height="27">
+<vector name="origin" x="9" y="11"/>
+<imgdir name="map">
+<vector name="navel" x="0" y="0"/>
+</imgdir>
+<string name="z" value="capeBelowBody"/>
+</canvas>
+<canvas name="capeOverHead" width="38" height="37">
+<vector name="origin" x="8" y="21"/>
+<imgdir name="map">
+<vector name="navel" x="0" y="0"/>
+</imgdir>
+<string name="z" value="cape"/>
+</canvas>
+</imgdir>
+<imgdir name="2">
+<canvas name="cape" width="46" height="24">
+<vector name="origin" x="11" y="8"/>
+<imgdir name="map">
+<vector name="navel" x="0" y="0"/>
+</imgdir>
+<string name="z" value="capeBelowBody"/>
+</canvas>
+<canvas name="capeOverArm" width="55" height="21">
+<vector name="origin" x="20" y="22"/>
+<imgdir name="map">
+<vector name="navel" x="0" y="0"/>
+</imgdir>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -612,7 +662,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -628,7 +678,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -644,14 +694,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="33" height="21">
 <vector name="origin" x="22" y="22"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -669,7 +719,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -685,7 +735,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -694,7 +744,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -705,7 +755,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -721,7 +771,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -737,7 +787,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="3">
@@ -753,7 +803,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -771,7 +821,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -787,7 +837,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -803,7 +853,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -821,7 +871,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -837,7 +887,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -853,14 +903,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="33" height="21">
 <vector name="origin" x="22" y="22"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -878,7 +928,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -894,7 +944,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -910,7 +960,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="3">
@@ -919,7 +969,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -937,14 +987,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="11" height="7">
 <vector name="origin" x="-5" y="11"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -960,7 +1010,41 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
+</canvas>
+</imgdir>
+</imgdir>
+<imgdir name="stabO2">
+<imgdir name="0">
+<canvas name="cape" width="43" height="29">
+<vector name="origin" x="26" y="12"/>
+<imgdir name="map">
+<vector name="navel" x="0" y="0"/>
+</imgdir>
+<string name="z" value="capeBelowBody"/>
+</canvas>
+<canvas name="capeOverHead" width="37" height="18">
+<vector name="origin" x="13" y="20"/>
+<imgdir name="map">
+<vector name="navel" x="0" y="0"/>
+</imgdir>
+<string name="z" value="cape"/>
+</canvas>
+</imgdir>
+<imgdir name="1">
+<canvas name="cape" width="34" height="27">
+<vector name="origin" x="5" y="13"/>
+<imgdir name="map">
+<vector name="navel" x="0" y="0"/>
+</imgdir>
+<string name="z" value="capeBelowBody"/>
+</canvas>
+<canvas name="capeOverArm" width="38" height="37">
+<vector name="origin" x="7" y="22"/>
+<imgdir name="map">
+<vector name="navel" x="0" y="0"/>
+</imgdir>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -978,14 +1062,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="33" height="21">
 <vector name="origin" x="19" y="26"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -1001,14 +1085,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="33" height="21">
 <vector name="origin" x="22" y="23"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -1024,7 +1108,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -1042,14 +1126,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="33" height="21">
 <vector name="origin" x="19" y="23"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -1065,14 +1149,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="33" height="21">
 <vector name="origin" x="17" y="20"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -1088,14 +1172,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeOverArm" width="33" height="21">
 <vector name="origin" x="16" y="23"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -1113,7 +1197,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -1129,7 +1213,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -1145,7 +1229,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -1171,7 +1255,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="3">
@@ -1193,7 +1277,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -1209,7 +1293,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -1225,7 +1309,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -1243,14 +1327,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeArmOverHair" width="12" height="14">
 <vector name="origin" x="-5" y="12"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -1266,7 +1350,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -1282,7 +1366,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="3">
@@ -1298,14 +1382,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeArmOverHair" width="12" height="14">
 <vector name="origin" x="-5" y="12"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="4">
@@ -1321,14 +1405,14 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 <canvas name="capeArmOverHair" width="13" height="14">
 <vector name="origin" x="-6" y="12"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -1346,7 +1430,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -1362,7 +1446,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="2">
@@ -1384,7 +1468,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeBelowBody"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -1400,7 +1484,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeBelowBody"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -1439,7 +1523,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -1455,7 +1539,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -1473,7 +1557,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -1491,7 +1575,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="cape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -1502,7 +1586,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="backCape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -1511,7 +1595,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="backCape"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -1522,7 +1606,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
+<string name="z" value="backCape"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -1531,91 +1615,7 @@
 <imgdir name="map">
 <vector name="navel" x="0" y="0"/>
 </imgdir>
-<string name="z" value="capeOverWepon"/>
-</canvas>
-</imgdir>
-</imgdir>
-<imgdir name="swingT1">
-<imgdir name="0">
-<canvas name="cape" width="43" height="29">
-<vector name="origin" x="9" y="8"/>
-<imgdir name="map">
-<vector name="navel" x="0" y="0"/>
-</imgdir>
-<string name="z" value="capeBelowBody"/>
-</canvas>
-<canvas name="capeOverHead" width="36" height="18">
-<vector name="origin" x="11" y="19"/>
-<imgdir name="map">
-<vector name="navel" x="0" y="0"/>
-</imgdir>
-<string name="z" value="capeBelowBody"/>
-</canvas>
-</imgdir>
-<imgdir name="1">
-<canvas name="cape" width="32" height="27">
-<vector name="origin" x="9" y="11"/>
-<imgdir name="map">
-<vector name="navel" x="0" y="0"/>
-</imgdir>
-<string name="z" value="capeBelowBody"/>
-</canvas>
-<canvas name="capeOverHead" width="38" height="37">
-<vector name="origin" x="8" y="21"/>
-<imgdir name="map">
-<vector name="navel" x="0" y="0"/>
-</imgdir>
-<string name="z" value="capeBelowBody"/>
-</canvas>
-</imgdir>
-<imgdir name="2">
-<canvas name="cape" width="46" height="24">
-<vector name="origin" x="11" y="8"/>
-<imgdir name="map">
-<vector name="navel" x="0" y="0"/>
-</imgdir>
-<string name="z" value="capeBelowBody"/>
-</canvas>
-<canvas name="capeOverArm" width="55" height="21">
-<vector name="origin" x="20" y="22"/>
-<imgdir name="map">
-<vector name="navel" x="0" y="0"/>
-</imgdir>
-<string name="z" value="capeBelowBody"/>
-</canvas>
-</imgdir>
-</imgdir>
-<imgdir name="stabO2">
-<imgdir name="0">
-<canvas name="cape" width="43" height="29">
-<vector name="origin" x="26" y="12"/>
-<imgdir name="map">
-<vector name="navel" x="0" y="0"/>
-</imgdir>
-<string name="z" value="capeBelowBody"/>
-</canvas>
-<canvas name="capeOverHead" width="37" height="18">
-<vector name="origin" x="13" y="20"/>
-<imgdir name="map">
-<vector name="navel" x="0" y="0"/>
-</imgdir>
-<string name="z" value="capeBelowBody"/>
-</canvas>
-</imgdir>
-<imgdir name="1">
-<canvas name="cape" width="34" height="27">
-<vector name="origin" x="5" y="13"/>
-<imgdir name="map">
-<vector name="navel" x="0" y="0"/>
-</imgdir>
-<string name="z" value="capeBelowBody"/>
-</canvas>
-<canvas name="capeOverArm" width="38" height="37">
-<vector name="origin" x="7" y="22"/>
-<imgdir name="map">
-<vector name="navel" x="0" y="0"/>
-</imgdir>
-<string name="z" value="capeBelowBody"/>
+<string name="z" value="backCape"/>
 </canvas>
 </imgdir>
 </imgdir>

@@ -28,29 +28,6 @@
 <string name="z" value="hairBelowBody"/>
 </canvas>
 </imgdir>
-<imgdir name="defaultProne">
-<canvas name="hairOverHead" width="56" height="46">
-<vector name="origin" x="25" y="16"/>
-<imgdir name="map">
-<vector name="brow" x="0" y="0"/>
-</imgdir>
-<string name="z" value="hairOverHead"/>
-</canvas>
-<canvas name="hair" width="50" height="42">
-<vector name="origin" x="21" y="12"/>
-<imgdir name="map">
-<vector name="brow" x="0" y="0"/>
-</imgdir>
-<string name="z" value="hair"/>
-</canvas>
-<canvas name="hairBelowBody" width="51" height="35">
-<vector name="origin" x="15" y="12"/>
-<imgdir name="map">
-<vector name="brow" x="0" y="0"/>
-</imgdir>
-<string name="z" value="hairBelowBody"/>
-</canvas>
-</imgdir>
 <imgdir name="backDefault">
 <canvas name="backHair" width="56" height="64">
 <vector name="origin" x="21" y="14"/>
@@ -522,21 +499,58 @@
 </imgdir>
 <imgdir name="proneStab">
 <imgdir name="0">
-<uol name="hairOverHead" value="../../defaultProne/hairOverHead"/>
-<uol name="hair" value="../../defaultProne/hair"/>
-<uol name="hairBelowBody" value="../../defaultProne/hairBelowBody"/>
+<canvas name="hairOverHead" width="56" height="46">
+<vector name="origin" x="25" y="16"/>
+<imgdir name="map">
+<vector name="brow" x="0" y="0"/>
+</imgdir>
+<string name="z" value="hairOverHead"/>
+</canvas>
+<canvas name="hair" width="50" height="42">
+<vector name="origin" x="21" y="12"/>
+<imgdir name="map">
+<vector name="brow" x="0" y="0"/>
+</imgdir>
+<string name="z" value="hair"/>
+</canvas>
+<imgdir name="hairShade">
+<canvas name="0" width="35" height="30">
+<vector name="origin" x="14" y="11"/>
+<string name="z" value="hairShade"/>
+<imgdir name="map">
+<vector name="brow" x="0" y="0"/>
+</imgdir>
+<string name="group" value="skin"/>
+</canvas>
+<uol name="1" value="0"/>
+<uol name="2" value="0"/>
+<uol name="3" value="0"/>
+<uol name="4" value="0"/>
+<uol name="9" value="0"/>
+<uol name="10" value="0"/>
+<uol name="11" value="0"/>
+</imgdir>
+<canvas name="hairBelowBody" width="51" height="35">
+<vector name="origin" x="15" y="12"/>
+<imgdir name="map">
+<vector name="brow" x="0" y="0"/>
+</imgdir>
+<string name="z" value="hairBelowBody"/>
+</canvas>
 </imgdir>
 <imgdir name="1">
-<uol name="hairOverHead" value="../../defaultProne/hairOverHead"/>
-<uol name="hair" value="../../defaultProne/hair"/>
-<uol name="hairBelowBody" value="../../defaultProne/hairBelowBody"/>
+<uol name="hairOverHead" value="../0/hairOverHead"/>
+<uol name="hair" value="../0/hair"/>
+<uol name="hairShade" value="../0/hairShade"/>
+<uol name="hairBelowBody" value="../0/hairBelowBody"/>
 </imgdir>
 </imgdir>
 <imgdir name="prone">
 <imgdir name="0">
-<uol name="hairOverHead" value="../../defaultProne/hairOverHead"/>
-<uol name="hair" value="../../defaultProne/hair"/>
-<uol name="hairBelowBody" value="../../defaultProne/hairBelowBody"/>
+<uol name="hairOverHead" value="../../proneStab/0/hairOverHead"/>
+<uol name="hair" value="../../proneStab/0/hair"/>
+<uol name="hairShade" value="../../proneStab/0/hairShade"/>
+<uol name="hairBelowBody" value="../../proneStab/0/hairBelowBody"/>
 </imgdir>
 </imgdir>
 <imgdir name="heal">

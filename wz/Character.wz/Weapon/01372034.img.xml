@@ -14,7 +14,7 @@
 <short name="attack" value="6"/>
 <string name="afterImage" value="mace"/>
 <string name="sfx" value="mace"/>
-<int name="reqJob" value="2"/>
+<int name="reqJob" value="0"/>
 <int name="reqLevel" value="64"/>
 <int name="reqSTR" value="0"/>
 <int name="reqDEX" value="0"/>
@@ -26,7 +26,7 @@
 <int name="incMMP" value="100"/>
 <int name="incINT" value="1"/>
 <int name="tuc" value="7"/>
-<int name="price" value="230000"/>
+<int name="price" value="26000"/>
 <int name="attackSpeed" value="6"/>
 <int name="cash" value="0"/>
 </imgdir>

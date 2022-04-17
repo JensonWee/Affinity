@@ -8,19 +8,19 @@
 <string name="islot" value="Tm"/>
 <string name="vslot" value="Tm"/>
 <int name="reqJob" value="0"/>
-<int name="reqLevel" value="0"/>
 <int name="tuc" value="0"/>
+<int name="tamingMob" value="1"/>
 <int name="tradeBlock" value="1"/>
-<int name="tamingMob" value="3"/>
 <int name="notSale" value="1"/>
 <int name="only" value="1"/>
+<int name="timeLimited" value="1"/>
 </imgdir>
 <imgdir name="walk1">
 <imgdir name="0">
 <canvas name="0" width="35" height="43">
 <vector name="origin" x="44" y="67"/>
-<vector name="lt" x="-92" y="-160"/>
-<vector name="rb" x="33" y="-3"/>
+<vector name="lt" x="-46" y="-64"/>
+<vector name="rb" x="18" y="1"/>
 <imgdir name="map">
 <vector name="navel" x="1" y="-43"/>
 </imgdir>
@@ -38,8 +38,8 @@
 <imgdir name="1">
 <canvas name="0" width="35" height="40">
 <vector name="origin" x="45" y="65"/>
-<vector name="lt" x="-92" y="-160"/>
-<vector name="rb" x="33" y="-3"/>
+<vector name="lt" x="-46" y="-64"/>
+<vector name="rb" x="18" y="1"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="-44"/>
 </imgdir>
@@ -57,8 +57,8 @@
 <imgdir name="2">
 <canvas name="0" width="31" height="46">
 <vector name="origin" x="38" y="67"/>
-<vector name="lt" x="-92" y="-160"/>
-<vector name="rb" x="33" y="-3"/>
+<vector name="lt" x="-46" y="-64"/>
+<vector name="rb" x="18" y="1"/>
 <imgdir name="map">
 <vector name="navel" x="3" y="-40"/>
 </imgdir>
@@ -76,8 +76,8 @@
 <imgdir name="3">
 <canvas name="0" width="35" height="43">
 <vector name="origin" x="44" y="67"/>
-<vector name="lt" x="-102" y="-160"/>
-<vector name="rb" x="25" y="-3"/>
+<vector name="lt" x="-46" y="-64"/>
+<vector name="rb" x="18" y="1"/>
 <imgdir name="map">
 <vector name="navel" x="1" y="-43"/>
 </imgdir>
@@ -95,8 +95,8 @@
 <imgdir name="4">
 <canvas name="0" width="35" height="40">
 <vector name="origin" x="45" y="65"/>
-<vector name="lt" x="-92" y="-160"/>
-<vector name="rb" x="33" y="-3"/>
+<vector name="lt" x="-46" y="-64"/>
+<vector name="rb" x="18" y="1"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="-44"/>
 </imgdir>
@@ -114,8 +114,8 @@
 <imgdir name="5">
 <canvas name="0" width="32" height="45">
 <vector name="origin" x="40" y="66"/>
-<vector name="lt" x="-92" y="-160"/>
-<vector name="rb" x="33" y="-3"/>
+<vector name="lt" x="-46" y="-64"/>
+<vector name="rb" x="18" y="1"/>
 <imgdir name="map">
 <vector name="navel" x="2" y="-40"/>
 </imgdir>
@@ -143,8 +143,8 @@
 <imgdir name="0">
 <canvas name="0" width="31" height="46">
 <vector name="origin" x="38" y="67"/>
-<vector name="lt" x="-71" y="-160"/>
-<vector name="rb" x="52" y="-3"/>
+<vector name="lt" x="-46" y="-64"/>
+<vector name="rb" x="18" y="1"/>
 <imgdir name="map">
 <vector name="navel" x="3" y="-40"/>
 </imgdir>
@@ -162,8 +162,8 @@
 <imgdir name="1">
 <canvas name="0" width="32" height="45">
 <vector name="origin" x="39" y="65"/>
-<vector name="lt" x="-71" y="-160"/>
-<vector name="rb" x="52" y="-3"/>
+<vector name="lt" x="-46" y="-64"/>
+<vector name="rb" x="18" y="1"/>
 <imgdir name="map">
 <vector name="navel" x="3" y="-39"/>
 </imgdir>
@@ -181,8 +181,8 @@
 <imgdir name="2">
 <canvas name="0" width="33" height="44">
 <vector name="origin" x="40" y="63"/>
-<vector name="lt" x="-71" y="-160"/>
-<vector name="rb" x="52" y="-3"/>
+<vector name="lt" x="-46" y="-64"/>
+<vector name="rb" x="18" y="1"/>
 <imgdir name="map">
 <vector name="navel" x="3" y="-38"/>
 </imgdir>
@@ -200,8 +200,8 @@
 <imgdir name="3">
 <canvas name="0" width="32" height="45">
 <vector name="origin" x="39" y="65"/>
-<vector name="lt" x="-71" y="-160"/>
-<vector name="rb" x="52" y="-3"/>
+<vector name="lt" x="-46" y="-64"/>
+<vector name="rb" x="18" y="1"/>
 <imgdir name="map">
 <vector name="navel" x="3" y="-39"/>
 </imgdir>
@@ -223,33 +223,12 @@
 <uol name="2" value="../stand1/2"/>
 <uol name="3" value="../stand1/3"/>
 </imgdir>
-<imgdir name="tired">
-<imgdir name="0">
-<canvas name="0" width="35" height="38">
-<vector name="origin" x="42" y="56"/>
-<vector name="lt" x="-66" y="-132"/>
-<vector name="rb" x="64" y="0"/>
-<imgdir name="map">
-<vector name="navel" x="3" y="-37"/>
-</imgdir>
-<string name="z" value="tamingMobFront"/>
-</canvas>
-<canvas name="1" width="41" height="30">
-<vector name="origin" x="21" y="29"/>
-<imgdir name="map">
-<vector name="navel" x="3" y="-37"/>
-</imgdir>
-<string name="z" value="tamingMobMid"/>
-</canvas>
-<int name="delay" value="200"/>
-</imgdir>
-</imgdir>
 <imgdir name="jump">
 <imgdir name="0">
 <canvas name="0" width="35" height="40">
 <vector name="origin" x="45" y="68"/>
-<vector name="lt" x="-92" y="-160"/>
-<vector name="rb" x="33" y="-3"/>
+<vector name="lt" x="-46" y="-64"/>
+<vector name="rb" x="18" y="1"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="-47"/>
 </imgdir>
@@ -269,8 +248,8 @@
 <imgdir name="0">
 <canvas name="0" width="41" height="52">
 <vector name="origin" x="42" y="54"/>
-<vector name="lt" x="-78" y="-144"/>
-<vector name="rb" x="43" y="-1"/>
+<vector name="lt" x="-46" y="-64"/>
+<vector name="rb" x="18" y="1"/>
 <imgdir name="map">
 <vector name="navel" x="4" y="-33"/>
 </imgdir>
@@ -290,8 +269,8 @@
 <imgdir name="0">
 <canvas name="0" width="31" height="85">
 <vector name="origin" x="15" y="88"/>
-<vector name="lt" x="-37" y="-143"/>
-<vector name="rb" x="33" y="1"/>
+<vector name="lt" x="-15" y="-88"/>
+<vector name="rb" x="14" y="-4"/>
 <imgdir name="map">
 <vector name="navel" x="1" y="-23"/>
 </imgdir>
@@ -302,8 +281,8 @@
 <imgdir name="1">
 <canvas name="0" width="31" height="81">
 <vector name="origin" x="15" y="85"/>
-<vector name="lt" x="-37" y="-143"/>
-<vector name="rb" x="33" y="1"/>
+<vector name="lt" x="-15" y="-87"/>
+<vector name="rb" x="14" y="-3"/>
 <imgdir name="map">
 <vector name="navel" x="1" y="-20"/>
 </imgdir>
@@ -320,8 +299,8 @@
 <imgdir name="0">
 <canvas name="0" width="51" height="53">
 <vector name="origin" x="42" y="66"/>
-<vector name="lt" x="-47" y="-88"/>
-<vector name="rb" x="25" y="-7"/>
+<vector name="lt" x="-46" y="-64"/>
+<vector name="rb" x="18" y="1"/>
 <imgdir name="map">
 <vector name="navel" x="1" y="-43"/>
 </imgdir>
@@ -339,8 +318,8 @@
 <imgdir name="1">
 <canvas name="0" width="51" height="52">
 <vector name="origin" x="46" y="66"/>
-<vector name="lt" x="-47" y="-88"/>
-<vector name="rb" x="25" y="-7"/>
+<vector name="lt" x="-46" y="-64"/>
+<vector name="rb" x="18" y="1"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="-44"/>
 </imgdir>
@@ -358,8 +337,8 @@
 <imgdir name="2">
 <canvas name="0" width="53" height="54">
 <vector name="origin" x="46" y="68"/>
-<vector name="lt" x="-47" y="-88"/>
-<vector name="rb" x="25" y="-7"/>
+<vector name="lt" x="-46" y="-64"/>
+<vector name="rb" x="18" y="1"/>
 <imgdir name="map">
 <vector name="navel" x="-1" y="-44"/>
 </imgdir>
@@ -377,8 +356,8 @@
 <imgdir name="3">
 <canvas name="0" width="51" height="52">
 <vector name="origin" x="46" y="65"/>
-<vector name="lt" x="-47" y="-88"/>
-<vector name="rb" x="25" y="-7"/>
+<vector name="lt" x="-46" y="-64"/>
+<vector name="rb" x="18" y="1"/>
 <imgdir name="map">
 <vector name="navel" x="0" y="-43"/>
 </imgdir>

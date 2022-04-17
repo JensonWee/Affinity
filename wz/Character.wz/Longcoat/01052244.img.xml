@@ -10,7 +10,7 @@
 <string name="islot" value="MaPn"/>
 <string name="vslot" value="MaPn"/>
 <int name="tuc" value="10"/>
-<int name="reqJob" value="8"/>
+<int name="reqJob" value="0"/>
 <int name="reqLevel" value="30"/>
 <int name="reqSTR" value="0"/>
 <int name="reqDEX" value="0"/>

@@ -14,7 +14,7 @@
 <short name="attack" value="6"/>
 <string name="afterImage" value="mace"/>
 <string name="sfx" value="mace"/>
-<int name="reqJob" value="2"/>
+<int name="reqJob" value="0"/>
 <int name="reqLevel" value="58"/>
 <int name="reqSTR" value="0"/>
 <int name="reqDEX" value="0"/>
@@ -23,8 +23,8 @@
 <int name="incPAD" value="53"/>
 <int name="incMAD" value="85"/>
 <int name="tuc" value="7"/>
-<int name="price" value="180000"/>
-<int name="attackSpeed" value="4"/>
+<int name="price" value="21000"/>
+<int name="attackSpeed" value="2"/>
 <int name="cash" value="0"/>
 <int name="equipTradeBlock" value="1"/>
 <int name="epicItem" value="1"/>
@@ -32,6 +32,14 @@
 <imgdir name="Skill">
 <imgdir name="0">
 <int name="id" value="12101000"/>
+<int name="level" value="1"/>
+</imgdir>
+<imgdir name="1">
+<int name="id" value="2101001"/>
+<int name="level" value="1"/>
+</imgdir>
+<imgdir name="2">
+<int name="id" value="2201001"/>
 <int name="level" value="1"/>
 </imgdir>
 </imgdir>

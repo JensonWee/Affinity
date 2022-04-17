@@ -15,7 +15,7 @@
 <string name="afterImage" value="swordOL"/>
 <string name="sfx" value="swordB"/>
 <int name="tuc" value="7"/>
-<int name="reqJob" value="8"/>
+<int name="reqJob" value="0"/>
 <int name="reqLevel" value="50"/>
 <int name="reqSTR" value="0"/>
 <int name="reqDEX" value="0"/>

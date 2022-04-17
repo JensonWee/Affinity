@@ -1181,4 +1181,494 @@
 <uol name="jump" value="../33/jump"/>
 <uol name="fly" value="../33/fly"/>
 </imgdir>
+<imgdir name="55">
+<uol name="walk1" value="../30/walk1"/>
+<uol name="stand1" value="../30/stand1"/>
+<uol name="alert" value="../30/alert"/>
+<uol name="swingO1" value="../30/swingO1"/>
+<uol name="swingO2" value="../30/swingO2"/>
+<uol name="swingO3" value="../30/swingO3"/>
+<uol name="swingOF" value="../30/swingOF"/>
+<uol name="stabO1" value="../30/stabO1"/>
+<uol name="stabO2" value="../30/stabO2"/>
+<uol name="stabOF" value="../30/stabOF"/>
+<uol name="proneStab" value="../30/proneStab"/>
+<uol name="prone" value="../30/prone"/>
+<uol name="heal" value="../30/heal"/>
+<uol name="fly" value="../30/fly"/>
+<uol name="jump" value="../30/jump"/>
+</imgdir>
+<imgdir name="54">
+<uol name="walk1" value="../30/walk1"/>
+<uol name="stand1" value="../30/stand1"/>
+<uol name="alert" value="../30/alert"/>
+<uol name="swingO1" value="../30/swingO1"/>
+<uol name="swingO2" value="../30/swingO2"/>
+<uol name="swingO3" value="../30/swingO3"/>
+<uol name="swingOF" value="../30/swingOF"/>
+<uol name="stabO1" value="../30/stabO1"/>
+<uol name="stabO2" value="../30/stabO2"/>
+<uol name="stabOF" value="../30/stabOF"/>
+<uol name="proneStab" value="../30/proneStab"/>
+<uol name="prone" value="../30/prone"/>
+<uol name="heal" value="../30/heal"/>
+<uol name="fly" value="../30/fly"/>
+<uol name="jump" value="../30/jump"/>
+</imgdir>
+<imgdir name="21">
+<imgdir name="walk1">
+<imgdir name="0">
+<uol name="weapon" value="../../../30/walk1/0/weapon"/>
+<uol name="weapon1" value="../../../30/walk1/0/weapon"/>
+<uol name="weapon2" value="../../../30/walk1/0/weapon"/>
+<uol name="weapon3" value="../../../30/walk1/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../30/walk1/1/weapon"/>
+<uol name="weapon1" value="../../../30/walk1/1/weapon"/>
+<uol name="weapon2" value="../../../30/walk1/1/weapon"/>
+<uol name="weapon3" value="../../../30/walk1/1/weapon"/>
+</imgdir>
+<imgdir name="2">
+<uol name="weapon" value="../../../30/walk1/2/weapon"/>
+<uol name="weapon1" value="../../../30/walk1/2/weapon"/>
+<uol name="weapon2" value="../../../30/walk1/2/weapon"/>
+<uol name="weapon3" value="../../../30/walk1/2/weapon"/>
+</imgdir>
+<imgdir name="3">
+<uol name="weapon" value="../../../30/walk1/3/weapon"/>
+<uol name="weapon1" value="../../../30/walk1/3/weapon"/>
+<uol name="weapon2" value="../../../30/walk1/3/weapon"/>
+<uol name="weapon3" value="../../../30/walk1/3/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="stand1">
+<imgdir name="0">
+<uol name="weapon" value="../../../30/stand1/0/weapon"/>
+<uol name="weapon1" value="../../../30/stand1/0/weapon"/>
+<uol name="weapon2" value="../../../30/stand1/0/weapon"/>
+<uol name="weapon3" value="../../../30/stand1/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../30/stand1/0/weapon"/>
+<uol name="weapon1" value="../../../30/stand1/0/weapon"/>
+<uol name="weapon2" value="../../../30/stand1/0/weapon"/>
+<uol name="weapon3" value="../../../30/stand1/0/weapon"/>
+</imgdir>
+<imgdir name="2">
+<uol name="weapon" value="../../../30/stand1/0/weapon"/>
+<uol name="weapon1" value="../../../30/stand1/0/weapon"/>
+<uol name="weapon2" value="../../../30/stand1/0/weapon"/>
+<uol name="weapon3" value="../../../30/stand1/0/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="alert">
+<imgdir name="0">
+<uol name="weapon" value="../../../30/alert/0/weapon"/>
+<uol name="weapon1" value="../../../30/alert/0/weapon"/>
+<uol name="weapon2" value="../../../30/alert/0/weapon"/>
+<uol name="weapon3" value="../../../30/alert/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../30/alert/1/weapon"/>
+<uol name="weapon1" value="../../../30/alert/1/weapon"/>
+<uol name="weapon2" value="../../../30/alert/1/weapon"/>
+<uol name="weapon3" value="../../../30/alert/1/weapon"/>
+</imgdir>
+<imgdir name="2">
+<uol name="weapon" value="../../../30/alert/2/weapon"/>
+<uol name="weapon1" value="../../../30/alert/2/weapon"/>
+<uol name="weapon2" value="../../../30/alert/2/weapon"/>
+<uol name="weapon3" value="../../../30/alert/2/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="swingO1">
+<imgdir name="0">
+<uol name="weapon" value="../../../30/swingO1/0/weapon"/>
+<uol name="weapon1" value="../../../30/swingO1/0/weapon"/>
+<uol name="weapon2" value="../../../30/swingO1/0/weapon"/>
+<uol name="weapon3" value="../../../30/swingO1/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../30/swingO1/1/weapon"/>
+<uol name="weapon1" value="../../../30/swingO1/1/weapon"/>
+<uol name="weapon2" value="../../../30/swingO1/1/weapon"/>
+<uol name="weapon3" value="../../../30/swingO1/1/weapon"/>
+</imgdir>
+<imgdir name="2">
+<uol name="weapon" value="../../../30/swingO1/2/weapon"/>
+<uol name="weapon1" value="../../../30/swingO1/2/weapon"/>
+<uol name="weapon2" value="../../../30/swingO1/2/weapon"/>
+<uol name="weapon3" value="../../../30/swingO1/2/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="swingO2">
+<imgdir name="0">
+<uol name="weapon" value="../../../30/swingO2/0/weapon"/>
+<uol name="weapon1" value="../../../30/swingO2/0/weapon"/>
+<uol name="weapon2" value="../../../30/swingO2/0/weapon"/>
+<uol name="weapon3" value="../../../30/swingO2/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../30/swingO2/1/weapon"/>
+<uol name="weapon1" value="../../../30/swingO2/1/weapon"/>
+<uol name="weapon2" value="../../../30/swingO2/1/weapon"/>
+<uol name="weapon3" value="../../../30/swingO2/1/weapon"/>
+</imgdir>
+<imgdir name="2">
+<uol name="weapon" value="../../../30/swingO2/2/weapon"/>
+<uol name="weapon1" value="../../../30/swingO2/2/weapon"/>
+<uol name="weapon2" value="../../../30/swingO2/2/weapon"/>
+<uol name="weapon3" value="../../../30/swingO2/2/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="swingO3">
+<imgdir name="0">
+<uol name="weapon" value="../../../30/swingO3/0/weapon"/>
+<uol name="weapon1" value="../../../30/swingO3/0/weapon"/>
+<uol name="weapon2" value="../../../30/swingO3/0/weapon"/>
+<uol name="weapon3" value="../../../30/swingO3/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../30/swingO3/1/weapon"/>
+<uol name="weapon1" value="../../../30/swingO3/1/weapon"/>
+<uol name="weapon2" value="../../../30/swingO3/1/weapon"/>
+<uol name="weapon3" value="../../../30/swingO3/1/weapon"/>
+</imgdir>
+<imgdir name="2">
+<uol name="weapon" value="../../../30/swingO3/2/weapon"/>
+<uol name="weapon1" value="../../../30/swingO3/2/weapon"/>
+<uol name="weapon2" value="../../../30/swingO3/2/weapon"/>
+<uol name="weapon3" value="../../../30/swingO3/2/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="stabO1">
+<imgdir name="0">
+<uol name="weapon" value="../../../30/stabO1/0/weapon"/>
+<uol name="weapon1" value="../../../30/stabO1/0/weapon"/>
+<uol name="weapon2" value="../../../30/stabO1/0/weapon"/>
+<uol name="weapon3" value="../../../30/stabO1/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../30/stabO1/1/weapon"/>
+<uol name="weapon1" value="../../../30/stabO1/1/weapon"/>
+<uol name="weapon2" value="../../../30/stabO1/1/weapon"/>
+<uol name="weapon3" value="../../../30/stabO1/1/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="stabO2">
+<imgdir name="0">
+<uol name="weapon" value="../../../30/stabO2/0/weapon"/>
+<uol name="weapon1" value="../../../30/stabO2/0/weapon"/>
+<uol name="weapon2" value="../../../30/stabO2/0/weapon"/>
+<uol name="weapon3" value="../../../30/stabO2/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../30/stabO2/1/weapon"/>
+<uol name="weapon1" value="../../../30/stabO2/1/weapon"/>
+<uol name="weapon2" value="../../../30/stabO2/1/weapon"/>
+<uol name="weapon3" value="../../../30/stabO2/1/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="shoot1">
+<imgdir name="0">
+<uol name="weapon" value="../../../37/shoot1/0/weapon"/>
+<uol name="weapon1" value="../../../37/shoot1/0/weapon"/>
+<uol name="weapon2" value="../../../37/shoot1/0/weapon"/>
+<uol name="weapon3" value="../../../37/shoot1/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../37/shoot1/1/weapon"/>
+<uol name="weapon1" value="../../../37/shoot1/1/weapon"/>
+<uol name="weapon2" value="../../../37/shoot1/1/weapon"/>
+<uol name="weapon3" value="../../../37/shoot1/1/weapon"/>
+</imgdir>
+<imgdir name="2">
+<uol name="weapon" value="../../../37/shoot1/1/weapon"/>
+<uol name="weapon1" value="../../../37/shoot1/1/weapon"/>
+<uol name="weapon2" value="../../../37/shoot1/1/weapon"/>
+<uol name="weapon3" value="../../../37/shoot1/1/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="shootF">
+<imgdir name="0">
+<uol name="weapon" value="../../../37/shootF/0/weapon"/>
+<uol name="weapon1" value="../../../37/shootF/0/weapon"/>
+<uol name="weapon2" value="../../../37/shootF/0/weapon"/>
+<uol name="weapon3" value="../../../37/shootF/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../37/shootF/1/weapon"/>
+<uol name="weapon1" value="../../../37/shootF/1/weapon"/>
+<uol name="weapon2" value="../../../37/shootF/1/weapon"/>
+<uol name="weapon3" value="../../../37/shootF/1/weapon"/>
+</imgdir>
+<imgdir name="2">
+<uol name="weapon" value="../../../37/shootF/1/weapon"/>
+<uol name="weapon1" value="../../../37/shootF/1/weapon"/>
+<uol name="weapon2" value="../../../37/shootF/1/weapon"/>
+<uol name="weapon3" value="../../../37/shootF/1/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="proneStab">
+<imgdir name="0">
+<uol name="weapon" value="../../../30/proneStab/0/weapon"/>
+<uol name="weapon1" value="../../../30/proneStab/0/weapon"/>
+<uol name="weapon2" value="../../../30/proneStab/0/weapon"/>
+<uol name="weapon3" value="../../../30/proneStab/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../30/proneStab/1/weapon"/>
+<uol name="weapon1" value="../../../30/proneStab/1/weapon"/>
+<uol name="weapon2" value="../../../30/proneStab/1/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="prone">
+<imgdir name="0">
+<uol name="weapon" value="../../../30/proneStab/0/weapon"/>
+<uol name="weapon1" value="../../../30/proneStab/0/weapon"/>
+<uol name="weapon2" value="../../../30/proneStab/0/weapon"/>
+<uol name="weapon3" value="../../../30/proneStab/0/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="heal">
+<imgdir name="0">
+<uol name="weapon" value="../../../30/alert/1/weapon"/>
+<uol name="weapon1" value="../../../30/alert/1/weapon"/>
+<uol name="weapon2" value="../../../30/alert/1/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../30/swingO2/1/weapon"/>
+<uol name="weapon1" value="../../../30/swingO2/1/weapon"/>
+<uol name="weapon2" value="../../../30/swingO2/1/weapon"/>
+</imgdir>
+<imgdir name="2">
+<uol name="weapon" value="../../../30/swingO2/0/weapon"/>
+<uol name="weapon1" value="../../../30/swingO2/0/weapon"/>
+<uol name="weapon2" value="../../../30/swingO2/0/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="fly">
+<imgdir name="0">
+<uol name="weapon" value="../../../30/fly/0/weapon"/>
+<uol name="weapon1" value="../../../30/fly/0/weapon"/>
+<uol name="weapon2" value="../../../30/fly/0/weapon"/>
+<uol name="weapon3" value="../../../30/fly/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../30/fly/0/weapon"/>
+<uol name="weapon1" value="../../../30/fly/0/weapon"/>
+<uol name="weapon2" value="../../../30/fly/0/weapon"/>
+<uol name="weapon3" value="../../../30/fly/0/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="jump">
+<imgdir name="0">
+<uol name="weapon" value="../../../30/jump/0/weapon"/>
+<uol name="weapon1" value="../../../30/jump/0/weapon"/>
+<uol name="weapon2" value="../../../30/jump/0/weapon"/>
+<uol name="weapon3" value="../../../30/jump/0/weapon"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="22">
+<imgdir name="walk1">
+<imgdir name="0">
+<uol name="weapon" value="../../../30/walk1/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../30/walk1/1/weapon"/>
+</imgdir>
+<imgdir name="2">
+<uol name="weapon" value="../../../30/walk1/1/weapon"/>
+</imgdir>
+<imgdir name="3">
+<uol name="weapon" value="../../../30/walk1/3/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="stand1">
+<imgdir name="0">
+<uol name="weapon" value="../../../30/stand1/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../30/stand1/0/weapon"/>
+</imgdir>
+<imgdir name="2">
+<uol name="weapon" value="../../../30/stand1/0/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="alert">
+<imgdir name="0">
+<uol name="weapon" value="../../../30/alert/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../30/alert/1/weapon"/>
+</imgdir>
+<imgdir name="2">
+<uol name="weapon" value="../../../30/alert/2/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="swingO3">
+<imgdir name="0">
+<uol name="weapon" value="../../../30/swingO3/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../30/swingO3/1/weapon"/>
+</imgdir>
+<imgdir name="2">
+<uol name="weapon" value="../../../30/swingO3/2/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="swingOF">
+<imgdir name="3">
+<uol name="weapon" value="../../../30/swingOF/3/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="swingT1">
+<imgdir name="0">
+<uol name="weapon" value="../../../40/swingT1/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../40/swingT1/1/weapon"/>
+</imgdir>
+<imgdir name="2">
+<uol name="weapon" value="../../../40/swingT1/2/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="swingT2">
+<imgdir name="0">
+<uol name="weapon" value="../../../40/swingT2/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../40/swingT2/1/weapon"/>
+</imgdir>
+<imgdir name="2">
+<uol name="weapon" value="../../../40/swingT2/2/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="swingT3">
+<imgdir name="0">
+<uol name="weapon" value="../../../40/swingT3/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../40/swingT3/1/weapon"/>
+</imgdir>
+<imgdir name="2">
+<uol name="weapon" value="../../../40/swingT3/2/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="swingP1">
+<imgdir name="0">
+<uol name="weapon" value="../../../43/swingP1/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../43/swingP1/1/weapon"/>
+</imgdir>
+<imgdir name="2">
+<uol name="weapon" value="../../../43/swingP1/2/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="swingP2">
+<imgdir name="0">
+<uol name="weapon" value="../../../43/swingP2/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../43/swingP2/1/weapon"/>
+</imgdir>
+<imgdir name="2">
+<uol name="weapon" value="../../../43/swingP2/2/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="swingPF">
+<imgdir name="3">
+<uol name="weapon" value="../../../33/swingPF/3/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="stabO1">
+<imgdir name="0">
+<uol name="weapon" value="../../../30/stabO1/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../30/stabO1/1/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="stabO2">
+<imgdir name="0">
+<uol name="weapon" value="../../../30/stabO2/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../30/stabO2/1/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="stabT2">
+<imgdir name="1">
+<uol name="weapon" value="../../../43/stabT2/1/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="shoot2">
+<imgdir name="0">
+<uol name="weapon" value="../../../46/shoot2/0/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="proneStab">
+<imgdir name="0">
+<uol name="weapon" value="../../../30/proneStab/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../30/proneStab/1/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="prone">
+<imgdir name="0">
+<uol name="weapon" value="../../../30/proneStab/0/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="fly">
+<imgdir name="0">
+<uol name="weapon" value="../../../30/fly/0/weapon"/>
+</imgdir>
+<imgdir name="1">
+<uol name="weapon" value="../../../30/fly/0/weapon"/>
+</imgdir>
+</imgdir>
+<imgdir name="jump">
+<imgdir name="0">
+<uol name="weapon" value="../../../30/jump/0/weapon"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="23">
+<uol name="walk1" value="../30/walk1"/>
+<uol name="stand1" value="../30/stand1"/>
+<uol name="alert" value="../30/alert"/>
+<uol name="swingO1" value="../30/swingO1"/>
+<uol name="swingO2" value="../30/swingO2"/>
+<uol name="swingO3" value="../30/swingO3"/>
+<uol name="swingOF" value="../30/swingOF"/>
+<uol name="stabO1" value="../30/stabO1"/>
+<uol name="stabO2" value="../30/stabO2"/>
+<uol name="stabOF" value="../30/stabOF"/>
+<uol name="proneStab" value="../30/proneStab"/>
+<uol name="prone" value="../30/prone"/>
+<uol name="heal" value="../30/heal"/>
+<uol name="fly" value="../30/fly"/>
+<uol name="jump" value="../30/jump"/>
+</imgdir>
+<imgdir name="24">
+<uol name="walk1" value="../30/walk1"/>
+<uol name="stand1" value="../30/stand1"/>
+<uol name="alert" value="../30/alert"/>
+<uol name="swingO1" value="../30/swingO1"/>
+<uol name="swingO2" value="../30/swingO2"/>
+<uol name="swingO3" value="../30/swingO3"/>
+<uol name="swingOF" value="../30/swingOF"/>
+<uol name="stabO1" value="../30/stabO1"/>
+<uol name="stabO2" value="../30/stabO2"/>
+<uol name="stabOF" value="../30/stabOF"/>
+<uol name="proneStab" value="../30/proneStab"/>
+<uol name="prone" value="../30/prone"/>
+<uol name="heal" value="../30/heal"/>
+<uol name="fly" value="../30/fly"/>
+<uol name="jump" value="../30/jump"/>
+</imgdir>
 </imgdir>

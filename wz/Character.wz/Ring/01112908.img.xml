@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <imgdir name="01112908.img">
 <imgdir name="info">
-<canvas name="icon" width="32" height="32">
-<vector name="origin" x="0" y="32"/>
-</canvas>
 <canvas name="iconRaw" width="32" height="32">
 <vector name="origin" x="0" y="32"/>
 </canvas>
@@ -34,5 +31,8 @@
 <int name="genOnMove" value="1"/>
 <int name="z" value="-1"/>
 </imgdir>
+<canvas name="icon" width="32" height="32">
+<vector name="origin" x="0" y="32"/>
+</canvas>
 </imgdir>
 </imgdir>

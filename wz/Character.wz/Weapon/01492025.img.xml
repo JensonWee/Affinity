@@ -14,15 +14,15 @@
 <short name="attack" value="9"/>
 <string name="afterImage" value="gun"/>
 <string name="sfx" value="gun"/>
-<int name="reqJob" value="16"/>
+<int name="reqJob" value="0"/>
 <int name="reqLevel" value="120"/>
-<int name="reqSTR" value="120"/>
-<int name="reqDEX" value="335"/>
+<int name="reqSTR" value="0"/>
+<int name="reqDEX" value="0"/>
 <int name="reqINT" value="0"/>
 <int name="reqLUK" value="0"/>
 <int name="incPAD" value="82"/>
 <int name="tuc" value="7"/>
-<int name="price" value="570000"/>
+<int name="price" value="59000"/>
 <int name="attackSpeed" value="5"/>
 <int name="cash" value="0"/>
 <int name="equipTradeBlock" value="1"/>
@@ -70,6 +70,18 @@
 <imgdir name="Skill">
 <imgdir name="0">
 <int name="id" value="5221004"/>
+<int name="level" value="1"/>
+</imgdir>
+<imgdir name="1">
+<int name="id" value="35121005"/>
+<int name="level" value="1"/>
+</imgdir>
+<imgdir name="2">
+<int name="id" value="5921004"/>
+<int name="level" value="1"/>
+</imgdir>
+<imgdir name="3">
+<int name="id" value="5721001"/>
 <int name="level" value="1"/>
 </imgdir>
 </imgdir>
@@ -399,9 +411,6 @@
 <imgdir name="heal">
 <imgdir name="0">
 <uol name="weapon" value="../../alert/1/weapon"/>
-</imgdir>
-<imgdir name="2">
-<uol name="weapon" value="../../swingO2/0/weapon"/>
 </imgdir>
 </imgdir>
 <imgdir name="fly">

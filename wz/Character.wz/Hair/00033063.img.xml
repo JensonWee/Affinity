@@ -46,8 +46,8 @@
 </imgdir>
 <string name="z" value="backHair"/>
 </canvas>
-<canvas name="backHairBelowCap" width="41" height="37">
-<vector name="origin" x="16" y="12"/>
+<canvas name="backHairBelowCap" width="49" height="47">
+<vector name="origin" x="20" y="22"/>
 <imgdir name="map">
 <vector name="brow" x="0" y="0"/>
 </imgdir>

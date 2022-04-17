@@ -20,7 +20,6 @@
 <int name="multiPet" value="1"/>
 <int name="life" value="90"/>
 <int name="pickupItem" value="1"/>
-<int name="autoBuff" value="1"/>
 <int name="setItemID" value="40"/>
 </imgdir>
 <imgdir name="interact">

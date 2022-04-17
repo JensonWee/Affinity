@@ -352,7 +352,7 @@
 <int name="grade" value="3"/>
 <int name="questId" value="7647"/>
 <string name="name" value="헝겊 인형"/>
-<string name="uiData" value="UI/UIWindow/raise/0"/>
+<string name="uiData" value="UI/UIWindow2/raise/0"/>
 <int name="timeLimited" value="1"/>
 <imgdir name="message">
 <string name="0" value="뼈대만 만들어진 봉제 인형이다."/>
@@ -384,7 +384,7 @@
 <int name="grade" value="4"/>
 <int name="questId" value="7660"/>
 <string name="name" value="운세 종이"/>
-<string name="uiData" value="UI/UIWindow/raise/1"/>
+<string name="uiData" value="UI/UIWindow2/raise/1"/>
 <int name="timeLimited" value="1"/>
 <imgdir name="message">
 <string name="0" value="아직 아무 것도 보이지 않는다."/>
@@ -415,7 +415,7 @@
 <int name="questId" value="7691"/>
 <string name="name" value="Birthday Cake"/>
 <int name="notSale" value="1"/>
-<string name="uiData" value="UI/UIWindow/raise/2"/>
+<string name="uiData" value="UI/UIWindow2/raise/2"/>
 <int name="timeLimited" value="1"/>
 <int name="price" value="100"/>
 <int name="slotMax" value="1"/>
@@ -452,7 +452,7 @@
 <int name="questId" value="7067"/>
 <string name="name" value="Timer&apos;s Egg"/>
 <int name="notSale" value="1"/>
-<string name="uiData" value="UI/UIWindow/raise/3"/>
+<string name="uiData" value="UI/UIWindow2/raise/3"/>
 <int name="slotMax" value="1"/>
 <imgdir name="message">
 <string name="0" value="This is a baby Timer."/>
@@ -480,7 +480,7 @@
 <int name="questId" value="10041"/>
 <string name="name" value="달 사진 봉투"/>
 <int name="notSale" value="1"/>
-<string name="uiData" value="UI/UIWindow/raise/4"/>
+<string name="uiData" value="UI/UIWindow2/raise/4"/>
 <int name="price" value="100"/>
 <int name="slotMax" value="1"/>
 <int name="quest" value="1"/>
@@ -2237,7 +2237,7 @@
 <int name="questId" value="20514"/>
 <string name="name" value="티티아나의 알"/>
 <int name="notSale" value="1"/>
-<string name="uiData" value="UI/UIWindow/raise/18"/>
+<string name="uiData" value="UI/UIWindow2/raise/18"/>
 <int name="slotMax" value="1"/>
 <imgdir name="message">
 <string name="0" value="티티아나의 알이다."/>
@@ -2263,7 +2263,7 @@
 <int name="questId" value="20516"/>
 <string name="name" value="Mimiana&apos;s Glass Incubator"/>
 <int name="notSale" value="1"/>
-<string name="uiData" value="UI/UIWindow/raise/19"/>
+<string name="uiData" value="UI/UIWindow2/raise/19"/>
 <int name="slotMax" value="1"/>
 <imgdir name="message">
 <string name="0" value="It&apos;s a Mimiana in the Glass Incubator."/>
@@ -2294,7 +2294,7 @@
 <int name="questId" value="20515"/>
 <string name="name" value="Mimiana Egg"/>
 <int name="notSale" value="1"/>
-<string name="uiData" value="UI/UIWindow/raise/18"/>
+<string name="uiData" value="UI/UIWindow2/raise/18"/>
 <int name="slotMax" value="1"/>
 <imgdir name="message">
 <string name="0" value="It&apos;s a new Mimiana egg."/>
@@ -2315,12 +2315,12 @@
 <int name="price" value="100"/>
 <int name="quest" value="1"/>
 <int name="only" value="1"/>
-<int name="exp" value="170000"/>
+<int name="exp" value="30000"/>
 <int name="grade" value="3"/>
 <int name="questId" value="20529"/>
 <string name="name" value="Mimiana Egg"/>
 <int name="notSale" value="1"/>
-<string name="uiData" value="UI/UIWindow/raise/18"/>
+<string name="uiData" value="UI/UIWindow2/raise/18"/>
 <int name="slotMax" value="1"/>
 <imgdir name="message">
 <string name="0" value="It&apos;s Mimiana egg."/>
@@ -2341,12 +2341,12 @@
 <int name="price" value="100"/>
 <int name="quest" value="1"/>
 <int name="only" value="1"/>
-<int name="exp" value="250000"/>
+<int name="exp" value="40000"/>
 <int name="grade" value="3"/>
 <int name="questId" value="20530"/>
 <string name="name" value="Mimiana Egg"/>
 <int name="notSale" value="1"/>
-<string name="uiData" value="UI/UIWindow/raise/18"/>
+<string name="uiData" value="UI/UIWindow2/raise/18"/>
 <int name="slotMax" value="1"/>
 <imgdir name="message">
 <string name="0" value="It&apos;s a new Mimiana egg."/>
@@ -2358,11 +2358,11 @@
 </imgdir>
 <imgdir name="04220147">
 <imgdir name="info">
-<canvas name="icon" width="29" height="30">
-<vector name="origin" x="0" y="30"/>
+<canvas name="icon" width="29" height="31">
+<vector name="origin" x="-1" y="31"/>
 </canvas>
-<canvas name="iconRaw" width="29" height="30">
-<vector name="origin" x="0" y="30"/>
+<canvas name="iconRaw" width="29" height="31">
+<vector name="origin" x="-1" y="31"/>
 </canvas>
 <int name="price" value="1"/>
 <int name="quest" value="1"/>
@@ -2403,15 +2403,15 @@
 <int name="slotMax" value="1"/>
 <int name="grade" value="4"/>
 <int name="questId" value="10288"/>
-<string name="name" value="주황버섯의 초상화"/>
-<string name="uiData" value="UI/UIWindow/raise/20"/>
+<string name="name" value="Portrait of an Orange Mushroom"/>
+<string name="uiData" value="UI/UIWindow2/raise/20"/>
 <int name="timeLimited" value="1"/>
 <imgdir name="message">
-<string name="0" value="아무 것도 그려져 있지 않은 깨끗한 도화지 이다."/>
-<string name="1" value="주황버섯의 윤곽이 흐릿하게 보인다."/>
-<string name="2" value="주황버섯의 형체를 알아볼 수 있을만큼 보인다."/>
-<string name="3" value="주황버섯의 형체가 거의 완성되었다."/>
-<string name="4" value="주황버섯의 초상화가 완성되었다."/>
+<string name="0" value="A clean sheet of sketching paper with nothing on it."/>
+<string name="1" value="There is a faint outline of an Orange Mushroom."/>
+<string name="2" value="The sketch of an Orange Mushroom is recognizable."/>
+<string name="3" value="The sketch of an Orange Mushroom is nearly complete."/>
+<string name="4" value="The portrait of an Orange Mushroom has been completed."/>
 </imgdir>
 <imgdir name="consumeItem">
 <imgdir name="0">
@@ -2444,15 +2444,15 @@
 <int name="slotMax" value="1"/>
 <int name="grade" value="4"/>
 <int name="questId" value="10289"/>
-<string name="name" value="옥토퍼스의 초상화"/>
-<string name="uiData" value="UI/UIWindow/raise/21"/>
+<string name="name" value="Portrait of an Octopus"/>
+<string name="uiData" value="UI/UIWindow2/raise/21"/>
 <int name="timeLimited" value="1"/>
 <imgdir name="message">
-<string name="0" value="아무 것도 그려져 있지 않은 깨끗한 도화지 이다."/>
-<string name="1" value="옥토퍼스의 윤곽이 흐릿하게 보인다."/>
-<string name="2" value="옥토퍼스의 형체를 알아볼 수 있을만큼 보인다."/>
-<string name="3" value="옥토퍼스의 형체가 거의 완성되었다."/>
-<string name="4" value="옥토퍼스의 초상화가 완성되었다."/>
+<string name="0" value="A clean sheet of sketching paper with nothing on it."/>
+<string name="1" value="There is a faint outline of an Octopus."/>
+<string name="2" value="The sketch of an Octopus is recognizable."/>
+<string name="3" value="The sketch of an Octopus is nearly complete."/>
+<string name="4" value="The portrait of an Octopus has been completed."/>
 </imgdir>
 <imgdir name="consumeItem">
 <imgdir name="0">
@@ -2485,15 +2485,15 @@
 <int name="slotMax" value="1"/>
 <int name="grade" value="4"/>
 <int name="questId" value="10290"/>
-<string name="name" value="예티의 초상화"/>
-<string name="uiData" value="UI/UIWindow/raise/22"/>
+<string name="name" value="Portrait of a Yeti"/>
+<string name="uiData" value="UI/UIWindow2/raise/22"/>
 <int name="timeLimited" value="1"/>
 <imgdir name="message">
-<string name="0" value="아무 것도 그려져 있지 않은 깨끗한 도화지 이다."/>
-<string name="1" value="예티의 윤곽이 흐릿하게 보인다."/>
-<string name="2" value="예티의 형체를 알아볼 수 있을만큼 보인다."/>
-<string name="3" value="예티의 형체가 거의 완성되었다."/>
-<string name="4" value="예티의 초상화가 완성되었다."/>
+<string name="0" value="A clean sheet of sketching paper with nothing on it."/>
+<string name="1" value="There is a faint outline of a Yeti."/>
+<string name="2" value="The sketch of a Yeti is recognizable."/>
+<string name="3" value="The sketch of a Yeti is nearly complete."/>
+<string name="4" value="The portrait of a Yeti has been completed."/>
 </imgdir>
 <imgdir name="consumeItem">
 <imgdir name="0">
@@ -2526,8 +2526,6 @@
 <int name="slotMax" value="1"/>
 <int name="grade" value="4"/>
 <int name="questId" value="21763"/>
-<string name="name" value="Scroll"/>
-<string name="uiData" value="UI/UIWindow/raise/23"/>
 <imgdir name="message">
 <string name="0" value="A scroll with nothing written on it."/>
 <string name="1" value="A scroll with faint writing that is barely visible."/>
@@ -2541,6 +2539,8 @@
 <int name="1" value="100"/>
 </imgdir>
 </imgdir>
+<string name="name" value="Scroll"/>
+<string name="uiData" value="UI/UIWindow2/raise/27"/>
 </imgdir>
 </imgdir>
 <imgdir name="04220153">
@@ -2616,6 +2616,23 @@
 </imgdir>
 </imgdir>
 </imgdir>
+<imgdir name="04220176">
+<imgdir name="info">
+<canvas name="icon" width="32" height="32">
+<vector name="origin" x="-1" y="31"/>
+</canvas>
+<canvas name="iconRaw" width="32" height="32">
+<vector name="origin" x="-1" y="31"/>
+</canvas>
+<int name="tradeBlock" value="1"/>
+<int name="slotMax" value="1"/>
+<string name="name" value="cake vs pie board"/>
+<string name="uiData" value="UI/UIWindow/raise/24"/>
+<int name="timeLimited" value="1"/>
+<int name="notSale" value="1"/>
+<int name="only" value="1"/>
+</imgdir>
+</imgdir>
 <imgdir name="04220152">
 <imgdir name="info">
 <canvas name="icon" width="30" height="31">
@@ -2628,30 +2645,442 @@
 <int name="quest" value="1"/>
 <int name="only" value="1"/>
 <int name="slotMax" value="1"/>
-<int name="questId" value="10430"/>
-<string name="name" value="무지개 그림"/>
-<string name="uiData" value="UI/UIWindow/raise/24"/>
+<int name="questId" value="11830"/>
+<string name="name" value="Rainbow Drawing"/>
+<string name="uiData" value="UI/UIWindow2/raise/24"/>
+<int name="timeLimited" value="1"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4000000"/>
+</imgdir>
+<imgdir name="1">
+<int name="0" value="3994417"/>
+</imgdir>
+<imgdir name="2">
+<int name="0" value="3994418"/>
+</imgdir>
+<imgdir name="3">
+<int name="0" value="3994419"/>
+</imgdir>
+<imgdir name="4">
+<int name="0" value="3994420"/>
+</imgdir>
+<imgdir name="5">
+<int name="0" value="3994421"/>
+</imgdir>
+<imgdir name="6">
+<int name="0" value="3994422"/>
+</imgdir>
+<imgdir name="7">
+<int name="0" value="3994423"/>
+</imgdir>
+</imgdir>
+<imgdir name="message">
+<string name="0" value="Canvas with outlined figures."/>
+<string name="1" value="Canvas with outlined figures."/>
+<string name="2" value="Colored with crayon."/>
+<string name="3" value="Colored with crayon."/>
+<string name="4" value="Colored with crayon."/>
+<string name="5" value="Colored with crayon."/>
+<string name="6" value="Colored with crayon."/>
+<string name="7" value="Colored with crayon."/>
+<string name="8" value="Completed the picture."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220154">
+<imgdir name="info">
+<canvas name="icon" width="33" height="32">
+<vector name="origin" x="1" y="31"/>
+</canvas>
+<canvas name="iconRaw" width="33" height="32">
+<vector name="origin" x="1" y="31"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="slotMax" value="1"/>
+<int name="questId" value="10546"/>
+<string name="name" value=" "/>
+<string name="uiData" value="UI/UIWindow2/raise/26"/>
 <int name="timeLimited" value="1"/>
 <imgdir name="message">
-<string name="0" value="밑그림이 그려져 있는 도화지다."/>
-<string name="1" value="밑그림이 그려져 있는 도화지다."/>
-<string name="2" value="크레파스로 색을 칠했다."/>
-<string name="3" value="크레파스로 색을 칠했다."/>
-<string name="4" value="크레파스로 색을 칠했다."/>
-<string name="5" value="크레파스로 색을 칠했다."/>
-<string name="6" value="크레파스로 색을 칠했다."/>
-<string name="7" value="크레파스로 색을 칠했다."/>
-<string name="8" value="그림을 완성했다."/>
+<string name="0" value="It&apos;s 0 degree Celsius."/>
+<string name="1" value="It&apos;s 1 degree Celsius."/>
+<string name="2" value="It&apos;s 2 degrees Celsius."/>
+<string name="3" value="It&apos;s 3 degrees Celsius."/>
+<string name="4" value="It&apos;s 4 degrees Celsius."/>
+<string name="5" value="It&apos;s 5 degrees Celsius."/>
+<string name="6" value="It&apos;s 6 degrees Celsius."/>
+<string name="7" value="It&apos;s 7 degrees Celsius."/>
+<string name="8" value="It&apos;s 8 degrees Celsius."/>
+<string name="9" value="It&apos;s 9 degrees Celsius."/>
+<string name="10" value="It&apos;s 10 degrees Celsius."/>
+<string name="11" value="It&apos;s 11 degrees Celsius."/>
+<string name="12" value="It&apos;s 12 degrees Celsius."/>
+<string name="13" value="It&apos;s 13 degrees Celsius."/>
+<string name="14" value="It&apos;s 14 degrees Celsius."/>
+<string name="15" value="It&apos;s 15 degrees Celsius."/>
 </imgdir>
 <imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032575"/>
+<int name="1" value="1"/>
+</imgdir>
+<imgdir name="1">
+<int name="0" value="4032575"/>
+<int name="1" value="1"/>
+</imgdir>
+<imgdir name="2">
+<int name="0" value="4032575"/>
+<int name="1" value="1"/>
+</imgdir>
+<imgdir name="3">
+<int name="0" value="4032575"/>
+<int name="1" value="1"/>
+</imgdir>
+<imgdir name="4">
+<int name="0" value="4032575"/>
+<int name="1" value="1"/>
+</imgdir>
+<imgdir name="5">
+<int name="0" value="4032575"/>
+<int name="1" value="1"/>
+</imgdir>
+<imgdir name="6">
+<int name="0" value="4032575"/>
+<int name="1" value="1"/>
+</imgdir>
+<imgdir name="7">
+<int name="0" value="4032575"/>
+<int name="1" value="1"/>
+</imgdir>
+<imgdir name="8">
+<int name="0" value="4032575"/>
+<int name="1" value="1"/>
+</imgdir>
+<imgdir name="9">
+<int name="0" value="4032575"/>
+<int name="1" value="1"/>
+</imgdir>
+<imgdir name="10">
+<int name="0" value="4032575"/>
+<int name="1" value="1"/>
+</imgdir>
+<imgdir name="11">
+<int name="0" value="4032575"/>
+<int name="1" value="1"/>
+</imgdir>
+<imgdir name="12">
+<int name="0" value="4032575"/>
+<int name="1" value="1"/>
+</imgdir>
+<imgdir name="13">
+<int name="0" value="4032575"/>
+<int name="1" value="1"/>
+</imgdir>
+<imgdir name="14">
+<int name="0" value="4032575"/>
+<int name="1" value="1"/>
+</imgdir>
+</imgdir>
+<int name="grade" value="15"/>
+<int name="exp" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220175">
+<imgdir name="info">
+<canvas name="icon" width="29" height="31">
+<vector name="origin" x="-2" y="31"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="31">
+<vector name="origin" x="-2" y="31"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="slotMax" value="1"/>
+<int name="questId" value="10670"/>
+<string name="name" value="6th Anniversary Jigsaw Puzzle"/>
+<string name="uiData" value="UI/UIWindow2/raise/29"/>
+<int name="timeLimited" value="1"/>
+<imgdir name="message">
+<string name="0" value="A board for the 6th Anniversary Jigsaw Puzzle."/>
+<string name="1" value="A board for the 6th Anniversary Jigsaw Puzzle."/>
+<string name="2" value="It&apos;s a piece that fits perfectly."/>
+<string name="3" value="It&apos;s a piece that fits perfectly."/>
+<string name="4" value="It&apos;s a piece that fits perfectly."/>
+<string name="5" value="It&apos;s a piece that fits perfectly."/>
+<string name="6" value="It&apos;s a piece that fits perfectly."/>
+<string name="7" value="It&apos;s a piece that fits perfectly."/>
+<string name="8" value="You have completed the puzzle."/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
 <int name="0" value="4000000"/>
-<int name="1" value="4001326"/>
-<int name="2" value="4001327"/>
-<int name="3" value="4001328"/>
-<int name="4" value="4001329"/>
-<int name="5" value="4001330"/>
-<int name="6" value="4001331"/>
-<int name="7" value="4001332"/>
+<int name="1" value="0"/>
+</imgdir>
+<imgdir name="1">
+<int name="0" value="4001440"/>
+<int name="1" value="0"/>
+</imgdir>
+<imgdir name="2">
+<int name="0" value="4001441"/>
+<int name="1" value="0"/>
+</imgdir>
+<imgdir name="3">
+<int name="0" value="4001442"/>
+<int name="1" value="0"/>
+</imgdir>
+<imgdir name="4">
+<int name="0" value="4001443"/>
+<int name="1" value="0"/>
+</imgdir>
+<imgdir name="5">
+<int name="0" value="4001444"/>
+<int name="1" value="0"/>
+</imgdir>
+<imgdir name="6">
+<int name="0" value="4001445"/>
+<int name="1" value="0"/>
+</imgdir>
+<imgdir name="7">
+<int name="0" value="4001446"/>
+<int name="1" value="0"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220178">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="0" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="0" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="slotMax" value="1"/>
+<int name="exp" value="125000"/>
+<int name="grade" value="4"/>
+<int name="questId" value="23980"/>
+<string name="name" value="Energy Cartridge."/>
+<string name="uiData" value="UI/UIWindow2/raise/30"/>
+<imgdir name="message">
+<string name="0" value="This is an Energy Cartridge."/>
+<string name="1" value="Energy has been slightly charged."/>
+<string name="2" value="Energy has been charged halfway."/>
+<string name="3" value="Energy has been almost fully charged."/>
+<string name="4" value="Energy has been fully charged."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220179">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="0" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="0" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="slotMax" value="1"/>
+<int name="exp" value="250000"/>
+<int name="grade" value="4"/>
+<int name="questId" value="23981"/>
+<string name="name" value="Mechanical Heart Part"/>
+<string name="uiData" value="UI/UIWindow2/raise/31"/>
+<imgdir name="message">
+<string name="0" value="This is part of a machine heart."/>
+<string name="1" value="Energy has been slightly charged."/>
+<string name="2" value="Energy has been charged halfway."/>
+<string name="3" value="Energy has been almost fully charged."/>
+<string name="4" value="Energy has been fully charged."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220180">
+<imgdir name="info">
+<canvas name="icon" width="30" height="31">
+<vector name="origin" x="-1" y="31"/>
+</canvas>
+<canvas name="iconRaw" width="30" height="29">
+<vector name="origin" x="-1" y="31"/>
+</canvas>
+<string name="name" value="Halloween Candy Basket"/>
+<string name="uiData" value="UI/UIWindow2/raise/33"/>
+<int name="questId" value="11930"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220182">
+<imgdir name="info">
+<canvas name="icon" width="34" height="34">
+<vector name="origin" x="1" y="34"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="34">
+<vector name="origin" x="1" y="34"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="slotMax" value="1"/>
+<string name="name" value="Warrior Marble"/>
+<string name="uiData" value="UI/UIWindow2/raise/35"/>
+<int name="questId" value="12432"/>
+<int name="exp" value="600"/>
+<int name="grade" value="5"/>
+<int name="mobId" value="9101025"/>
+<imgdir name="message">
+<string name="0" value="It&apos;s the Powerful Warrior Marble."/>
+<string name="1" value="Powerful Warrior Marble filled up to 20%."/>
+<string name="2" value="Powerful Warrior Marble filled up to 40%."/>
+<string name="3" value="Powerful Warrior Marble filled up to 60%."/>
+<string name="4" value="Powerful Warrior Marble filled up to 80%."/>
+<string name="5" value="The Powerful Warrior Marble is full."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220183">
+<imgdir name="info">
+<canvas name="icon" width="34" height="34">
+<vector name="origin" x="1" y="34"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="34">
+<vector name="origin" x="1" y="34"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="slotMax" value="1"/>
+<string name="name" value="Warrior Marble"/>
+<string name="uiData" value="UI/UIWindow2/raise/36"/>
+<int name="questId" value="12434"/>
+<int name="exp" value="600"/>
+<int name="grade" value="5"/>
+<int name="mobId" value="9101025"/>
+<imgdir name="message">
+<string name="0" value="It&apos;s the Invincible Warrior Marble."/>
+<string name="1" value="Invincible Warrior Marble filled up to 20%."/>
+<string name="2" value="Invincible Warrior Marble filled up to 40%."/>
+<string name="3" value="Invincible Warrior Marble filled up to 60%."/>
+<string name="4" value="Invincible Warrior Marble filled up to 80%."/>
+<string name="5" value="The Invincible Warrior Marble is full."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220184">
+<imgdir name="info">
+<canvas name="icon" width="34" height="34">
+<vector name="origin" x="1" y="34"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="34">
+<vector name="origin" x="1" y="34"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="slotMax" value="1"/>
+<string name="name" value="Magician Marble"/>
+<string name="uiData" value="UI/UIWindow2/raise/37"/>
+<int name="questId" value="12585"/>
+<int name="exp" value="600"/>
+<int name="grade" value="5"/>
+<int name="mobId" value="9101025"/>
+<imgdir name="message">
+<string name="0" value="It&apos;s the Wise Magician Marble."/>
+<string name="1" value="Wise Magician Marble filled up to 20%."/>
+<string name="2" value="Wise Magician Marble filled up to 40%."/>
+<string name="3" value="Wise Magician Marble filled up to 60%."/>
+<string name="4" value="Wise Magician Marble filled up to 80%."/>
+<string name="5" value="The Wise Magician Marble is full."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220185">
+<imgdir name="info">
+<canvas name="icon" width="34" height="34">
+<vector name="origin" x="1" y="34"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="34">
+<vector name="origin" x="1" y="34"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="slotMax" value="1"/>
+<string name="name" value="Magician Marble"/>
+<string name="uiData" value="UI/UIWindow2/raise/38"/>
+<int name="questId" value="12587"/>
+<int name="exp" value="600"/>
+<int name="grade" value="5"/>
+<int name="mobId" value="9101025"/>
+<imgdir name="message">
+<string name="0" value="It&apos;s the Awakened Magician Marble."/>
+<string name="1" value="Awakened Magician Marble filled up to 20%."/>
+<string name="2" value="Awakened Magician Marble filled up to 40%."/>
+<string name="3" value="Awakened Magician Marble filled up to 60%."/>
+<string name="4" value="Awakened Magician Marble filled up to 80%."/>
+<string name="5" value="The Awakened Magician Marble is full."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220186">
+<imgdir name="info">
+<canvas name="icon" width="34" height="34">
+<vector name="origin" x="1" y="34"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="34">
+<vector name="origin" x="1" y="34"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="slotMax" value="1"/>
+<string name="name" value="Bowman Marble"/>
+<string name="uiData" value="UI/UIWindow2/raise/39"/>
+<int name="questId" value="12604"/>
+<int name="exp" value="600"/>
+<int name="grade" value="5"/>
+<int name="mobId" value="9101025"/>
+<imgdir name="message">
+<string name="0" value="It&apos;s the Liberated Bowman Marble."/>
+<string name="1" value="Liberated Bowman Marble filled up to 20%."/>
+<string name="2" value="Liberated Bowman Marble filled up to 40%."/>
+<string name="3" value="Liberated Bowman Marble filled up to 60%."/>
+<string name="4" value="Liberated Bowman Marble filled up to 80%."/>
+<string name="5" value="The Liberated Bowman Marble is full."/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220187">
+<imgdir name="info">
+<canvas name="icon" width="34" height="34">
+<vector name="origin" x="1" y="34"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="34">
+<vector name="origin" x="1" y="34"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="slotMax" value="1"/>
+<string name="name" value="Bowman Marble"/>
+<string name="uiData" value="UI/UIWindow2/raise/40"/>
+<int name="questId" value="12606"/>
+<int name="exp" value="600"/>
+<int name="grade" value="5"/>
+<int name="mobId" value="9101025"/>
+<imgdir name="message">
+<string name="0" value="It&apos;s the Soaring Bowman Marble."/>
+<string name="1" value="Soaring Bowman Marble filled up to 20%."/>
+<string name="2" value="Soaring Bowman Marble filled up to 40%."/>
+<string name="3" value="Soaring Bowman Marble filled up to 60%."/>
+<string name="4" value="Soaring Bowman Marble filled up to 80%."/>
+<string name="5" value="The Soaring Bowman Marble is full."/>
 </imgdir>
 </imgdir>
 </imgdir>

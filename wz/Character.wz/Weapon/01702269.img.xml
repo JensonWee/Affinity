@@ -241,7 +241,7 @@
 </imgdir>
 <imgdir name="stabO1">
 <imgdir name="0">
-<canvas name="0" width="66" height="51">
+<canvas name="weapon" width="66" height="51">
 <vector name="origin" x="88" y="39"/>
 <int name="z" value="0"/>
 </canvas>

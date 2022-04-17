@@ -15,7 +15,7 @@
 <string name="afterImage" value="spear"/>
 <string name="sfx" value="spear"/>
 <int name="tuc" value="8"/>
-<int name="reqJob" value="1"/>
+<int name="reqJob" value="0"/>
 <int name="reqLevel" value="70"/>
 <int name="reqSTR" value="0"/>
 <int name="reqDEX" value="0"/>
@@ -23,7 +23,7 @@
 <int name="reqLUK" value="0"/>
 <int name="incPAD" value="90"/>
 <int name="price" value="0"/>
-<int name="attackSpeed" value="7"/>
+<int name="attackSpeed" value="6"/>
 <int name="cash" value="0"/>
 <int name="setItemID" value="33"/>
 </imgdir>

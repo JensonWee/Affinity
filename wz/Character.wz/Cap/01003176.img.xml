@@ -10,10 +10,10 @@
 <string name="islot" value="Cp"/>
 <string name="vslot" value="CpH1H5"/>
 <int name="tuc" value="10"/>
-<int name="reqJob" value="16"/>
+<int name="reqJob" value="0"/>
 <int name="reqLevel" value="140"/>
-<int name="reqSTR" value="170"/>
-<int name="reqDEX" value="170"/>
+<int name="reqSTR" value="0"/>
+<int name="reqDEX" value="0"/>
 <int name="reqINT" value="0"/>
 <int name="reqLUK" value="0"/>
 <int name="incPDD" value="250"/>
@@ -28,6 +28,7 @@
 <int name="price" value="1"/>
 <int name="cash" value="0"/>
 <int name="setItemID" value="29"/>
+<int name="tradeBlock" value="1"/>
 <int name="tradeAvailable" value="2"/>
 <int name="charmEXP" value="100"/>
 </imgdir>

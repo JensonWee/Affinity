@@ -320,4 +320,20 @@
 <int name="slotMax" value="100"/>
 </imgdir>
 </imgdir>
+<imgdir name="04130023">
+<imgdir name="info">
+<uol name="icon" value="../../04130000/info/icon"/>
+<uol name="iconRaw" value="../../04130000/info/iconRaw"/>
+<int name="price" value="100"/>
+<int name="slotMax" value="100"/>
+</imgdir>
+</imgdir>
+<imgdir name="04131016">
+<imgdir name="info">
+<uol name="icon" value="../../04131000/info/icon"/>
+<uol name="iconRaw" value="../../04131000/info/iconRaw"/>
+<int name="price" value="10000"/>
+<int name="slotMax" value="100"/>
+</imgdir>
+</imgdir>
 </imgdir>

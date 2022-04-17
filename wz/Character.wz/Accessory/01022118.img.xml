@@ -26,7 +26,6 @@
 <int name="incPDD" value="20"/>
 <int name="incMDD" value="20"/>
 <int name="charmEXP" value="100"/>
-<int name="accountShareTag" value="1"/>
 </imgdir>
 <imgdir name="default">
 <canvas name="default" width="20" height="7">

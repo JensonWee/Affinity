@@ -8,14 +8,15 @@
 <vector name="origin" x="0" y="32"/>
 </canvas>
 <string name="islot" value="Tm"/>
-<string name="vslot" value="Tm"/>
-<int name="reqJob" value="0"/>
-<int name="reqLevel" value="0"/>
-<int name="tuc" value="0"/>
-<int name="tamingMob" value="3"/>
-<int name="tradeBlock" value="1"/>
 <int name="notSale" value="1"/>
 <int name="only" value="1"/>
+<int name="reqJob" value="0"/>
+<int name="reqLevel" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="tamingMob" value="8"/>
+<int name="tradeBlock" value="1"/>
+<int name="tuc" value="0"/>
+<string name="vslot" value="Tm"/>
 </imgdir>
 <imgdir name="walk1">
 <imgdir name="0">
@@ -192,20 +193,6 @@
 <uol name="6" value="../stand1/6"/>
 <uol name="7" value="../stand1/7"/>
 <uol name="8" value="../stand1/8"/>
-</imgdir>
-<imgdir name="tired">
-<imgdir name="0">
-<int name="delay" value="200"/>
-<canvas name="0" width="98" height="82">
-<vector name="origin" x="56" y="82"/>
-<string name="z" value="tamingMobMid"/>
-<vector name="lt" x="-48" y="-75"/>
-<vector name="rb" x="36" y="-5"/>
-<imgdir name="map">
-<vector name="navel" x="13" y="-61"/>
-</imgdir>
-</canvas>
-</imgdir>
 </imgdir>
 <imgdir name="jump">
 <imgdir name="0">

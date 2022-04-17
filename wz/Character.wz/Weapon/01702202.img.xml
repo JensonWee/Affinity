@@ -418,6 +418,55 @@
 <uol name="swingO2" value="../30/swingO2"/>
 <uol name="swingO3" value="../30/swingO3"/>
 <uol name="swingOF" value="../30/swingOF"/>
+<imgdir name="swingPF">
+<imgdir name="0">
+<canvas name="weapon" width="35" height="27">
+<vector name="origin" x="32" y="8"/>
+<imgdir name="map">
+<vector name="hand" x="0" y="0"/>
+</imgdir>
+<string name="z" value="weaponWristOverGlove"/>
+</canvas>
+</imgdir>
+<imgdir name="1">
+<canvas name="weapon" width="37" height="27">
+<vector name="origin" x="37" y="7"/>
+<imgdir name="map">
+<vector name="hand" x="0" y="0"/>
+</imgdir>
+<string name="z" value="weaponOverArm"/>
+</canvas>
+</imgdir>
+<imgdir name="2">
+<canvas name="weapon" width="35" height="28">
+<vector name="origin" x="0" y="25"/>
+<imgdir name="map">
+<vector name="hand" x="0" y="0"/>
+</imgdir>
+<string name="z" value="weaponBelowArm"/>
+</canvas>
+</imgdir>
+<imgdir name="3">
+<canvas name="weapon" width="43" height="38">
+<vector name="origin" x="38" y="10"/>
+<imgdir name="map">
+<vector name="hand" x="0" y="0"/>
+</imgdir>
+<string name="z" value="weaponBelowBody"/>
+</canvas>
+</imgdir>
+</imgdir>
+<imgdir name="stabT1">
+<imgdir name="2">
+<canvas name="weapon" width="43" height="27">
+<vector name="origin" x="67" y="9"/>
+<imgdir name="map">
+<vector name="hand" x="0" y="0"/>
+</imgdir>
+<string name="z" value="weaponOverBody"/>
+</canvas>
+</imgdir>
+</imgdir>
 <uol name="stabO1" value="../30/stabO1"/>
 <uol name="stabO2" value="../30/stabO2"/>
 <uol name="stabOF" value="../30/stabOF"/>

@@ -15,7 +15,7 @@
 </canvas>
 <int name="hungry" value="3"/>
 <int name="cash" value="1"/>
-<int name="life" value="30"/>
+<int name="life" value="90"/>
 <int name="chatBalloon" value="56"/>
 <int name="nameTag" value="56"/>
 </imgdir>
@@ -568,17 +568,17 @@
 <imgdir name="success">
 <imgdir name="0">
 <string name="act" value="dance"/>
-<string name="0" value="c26_s1"/>
-<string name="1" value="c26_s2"/>
-<string name="2" value="c26_s3"/>
+<string name="0" value="c23_s1"/>
+<string name="1" value="c23_s2"/>
+<string name="2" value="c23_s3"/>
 </imgdir>
 </imgdir>
 <imgdir name="fail">
 <imgdir name="0">
 <string name="act" value="rest0"/>
-<string name="0" value="c26_f1"/>
-<string name="1" value="c26_f2"/>
-<string name="2" value="c26_f3"/>
+<string name="0" value="c23_f1"/>
+<string name="1" value="c23_f2"/>
+<string name="2" value="c23_f3"/>
 </imgdir>
 </imgdir>
 </imgdir>

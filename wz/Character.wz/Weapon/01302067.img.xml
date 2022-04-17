@@ -26,7 +26,7 @@
 <int name="incDEX" value="1"/>
 <int name="incLUK" value="1"/>
 <int name="incSpeed" value="15"/>
-<int name="price" value="10000"/>
+<int name="price" value="1600"/>
 <int name="attackSpeed" value="5"/>
 <int name="tradeBlock" value="1"/>
 <int name="only" value="1"/>

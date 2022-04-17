@@ -14,7 +14,7 @@
 <short name="attack" value="2"/>
 <string name="afterImage" value="poleArm"/>
 <string name="sfx" value="poleArm"/>
-<int name="reqJob" value="1"/>
+<int name="reqJob" value="0"/>
 <int name="reqLevel" value="59"/>
 <int name="reqSTR" value="0"/>
 <int name="reqDEX" value="0"/>
@@ -24,7 +24,7 @@
 <int name="incACC" value="35"/>
 <int name="incSTR" value="3"/>
 <int name="tuc" value="7"/>
-<int name="price" value="240000"/>
+<int name="price" value="27000"/>
 <int name="attackSpeed" value="6"/>
 <int name="cash" value="0"/>
 <int name="tradeBlock" value="1"/>

@@ -271,13 +271,6 @@
 <uol name="delay" value="../../stand1/3/delay"/>
 </imgdir>
 </imgdir>
-<imgdir name="tired">
-<imgdir name="0">
-<uol name="0" value="../../stand1/0/0"/>
-<uol name="1" value="../../stand1/0/1"/>
-<uol name="delay" value="../../stand1/0/delay"/>
-</imgdir>
-</imgdir>
 <imgdir name="jump">
 <imgdir name="0">
 <canvas name="0" width="68" height="48">

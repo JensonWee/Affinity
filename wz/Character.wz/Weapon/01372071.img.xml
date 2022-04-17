@@ -15,7 +15,7 @@
 <string name="afterImage" value="mace"/>
 <string name="sfx" value="mace"/>
 <int name="tuc" value="7"/>
-<int name="reqJob" value="2"/>
+<int name="reqJob" value="0"/>
 <int name="reqLevel" value="77"/>
 <int name="reqSTR" value="0"/>
 <int name="reqDEX" value="0"/>

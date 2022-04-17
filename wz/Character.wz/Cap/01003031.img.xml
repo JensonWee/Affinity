@@ -9,7 +9,7 @@
 </canvas>
 <string name="islot" value="Cp"/>
 <string name="vslot" value="CpHdH1H2H3H4H5H6HsHfHbAfAyAsAe"/>
-<int name="reqJob" value="1"/>
+<int name="reqJob" value="0"/>
 <int name="reqLevel" value="18"/>
 <int name="reqSTR" value="0"/>
 <int name="reqDEX" value="0"/>

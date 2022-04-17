@@ -291,29 +291,6 @@
 <uol name="4" value="../stand1/4"/>
 <uol name="5" value="../stand1/5"/>
 </imgdir>
-<imgdir name="tired">
-<imgdir name="0">
-<int name="delay" value="140"/>
-<canvas name="0" width="112" height="82">
-<vector name="origin" x="71" y="75"/>
-<string name="z" value="tamingMobMid"/>
-<vector name="lt" x="-35" y="-46"/>
-<vector name="rb" x="32" y="0"/>
-<imgdir name="map">
-<vector name="navel" x="4" y="-36"/>
-</imgdir>
-</canvas>
-<canvas name="1" width="121" height="77">
-<vector name="origin" x="67" y="72"/>
-<string name="z" value="tamingMobRear"/>
-<vector name="lt" x="-35" y="-46"/>
-<vector name="rb" x="32" y="0"/>
-<imgdir name="map">
-<vector name="navel" x="4" y="-36"/>
-</imgdir>
-</canvas>
-</imgdir>
-</imgdir>
 <imgdir name="jump">
 <imgdir name="0">
 <canvas name="0" width="99" height="65">

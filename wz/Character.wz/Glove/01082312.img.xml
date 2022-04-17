@@ -234,11 +234,8 @@
 <imgdir name="swingO3">
 <imgdir name="0">
 <canvas name="rWrist" width="8" height="8">
-<vector name="origin" x="11" y="0"/>
-<imgdir name="map">
-<vector name="hand" x="0" y="0"/>
-</imgdir>
-<string name="z" value="gloveWristOverHair"/>
+<vector name="origin" x="0" y="29"/>
+<int name="z" value="0"/>
 </canvas>
 </imgdir>
 </imgdir>
@@ -309,7 +306,7 @@
 <imgdir name="map">
 <vector name="hand" x="0" y="0"/>
 </imgdir>
-<string name="z" value="gloveWristBelowHead"/>
+<string name="z" value="gloveWrist"/>
 </canvas>
 </imgdir>
 <imgdir name="1">
@@ -318,7 +315,7 @@
 <imgdir name="map">
 <vector name="hand" x="0" y="0"/>
 </imgdir>
-<string name="z" value="gloveWrist"/>
+<string name="z" value="gloveWristBelowHead"/>
 </canvas>
 </imgdir>
 </imgdir>

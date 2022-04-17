@@ -195,7 +195,7 @@
 <canvas name="face" width="30" height="17">
 <vector name="origin" x="14" y="-2"/>
 <imgdir name="map">
-<vector name="brow" x="0" y="0"/>
+<vector name="brow" x="1" y="-8"/>
 </imgdir>
 <string name="z" value="face"/>
 </canvas>

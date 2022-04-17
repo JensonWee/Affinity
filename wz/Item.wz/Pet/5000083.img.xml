@@ -17,10 +17,7 @@
 <int name="cash" value="1"/>
 <int name="nameTag" value="55"/>
 <int name="chatBalloon" value="55"/>
-<int name="multiPet" value="1"/>
 <int name="life" value="90"/>
-<int name="pickupItem" value="1"/>
-<int name="autoBuff" value="1"/>
 </imgdir>
 <imgdir name="interact">
 <imgdir name="0">
@@ -102,7 +99,7 @@
 <int name="l1" value="30"/>
 <imgdir name="success">
 <imgdir name="0">
-<string name="act" value="cry"/>
+<string name="act" value="sit"/>
 <string name="0" value="c4_s1"/>
 <string name="1" value="c4_s2"/>
 <string name="2" value="c4_s3"/>
@@ -223,7 +220,7 @@
 <int name="l1" value="9"/>
 <imgdir name="success">
 <imgdir name="0">
-<string name="act" value="bewildered"/>
+<string name="act" value="love"/>
 <string name="0" value="c9_s1"/>
 <string name="1" value="c9_s2"/>
 <string name="2" value="c9_s3"/>
@@ -248,7 +245,7 @@
 <int name="l1" value="19"/>
 <imgdir name="success">
 <imgdir name="0">
-<string name="act" value="dung"/>
+<string name="act" value="love"/>
 <string name="0" value="c10_s1"/>
 <string name="1" value="c10_s2"/>
 <string name="2" value="c10_s3"/>
@@ -273,7 +270,7 @@
 <int name="l1" value="29"/>
 <imgdir name="success">
 <imgdir name="0">
-<string name="act" value="dung"/>
+<string name="act" value="love"/>
 <string name="0" value="c11_s1"/>
 <string name="1" value="c11_s2"/>
 <string name="2" value="c11_s3"/>
@@ -298,7 +295,7 @@
 <int name="l1" value="30"/>
 <imgdir name="success">
 <imgdir name="0">
-<string name="act" value="dung"/>
+<string name="act" value="love"/>
 <string name="0" value="c12_s1"/>
 <string name="1" value="c12_s2"/>
 <string name="2" value="c12_s3"/>
@@ -323,7 +320,7 @@
 <int name="l1" value="19"/>
 <imgdir name="success">
 <imgdir name="0">
-<string name="act" value="love"/>
+<string name="act" value="dung"/>
 <string name="0" value="c13_s1"/>
 <string name="1" value="c13_s2"/>
 <string name="2" value="c13_s3"/>
@@ -332,7 +329,7 @@
 </imgdir>
 <imgdir name="fail">
 <imgdir name="0">
-<string name="act" value="nothing"/>
+<string name="act" value="rest0"/>
 <string name="0" value="c13_f1"/>
 <string name="1" value="c13_f2"/>
 <string name="2" value="c13_f3"/>
@@ -348,7 +345,7 @@
 <int name="l1" value="29"/>
 <imgdir name="success">
 <imgdir name="0">
-<string name="act" value="love"/>
+<string name="act" value="dung"/>
 <string name="0" value="c14_s1"/>
 <string name="1" value="c14_s2"/>
 <string name="2" value="c14_s3"/>
@@ -357,7 +354,7 @@
 </imgdir>
 <imgdir name="fail">
 <imgdir name="0">
-<string name="act" value="nothing"/>
+<string name="act" value="rest0"/>
 <string name="0" value="c14_f1"/>
 <string name="1" value="c14_f2"/>
 <string name="2" value="c14_f3"/>
@@ -373,7 +370,7 @@
 <int name="l1" value="30"/>
 <imgdir name="success">
 <imgdir name="0">
-<string name="act" value="love"/>
+<string name="act" value="dung"/>
 <string name="0" value="c15_s1"/>
 <string name="1" value="c15_s2"/>
 <string name="2" value="c15_s3"/>
@@ -382,7 +379,7 @@
 </imgdir>
 <imgdir name="fail">
 <imgdir name="0">
-<string name="act" value="nothing"/>
+<string name="act" value="rest0"/>
 <string name="0" value="c15_f1"/>
 <string name="1" value="c15_f2"/>
 <string name="2" value="c15_f3"/>
@@ -398,7 +395,7 @@
 <int name="l1" value="19"/>
 <imgdir name="success">
 <imgdir name="0">
-<string name="act" value="chat"/>
+<string name="act" value="sleep"/>
 <string name="0" value="c16_s1"/>
 <string name="1" value="c16_s2"/>
 <string name="2" value="c16_s3"/>
@@ -407,7 +404,7 @@
 </imgdir>
 <imgdir name="fail">
 <imgdir name="0">
-<string name="act" value="nothing"/>
+<string name="act" value="rest0"/>
 <string name="0" value="c16_f1"/>
 <string name="1" value="c16_f2"/>
 <string name="2" value="c16_f3"/>
@@ -423,7 +420,7 @@
 <int name="l1" value="29"/>
 <imgdir name="success">
 <imgdir name="0">
-<string name="act" value="chat"/>
+<string name="act" value="sleep"/>
 <string name="0" value="c17_s1"/>
 <string name="1" value="c17_s2"/>
 <string name="2" value="c17_s3"/>
@@ -432,7 +429,7 @@
 </imgdir>
 <imgdir name="fail">
 <imgdir name="0">
-<string name="act" value="nothing"/>
+<string name="act" value="rest0"/>
 <string name="0" value="c17_f1"/>
 <string name="1" value="c17_f2"/>
 <string name="2" value="c17_f3"/>
@@ -448,7 +445,7 @@
 <int name="l1" value="30"/>
 <imgdir name="success">
 <imgdir name="0">
-<string name="act" value="chat"/>
+<string name="act" value="sleep"/>
 <string name="0" value="c18_s1"/>
 <string name="1" value="c18_s2"/>
 <string name="2" value="c18_s3"/>
@@ -457,7 +454,7 @@
 </imgdir>
 <imgdir name="fail">
 <imgdir name="0">
-<string name="act" value="nothing"/>
+<string name="act" value="rest0"/>
 <string name="0" value="c18_f1"/>
 <string name="1" value="c18_f2"/>
 <string name="2" value="c18_f3"/>
@@ -473,7 +470,7 @@
 <int name="l1" value="19"/>
 <imgdir name="success">
 <imgdir name="0">
-<string name="act" value="sleep"/>
+<string name="act" value="chat"/>
 <string name="0" value="c19_s1"/>
 <string name="1" value="c19_s2"/>
 <string name="2" value="c19_s3"/>
@@ -482,7 +479,7 @@
 </imgdir>
 <imgdir name="fail">
 <imgdir name="0">
-<string name="act" value="sit"/>
+<string name="act" value="ignore"/>
 <string name="0" value="c19_f1"/>
 <string name="1" value="c19_f2"/>
 <string name="2" value="c19_f3"/>
@@ -498,7 +495,7 @@
 <int name="l1" value="29"/>
 <imgdir name="success">
 <imgdir name="0">
-<string name="act" value="sleep"/>
+<string name="act" value="chat"/>
 <string name="0" value="c20_s1"/>
 <string name="1" value="c20_s2"/>
 <string name="2" value="c20_s3"/>
@@ -507,7 +504,7 @@
 </imgdir>
 <imgdir name="fail">
 <imgdir name="0">
-<string name="act" value="sit"/>
+<string name="act" value="ignore"/>
 <string name="0" value="c20_f1"/>
 <string name="1" value="c20_f2"/>
 <string name="2" value="c20_f3"/>
@@ -523,7 +520,7 @@
 <int name="l1" value="30"/>
 <imgdir name="success">
 <imgdir name="0">
-<string name="act" value="sleep"/>
+<string name="act" value="chat"/>
 <string name="0" value="c21_s1"/>
 <string name="1" value="c21_s2"/>
 <string name="2" value="c21_s3"/>
@@ -532,61 +529,11 @@
 </imgdir>
 <imgdir name="fail">
 <imgdir name="0">
-<string name="act" value="sit"/>
+<string name="act" value="ignore"/>
 <string name="0" value="c21_f1"/>
 <string name="1" value="c21_f2"/>
 <string name="2" value="c21_f3"/>
 <string name="3" value="c21_f4"/>
-</imgdir>
-</imgdir>
-</imgdir>
-<imgdir name="21">
-<string name="command" value="c22"/>
-<int name="inc" value="2"/>
-<int name="prob" value="65"/>
-<int name="l0" value="20"/>
-<int name="l1" value="29"/>
-<imgdir name="success">
-<imgdir name="0">
-<string name="act" value="change"/>
-<string name="0" value="c22_s1"/>
-<string name="1" value="c22_s2"/>
-<string name="2" value="c22_s3"/>
-<string name="3" value="c22_s4"/>
-</imgdir>
-</imgdir>
-<imgdir name="fail">
-<imgdir name="0">
-<string name="act" value="sit"/>
-<string name="0" value="c22_f1"/>
-<string name="1" value="c22_f2"/>
-<string name="2" value="c22_f3"/>
-<string name="3" value="c22_f4"/>
-</imgdir>
-</imgdir>
-</imgdir>
-<imgdir name="22">
-<string name="command" value="c23"/>
-<int name="inc" value="3"/>
-<int name="prob" value="80"/>
-<int name="l0" value="30"/>
-<int name="l1" value="30"/>
-<imgdir name="success">
-<imgdir name="0">
-<string name="act" value="change"/>
-<string name="0" value="c23_s1"/>
-<string name="1" value="c23_s2"/>
-<string name="2" value="c23_s3"/>
-<string name="3" value="c23_s4"/>
-</imgdir>
-</imgdir>
-<imgdir name="fail">
-<imgdir name="0">
-<string name="act" value="sit"/>
-<string name="0" value="c23_f1"/>
-<string name="1" value="c23_f2"/>
-<string name="2" value="c23_f3"/>
-<string name="3" value="c23_f4"/>
 </imgdir>
 </imgdir>
 </imgdir>

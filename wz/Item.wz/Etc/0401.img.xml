@@ -8,7 +8,8 @@
 <canvas name="iconRaw" width="25" height="21">
 <vector name="origin" x="-4" y="26"/>
 </canvas>
-<int name="price" value="100"/>
+<int name="price" value="50"/>
+<int name="bagType" value="2"/>
 </imgdir>
 </imgdir>
 <imgdir name="04010001">
@@ -19,7 +20,8 @@
 <canvas name="iconRaw" width="25" height="21">
 <vector name="origin" x="-4" y="26"/>
 </canvas>
-<int name="price" value="100"/>
+<int name="price" value="50"/>
+<int name="bagType" value="2"/>
 </imgdir>
 </imgdir>
 <imgdir name="04010002">
@@ -30,7 +32,8 @@
 <canvas name="iconRaw" width="25" height="21">
 <vector name="origin" x="-4" y="26"/>
 </canvas>
-<int name="price" value="150"/>
+<int name="price" value="50"/>
+<int name="bagType" value="2"/>
 </imgdir>
 </imgdir>
 <imgdir name="04010003">
@@ -41,7 +44,8 @@
 <canvas name="iconRaw" width="25" height="21">
 <vector name="origin" x="-4" y="26"/>
 </canvas>
-<int name="price" value="150"/>
+<int name="price" value="50"/>
+<int name="bagType" value="2"/>
 </imgdir>
 </imgdir>
 <imgdir name="04010004">
@@ -52,7 +56,8 @@
 <canvas name="iconRaw" width="25" height="21">
 <vector name="origin" x="-4" y="26"/>
 </canvas>
-<int name="price" value="150"/>
+<int name="price" value="50"/>
+<int name="bagType" value="2"/>
 </imgdir>
 </imgdir>
 <imgdir name="04010005">
@@ -63,7 +68,8 @@
 <canvas name="iconRaw" width="25" height="21">
 <vector name="origin" x="-4" y="26"/>
 </canvas>
-<int name="price" value="200"/>
+<int name="price" value="50"/>
+<int name="bagType" value="2"/>
 </imgdir>
 </imgdir>
 <imgdir name="04010006">
@@ -74,7 +80,8 @@
 <canvas name="iconRaw" width="25" height="21">
 <vector name="origin" x="-4" y="26"/>
 </canvas>
-<int name="price" value="300"/>
+<int name="price" value="50"/>
+<int name="bagType" value="2"/>
 </imgdir>
 </imgdir>
 <imgdir name="04011000">
@@ -85,7 +92,8 @@
 <canvas name="iconRaw" width="30" height="20">
 <vector name="origin" x="-1" y="25"/>
 </canvas>
-<int name="price" value="500"/>
+<int name="price" value="1"/>
+<int name="bagType" value="2"/>
 </imgdir>
 </imgdir>
 <imgdir name="04011001">
@@ -96,7 +104,8 @@
 <canvas name="iconRaw" width="30" height="20">
 <vector name="origin" x="-1" y="25"/>
 </canvas>
-<int name="price" value="500"/>
+<int name="price" value="1"/>
+<int name="bagType" value="2"/>
 </imgdir>
 </imgdir>
 <imgdir name="04011002">
@@ -107,7 +116,8 @@
 <canvas name="iconRaw" width="30" height="20">
 <vector name="origin" x="-1" y="25"/>
 </canvas>
-<int name="price" value="800"/>
+<int name="price" value="1"/>
+<int name="bagType" value="2"/>
 </imgdir>
 </imgdir>
 <imgdir name="04011003">
@@ -118,7 +128,8 @@
 <canvas name="iconRaw" width="30" height="20">
 <vector name="origin" x="-1" y="25"/>
 </canvas>
-<int name="price" value="800"/>
+<int name="price" value="1"/>
+<int name="bagType" value="2"/>
 </imgdir>
 </imgdir>
 <imgdir name="04011004">
@@ -129,7 +140,8 @@
 <canvas name="iconRaw" width="30" height="20">
 <vector name="origin" x="-1" y="25"/>
 </canvas>
-<int name="price" value="1000"/>
+<int name="price" value="1"/>
+<int name="bagType" value="2"/>
 </imgdir>
 </imgdir>
 <imgdir name="04011005">
@@ -140,7 +152,8 @@
 <canvas name="iconRaw" width="30" height="20">
 <vector name="origin" x="-1" y="25"/>
 </canvas>
-<int name="price" value="1200"/>
+<int name="price" value="1"/>
+<int name="bagType" value="2"/>
 </imgdir>
 </imgdir>
 <imgdir name="04011006">
@@ -151,7 +164,8 @@
 <canvas name="iconRaw" width="30" height="20">
 <vector name="origin" x="-1" y="25"/>
 </canvas>
-<int name="price" value="1200"/>
+<int name="price" value="1"/>
+<int name="bagType" value="2"/>
 </imgdir>
 </imgdir>
 <imgdir name="04011007">
@@ -173,7 +187,21 @@
 <canvas name="iconRaw" width="32" height="27">
 <vector name="origin" x="-2" y="28"/>
 </canvas>
-<int name="price" value="150"/>
+<int name="price" value="50"/>
+<int name="bagType" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="04010008">
+<imgdir name="info">
+<canvas name="icon" width="26" height="26">
+<vector name="origin" x="-4" y="26"/>
+</canvas>
+<canvas name="iconRaw" width="25" height="21">
+<vector name="origin" x="-4" y="26"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="bagType" value="2"/>
+<int name="slotMax" value="1"/>
 </imgdir>
 </imgdir>
 <imgdir name="04011008">
@@ -184,7 +212,34 @@
 <canvas name="iconRaw" width="28" height="28">
 <vector name="origin" x="-3" y="30"/>
 </canvas>
-<int name="price" value="700"/>
+<int name="price" value="1"/>
+<int name="bagType" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="04011009">
+<imgdir name="info">
+<canvas name="icon" width="30" height="25">
+<vector name="origin" x="-1" y="25"/>
+</canvas>
+<canvas name="iconRaw" width="30" height="20">
+<vector name="origin" x="-1" y="25"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="bagType" value="2"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04011010">
+<imgdir name="info">
+<canvas name="icon" width="27" height="25">
+<vector name="origin" x="-3" y="25"/>
+</canvas>
+<canvas name="iconRaw" width="27" height="22">
+<vector name="origin" x="-3" y="25"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="bagType" value="2"/>
+<int name="slotMax" value="1000"/>
 </imgdir>
 </imgdir>
 </imgdir>
