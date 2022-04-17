@@ -203,7 +203,7 @@ public class CommandsExecutor {
         addCommand("mylawn", MapOwnerClaimCommand.class);
         addCommand("bosshp", BossHpCommand.class);
         addCommand("mobhp", MobHpCommand.class);
-
+        addCommand("affinity", AffinityCommand.class);
         commandsNameDesc.add(levelCommandsCursor);
     }
 
