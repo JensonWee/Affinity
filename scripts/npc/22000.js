@@ -27,10 +27,10 @@ function action(mode, type, selection) {
             status--;
 
         if (status==0){
-                cm.sendSimple("I am All-in-one NPC. You can also type #r@npcs#k to open me up anywhere! #rNpc that are not on the list will be located in#k #bHenesys#k \r\n\
+            cm.sendSimple("I am All-in-one NPC. You can also type #r@npcs#k to open me up anywhere! #rNpc that are not on the list will be located in#k #bHenesys#k \r\n\
 #L9200000#Job Advance / World Tour\r\n\
 #L4#Reset Stats\r\n\
-#L9900000#Stlying\r\n\
+#L9900000#Stlying\r\n");
 
         }else if (status==1){
             if ( (!(selection == 4))&&(!(selection == 5)) ){
