@@ -56,43 +56,10 @@ public final class PetLootHandler extends AbstractPacketHandler {
         if (chr.isEquippedMagicScale()) {
             List<MapObject> items = chr.getMap().getMapObjectsInRange(chr.getPosition(), Double.POSITIVE_INFINITY, Arrays.asList(MapObjectType.ITEM));
             for (MapObject item : items) {
-                try {
                     MapItem mapitem = (MapItem) item;
-                    if (mapitem.getMeso() > 0) {
-                        if (!chr.isEquippedMesoMagnet()) {
-                            c.sendPacket(PacketCreator.enableActions());
-                            return;
-                        }
-
-                        if (chr.isEquippedPetItemIgnore()) {
-                            final Set<Integer> petIgnore = chr.getExcludedItems();
-                            if (!petIgnore.isEmpty() && petIgnore.contains(Integer.MAX_VALUE)) {
-                                c.sendPacket(PacketCreator.enableActions());
-                                return;
-                            }
-                        }
-                    } else {
-                        if (!chr.isEquippedItemPouch()) {
-                            c.sendPacket(PacketCreator.enableActions());
-                            return;
-                        }
-
-                        if (chr.isEquippedPetItemIgnore()) {
-                            final Set<Integer> petIgnore = chr.getExcludedItems();
-                            if (!petIgnore.isEmpty() && petIgnore.contains(mapitem.getItem().getItemId())) {
-                                c.sendPacket(PacketCreator.enableActions());
-                                return;
-                            }
-                        }
-                    }
-
                     chr.pickupItem(item, petIndex);
-
-
-                } catch (NullPointerException | ClassCastException e) {
-                    c.sendPacket(PacketCreator.enableActions());
                 }
-            }
+
         }else{
             MapObject ob = chr.getMap().getMapObject(oid);
             try {
