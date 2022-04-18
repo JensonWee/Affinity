@@ -14,6 +14,8 @@ public class HairNewGenerator {
         FileOutputStream out = new FileOutputStream("hairAndFacesID.txt", true);
         System.out.println("Loading Male Hairs!");
         sb.append("combineHair:\r\n");
+        int counter = 0;
+        int counter1 = 0;
         for (DataDirectoryEntry mDir : root.getSubdirectories()) {
             String dirName = mDir.getName();
             if (dirName.contentEquals("Hair")) {
@@ -22,11 +24,20 @@ public class HairNewGenerator {
                     if ((id >= 30000) && (id <= 40000) && id % 10 == 0) {
                         System.out.println(id);
                         sb.append(id).append(", ");
+                        counter++;
+                        if (counter >  99) {
+                            counter = 0;
+                            counter1++;
+                            sb.append("\r\n\r\n");
+                            sb.append("combineHair"+ counter1 +":\r\n");
+
+                        }
                     }
                 }
             }
         }
         sb.append("\r\n\r\n");
         out.write(sb.toString().getBytes());
+        System.out.println(counter);
     }
 }
