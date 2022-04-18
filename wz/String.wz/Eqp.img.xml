@@ -7327,9 +7327,6 @@
 <imgdir name="1004822">
 <string name="name" value="Floral Fireworks Hat"/>
 </imgdir>
-<imgdir name="1004823">
-<string name="name" value="????"/>
-</imgdir>
 <imgdir name="1004824">
 <string name="name" value="Well-Liked Barrette"/>
 </imgdir>
@@ -11187,9 +11184,6 @@
 </imgdir>
 <imgdir name="1102951">
 <string name="name" value="Popsicle Pals"/>
-</imgdir>
-<imgdir name="1102952">
-<string name="name" value="????"/>
 </imgdir>
 <imgdir name="1102953">
 <string name="name" value="Kamaitachi Tail"/>
@@ -61068,9 +61062,6 @@
 <imgdir name="1050433">
 <string name="name" value="Grand Pony Get-up"/>
 </imgdir>
-<imgdir name="1050434">
-<string name="name" value="????"/>
-</imgdir>
 <imgdir name="1050435">
 <string name="name" value="Midnight Suit"/>
 </imgdir>
@@ -62564,9 +62555,6 @@
 </imgdir>
 <imgdir name="1051501">
 <string name="name" value="Grand Pony Get-up"/>
-</imgdir>
-<imgdir name="1051502">
-<string name="name" value="????"/>
 </imgdir>
 <imgdir name="1051503">
 <string name="name" value="Pitch Dark Poem"/>
@@ -73533,9 +73521,6 @@
 </imgdir>
 <imgdir name="1073164">
 <string name="name" value="Winged Pony Boots"/>
-</imgdir>
-<imgdir name="1073165">
-<string name="name" value="????"/>
 </imgdir>
 <imgdir name="1073166">
 <string name="name" value="Bosshunter Greaves"/>
@@ -93777,9 +93762,6 @@
 </imgdir>
 <imgdir name="1592022">
 <string name="name" value="Genesis Ancient Bow"/>
-</imgdir>
-<imgdir name="1592023">
-<string name="name" value="????"/>
 </imgdir>
 <imgdir name="1592024">
 <string name="name" value="Special Marad Ancient Bow"/>
