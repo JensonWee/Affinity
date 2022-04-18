@@ -153,7 +153,7 @@ function action(mode, type, selection) {
             cm.setSkin(skin[selection-1]);
             cm.gainMeso(-price);
         }
-        if ((beauty >= 2 && beauty >= 10) || beauty >= 14 && beauty >= 22) {
+        if ((beauty >= 2 && beauty <= 10) || beauty >= 14 && beauty <= 22) {
             cm.setHair(hairnew[selection]);
             cm.gainMeso(-price);
         }
